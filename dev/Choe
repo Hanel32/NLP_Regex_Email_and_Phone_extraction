@@ -1,0 +1,559 @@
+<html>
+<head> 
+	<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=euc-kr">
+
+	<LINK REL=StyleSheet HREF="css/choe.css" TYPE="text/css" MEDIA=screen>
+	<link rel="SHORTCUT ICON" href="favicon.ico">
+
+	<title> Yoonsuck Choe, Ph.D. 최윤석</title> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29816801-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body bgcolor="#ffffff" link="000077" 
+	vlink="#000000">
+
+<p>
+<hr>
+<table border=0><tr><td bgcolor="white">
+<table border=0>
+<tr>
+<td colspan=2 bgcolor="white">
+<h2> Yoonsuck Choe, Ph.D.</h2>
+</td></tr>
+<tr><td align=top valign=top bgcolor="white">
+<!-- <a name="#me"></a><a href="images/00dec26-pic01d.jpg"><img align=topleft alt="Yoonsuck Choe: click here" border=0 src="images/yschoe8-3.jpg"></a></a> -->
+<a name="#me"></a><a href="images/yschoe8-3.html"><img align=topleft alt="Yoonsuck Choe" border=0 width="100" src="images/choe-2010-3.jpg"></a>
+</td>
+<td valign="top" bgcolor="white">
+		<!-- 322B Harvey R. Bright Bldg.<br> -->
+		Professor<br>
+		Department of Computer Science and Engineering<br>
+		Texas A&M University<br>
+		3112 TAMU<br>
+		College Station, TX 77843-3112<p>
+		<font size="-1">
+		<b>Curriculum Vitae</b> [<a href="docs/vita.ps">PS</a>/<a href="docs/vita.pdf">PDF</a>] <!--(<b>Updated: January 2008</b>)-->
+		</font>
+</td>
+<td valign="top" bgcolor="white">
+	<font size="-1">
+		<b>Office:</b> 322B Harvey R. Bright Bldg. (<a href="direction.html">Directions</a>)<br> 
+		<b>Phone:</b> 979-845-5466<br>
+		<b>Fax:</b> 979-847-8578<br>
+		<b>Email:</b> <a href="mailto:choe@tamu.edu">choe@tamu.edu</a><br>
+		<font color="#440000"><b>-</b> Please don't attach MS-word files:</font> <font color="#004400">send ASCII, html, ps, or pdf.</font><br> 
+		<font color="#440000"><b>-</b> I filter away emails containing <A href="deny.list">these strings</a>. </font> <p>
+		&nbsp;
+		&nbsp;
+		&nbsp;
+		&nbsp;
+		&nbsp;
+		&nbsp;
+		<a href="roots.html">Yoonsuck Choe's Academic Geneology</a> 
+	</font>
+</td>
+<!-- td>
+<img width=136 height=136 src="research/images/nov8-1.002500.map1-0.or.selec.center.gif" border=2><br>
+</td -->
+</tr></table>
+</td></tr></table>
+<hr>
+| <a href="#Research">Research</a> |
+<a href="#Publications">Publications</a> |
+<a href="#Software">Software</a> |
+<a href="#Demos">Demos</a> |
+<a href="#Teaching">Teaching</a> |
+<a href="#Advising">Students</a> |
+<a href="resources/">Resources</a> |
+<a href="#Personal">Personal</a>  
+<hr>
+<p>
+<font size="-1">
+Login required: | <a href="lab/">Lab Page</a> |
+<a href="reading/">Lab Reading List</a> |
+<a href="http://projects.cs.tamu.edu/choe/seminar/">Lab Seminar</a> |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>NEW:</b> Computing Innovation Fellows Project: <a href="http://cifellows.org/match/yoonsuck-choe-at-texas-am-university/">Mentor Profile!</a> (May 20, 2009)
+</font>
+<p>
+
+<table border=0 align="right">
+<tr><td>
+<a target="_top" href="http://www.computationalmaps.org">
+<img src="http://nn.cs.utexas.edu/computationalmaps/img/cover-icon-padded.jpg" alt="Computational Maps in the Visual Cortex (2005) Miikkulainen, Bednar, Choe, and Sirosh" align="right" border="0"></a>
+</td></tr>
+<tr><td align="center"><font size="-1" color="#508487"><i>Book (2005): click above</i></td></tr>
+<tr><td>Meetings organized:</td></tr>
+<tr><td width="150"><ul>
+
+<li><a href="ijcnn2013">IJCNN tutorial 2013</a>
+<li><a href="http://research.cs.tamu.edu/bnl/cns10/">CNS*2010 Workshop</a>
+	<li><a href="http://www.kocseaa.org/home/static_html/symposium09/">KOCSEA symposium</a>
+	<li><a href="http://faculty.cs.tamu.edu/choe/cimsvp09/">IEEE CIMSVP 2009 Panel
+	<li><a href="http://research.cs.tamu.edu/bnl/static/sfn08.html">SfN 2008 minisymposium</a>
+</td></tr>
+</table>
+
+<p>
+<!--center><p><font color="red"> <br>My Spring 2014         course (633) is currently full: file a force request on http://csnet.cse.tamu.edu. DO NOT send me an email. </font></p> </center-->
+<p>
+
+
+<h3> Affiliation </h3>
+<blockquote>
+	Professor, <a href="http://www.cs.tamu.edu">Department of Computer Science and Engineering</a>, <a href="http://www.tamu.edu">Texas A&M University</a>, September 2014&ndash;Present<p>
+	Associate Professor, <a href="http://www.cs.tamu.edu">Department of Computer Science and Engineering</a>, <a href="http://www.tamu.edu">Texas A&M University</a>, September 2007&ndash;August 2014<p>
+	Assistant Professor, <a href="http://www.cs.tamu.edu">Department of Computer Science</a>, <a href="http://www.tamu.edu">Texas A&M University</a>, September 2001&ndash;August 2007<p>
+	Member, Graduate Faculty, School of Graduate Studies, Texas A&M Health Science Center, June 2011&ndash;Present (CSCE students: do not count me as an external member of your M.S./Ph.D. committee)<p>
+	Director, <a href="http://research.cs.tamu.edu/bnl">Brain Networks Laboratory</a> (at Texas A&M), September 2005-Present (Member: September 2001-2004).
+</blockquote>
+
+
+<h3> Education </h3>
+<blockquote>
+	Ph.D. in 
+	<a href="http://www.cs.utexas.edu/">Computer Science</a>, <a href="http://www.utexas.edu">The University of Texas at 
+	Austin</a>, Austin, TX, August 2001.<br>
+	M.A. in Computer Science, 
+	The University of Texas at 
+	Austin, Austin, TX, December 1995.<br>
+	B.S. in <a href="http://cs.yonsei.ac.kr">Computer Science</a>, <a href ="http://www.yonsei.ac.kr/">Yonsei University</a>, Seoul, 
+	<a href="http://korea.insights.co.kr">Korea</a>, 
+	August 1993.
+</blockquote>
+
+<a name="Research"></a>
+<p>
+<h3>Research [interests/projects/software/demo]</h3> 
+<p>
+<ul>
+	<li> Participating laboratories:
+	<ol>
+		<li> <a href="http://research.cs.tamu.edu/bnl">Brain Networks Laboratory</a> (at Texas A&M), September 2001-Present.
+	</ol>
+	<p>
+	<li> Interests:
+	<ol>
+		<li> neural networks: self-organizing maps, pulsed neural networks.
+		<li> influence of feature co-occurrence statistics (from natural images) in cortical structure and functional performance.
+		<li> computational neuroscience: cortical modeling with neural networks.
+		<li> human visual perception and computer vision: role of visual analogies in visual perception, and symbol grounding.
+		<li> neural basis of analogical processing.
+		<li> the role of action and imitation in perception and concept formation.
+		<li> more generally, <a href="http://www.aaai.org">artificial intelligence</a> and <a href="http://carbon.cudenver.edu/~mryder/itc_data/cogsci.html">cognitive science</a>
+		<li> <a href="http://www.cs.utexas.edu/users/yschoe/research/">Longer (and older) research description</a>
+	</ol>
+	<p>
+
+	<li> Projects/Grants:
+		<ol>
+	<li> Enhanced Knife-Edge Scanning
+Microscopy for Sub-micrometer Imaging of Whole Small Animal Organs 
+	(funded by NSF #1256086; PI: Choe; Co-PIs: Louise C. Abbott 
+        and John Keyser). 6/1/2013--5/31/2015.
+	<li> CRCNS Data Sharing: Open Web Atlas for High-Resolution 3D Mouse Brain Data (funded by NSF #1208174; PI: Choe; Co-PIs:  Louise C. Abbott 
+        and John Keyser). 9/1/2012--8/31/2014.
+	<li> 
+		CRCNS data sharing: Whole Mouse Brain Neuronal Morphology and Neurovasculature Browser (funded by NSF #0905041; Co-PIs: Louise C. Abbott 
+	and John Keyser).
+		<li> <a href="http://research.cs.tamu.edu/bnl">
+        MSM: Multiscale Imaging, Analysis, and Integration of Brain
+        Networks</a> (funded by NIH/National Institute of Neurological Disorders
+and Stroke #1R01-NS54252;  Co-PIs: Louise C. Abbott, John Keyser, Bruce H. McCormick; Stanford, PI: Stephen J. Smith).
+
+		<li> <a href="http://www.topographica.org">Topographica Project</a>: 
+Cortical simulator project (funded by NIH Human Brain Project #1R01-MH66991; Subcontract PI). <a href="http://www.nimh.nih.gov/neuroinformatics/miikkulainen.cfm">Page at NIMH describing the project.</a>
+		<li> <a href="http://research.cs.tamu.edu/bnl">Knife Edge Scanning Microscope Project</a>: Brain imaging device at the Brain Networks Lab (BNL is funded by <a href="http://research.cs.tamu.edu/bnl/grants.htm">NSF and THECB ARP/ATP</a>).
+		<li> <u>Statistical/Bio-Physical image processing project:</u> 
+			funded by THECB ARP/ATP (#000512-0217-2001; Co-PI).
+		</ol>
+	
+	<p>
+		<li> Software
+			<ol> <li> <a href="src/pglissom-1.3-beta.tar.gz">PGLISSOM v1.3-beta package</a> (<a href="src/pglissom-1.3-beta.README">README</a>); <b>updated</b> 6/3/04 
+			     <li> <a href="http://www.topographica.org">Topographica</a>, a cortical map simulator (NIMH Human Brain Project funded).
+			     <li> <a href="src/">Other Software</a> (backprop, etc.)
+			</ol>
+	<p>
+		<li> Demos:
+		<ol>
+		<li> <a href="demo/sida">Sensory-invariance driven action demo</a> <font color="red">New (9/2004)</font>
+		<li> <a href="demo/pglissom">Demo of PGLISSOM</a> (5/13/2002).
+		<li> <a href="http://www.cs.utexas.edu/users/yschoe/research/">More demos</a> (at UT).
+		</ol>
+<p>
+
+	<li> Collaborators/Affiliated Labs:
+	<ol>
+		<li> Dr. John Keyser (TAMU CSE)
+		<li> Dr. Peng Li (TAMU ECE)
+		<li> Dr. Takashi Yamauchi (TAMU Psychology)
+		<li> Dr. Louise Abbott (TAMU Veterinary Medicine)
+		<li> <a href="http://www.cs.utexas.edu/users/nn">UTCS Neural Networks Research Group</a>: Cortical map simulator Topographica project (NIH #1R01-MH66991; PI on a subcontract from the University of Texas at Austin).
+		<li> <a href="http://www.cs.tamu.edu/faculty/jcliu">Dr. Steve Liu</a> (TAMU CS): Image retrieval project (Texas ARP/ATP #000512-0217-2001; Co-PI).
+		<li> <a href="http://www.cs.tamu.edu/research/bnl/">
+			Brain Networks Lab </a> (TAMU CS): Brain tissue scanner project (NSF and Texas ARP/ATP funded; not a PI on this project).
+	</ol>
+	<p>
+
+	<li> Other curiosities: 
+	<ol>
+	<li><a href="extra/filling-in">Visual filling-in phenomena</a>.
+	</ol>
+	<p>
+
+
+</ul>
+
+<a name="Publications"></a>
+<h3>Publications</h3>
+	<ul>
+		<li> current publications (2002-current):
+		<ol>
+			<li>	<a href="publications/publications.html">
+				by medium</a> (journals, conferences, etc.)
+			<li> 	<a href="publications/bytopic.html"> 
+				by topic</a>
+			<li> 	<a href="publications/byyear.html"> 
+				by chronological order</a>
+		</ol>
+		<li> older publications (1995-2002):
+		<ol>
+			<li>	<a href="publications/oldpubs.html">
+				by medium</a> (journals, conferences, etc.)
+			<!--li> 	<a href="publications/oldpubs-bytopic.html"> 
+				by topic</a-->
+		</ol>
+		<li> Ph.D. dissertation (August 2001): <a href="ftp/choe.diss.abstract.html">abstract</a> and <a href="ftp/choe.diss.pdf">PDF</a>, <a href="ftp/choe.diss.ps.Z">PS (compressed)</a> download
+	</ul>
+
+<p>
+
+<a name="Software"></a>
+<h3>Software</h3> 
+<ul>
+		<li> Software
+			<ol> <li> <a href="src/pglissom-1.3-beta.tar.gz">PGLISSOM v1.3-beta package</a> (<a href="src/pglissom-1.3-beta.README">README</a>); <b>updated</b> 6/3/04 (See the <a href="demo/pglissom">Demo</a>.)
+			     <li> <a href="http://www.topographica.org">Topographica</a>, a cortical map simulator (NIMH Human Brain Project funded).
+			     <li> <a href="src/">Other Software</a> (backprop, etc.)
+			</ol>
+</ul>
+
+<a name="Demos"></a>
+<h3>Demos</h3>
+<ul>
+
+		<li> Demos:
+		<ol>
+		<li> <a href="demo/sida">Sensory-invariance driven action demo</a> <font color="red">New (9/2004)</font>
+		<li> <a href="demo/pglissom">Demo of PGLISSOM</a> (5/13/2002).
+		<li> <a href="http://www.cs.utexas.edu/users/yschoe/research/">More demos</a> (at UT).
+		</ol>
+</ul>
+
+<a name="Advising"></a>
+<h3>Advising (Students et al.)</h3>
+<p>
+* See the <a href="http://faculty.cs.tamu.edu/choe/publications/bytopic.html#theses">publications page</a> for a list of theses and dissertations.
+</p>
+<ul> 
+<li> Ph.D. student(s): [LINK] <b><a href="publications/publications.html#phd">List of
+			Ph.D. Dissertations</a>
+			</b>
+	<ol>
+		<li> <a href="http://students.cs.tamu.edu/yingweiy">Yingwei Yu</a>: PhD (CS). Graduated, 8/2006. Seismic Micro-technology, Houston, TX. 
+		<li> <a href="http://students.cs.tamu.edu/hjlim">Heejin Lim</a>: PhD (CS).Graduated, 8/2006. University of Texas Medical School at Houston (post doc). Now an adjunct professor at Prairie View A&amp;M University.
+		<li> Hao Xiong: PhD (CS). Graduated 12/2008. UCSF medical school (post doc). Now at UC Berkeley (post doc).
+		<li> Choon Seog Park: PhD (CE). Graduated 8/2009. Republic of Korea Army.
+		<li> <a href=" http://www.jrkwon.com">Jae Rock Kwon</a>: PhD (CE). Graduated 8/2009. Associate professor at
+		Kettering University.
+		<li> Donghyeop Han: PhD (CS). Graduated 8/2009. Samsung Electronics.
+		<li> Heeyoul "Henry" Choi: PhD (CS). Graduated 5/2010. Postdoc at Indiana University, Bloomington (Dr. Chen Yu's lab). Now at Samsung.
+		<li> Huei-Fang Yang: PhD student (CS). Graduated 8/2011. INRIA Sophia Antipolis (Postdoc). Academia Sinica, Taiwan (Postdoc, current).
+		<li> Ji Ryang Chung: PhD (CS). Graduated 12/2011. Samsung Electronics.
+		<li> Timothy Mann: PhD student (CS). Graduated 12/2012. Postdoc at Technion (Prof. Shie Mannor's lab). Google DeepMind (2015-).
+		<li> Chul Sung: PhD student (CS). Graduated 5/2014. IBM Research, Austin, TX.
+		<hr>
+		<li> Jaewook Yoo: PhD student (CS). 2012 Fall -- present
+		<li> Michael Nowak: PhD student (CS). 2013 Fall -- present
+		<li> Junseok Lee (CS): PhD student. 2013 Fall -- present
+		<li> Han Wang (CS): PhD student. 2013 Spring -- present
+		<li> Randall Reams (CS): PhD student. 2014 Fall -- present
+		<li> Khoung Nguyen (CS): PhD student. 2016 Spring -- present
+		<li> Qing Wan (CS): PhD student. 2016 Fall -- present
+	</ol>
+
+<li> Master students:
+		 [LINK] <b><a href="publications/publications.html#ms">List of
+				M.S. Theses</a></b>
+	<ol>	
+		<li> <a href="http://students.cs.tamu.edu/sarvanik">S. Kumar 
+Bhamidipati</a> (CE): graduated 5/2004. Microsoft.
+
+		<li> <a href="http://students.cs.tamu.edu/s0o0729">Sejong Oh</a> (CS): graduated 8/2004. the Republic of Korea Air Force.
+
+		<li> <a href="http://students.cs.tamu.edu/sps8556">Subramonia P. Sarma</a> (CS): graduated 12/2004. Amazon. Now at Microsoft.
+
+		<li> Navendu Misra (CS): graduated 8/2005. Visa/Paypal.
+		<!--li> Aravind Aluri (CS; Co-advised by Bruce H. McCormick). -->
+		<li> Hari Shankar Muddana (CS; Co-advised by Bruce H. McCormick): graduated 8/2006. Penn State U. (Ph.D.). UCSD (postdoc).
+		<li> Bumsoon Jang (CS): graduated 8/2007. Republic of Korea Army.
+		<li> Jyothi Swaroop Guntupalli (CS; Co-advised by Bruce H. McCormick): graduated 12/2007. <!-- Seismic Microtechnology, Inc., Houston. Now at  IHS, Houston. --> Ph.D., Dartmouth (2013), Postdoc, Dartmouth (current).
+		<li> Yoon H. Bai (CS): graduated 8/2008. University of Texas at Austin (Ph.D. program in psychology).
+		<li> Daniel C.-Y. Eng (CS): graduated 12/2008. PDX, Inc.
+		<li> Dongkun Kim (CS): graduated 8/2011. Republic of Korea 
+			 Army.
+		<li> Jinho Choi (CS): graduated 8/2013.  Republic of Korea Army.
+		<li> Ananth Dileepkumar (CS):
+			graduated 8/2014. Cisco <!--2013 Fall  -->
+		<li> Raj Shah (CS): 
+			MS student. 2012 Fall -- 2014 Fall. FactSet.
+		<li> Wenjie Yang (CS): 
+			MS student. 2013 Spring -- 2014 Fall. Yahoo.
+		<li> Wencong Zhang (CS):
+			MS student. 2013 Spring -- 2014 Fall. Google.
+		<li> Shashwat Lal Das (CS): 
+			MS student. 2013 Spring -- 2014 Fall. Google.
+		<li> Manisha Srivastava (CS):
+			MS student. 2013 Spring -- 2015 Summer. Tripadvisor.
+		<li> Ankur Singhal (CS):
+			MS student. 2013 Fall -- 2015 Summer. Bloomberg.
+		<li> Amey Parulkar (CS):
+			MS student. 2014 Fall -- 2015 Summer. <!--FactSet.--> Microsoft.
+		<li> Sungjune Lim (CS):
+			MS student. 2014 Spring -- 2015 Summer. 
+		<li> Qinbo Li (CS):
+			MS student. 2014 Spring -- 2016 Summer. Texas A&amp;M Ph.D. program
+		<li> Wookyung An (CS):
+			MS student. 2014 Spring -- 2016 Summer. Hyundai Motor Co.
+		<!--li> Mitchell Priour (CS):
+			MS student. 2014 Fall -- current -->
+		<!--li> Prannay Jain (CS):
+			MS student. 2015 Spring (co-advised by
+		Dr. Hye-Chung Kum, TAMU HSC Health Policy and Management). -->
+		<!--li> Sushirdeep Narayana (CS):
+			MS student. 2015 Spring  current (co-advised by
+		Dr. Hye-Chung Kum, TAMU HSC Health Policy and Management).
+		<li> Aksshita Sharma (CS):
+			MS student. 2015 Spring  current.
+		-->
+		<hr> 
+		<li> Visiting student: Michael Freitag (University of Passau, Germany. Fullbright scholar: 2015-2016).
+		<li> Others (MCS): Helga Kocurek (CS/Philosophy: graduated 12/2007); Noah Smith (CS: graduated 8/2007) ;<!--Yoosun Song (CS): MCS student;
+		Che-Hao Chen (CS): MCS student. 2011 Fall 2013 Fall. -->
+		<!--Ting Chen (CS): MCS student. 2015 Summer.-->
+		<!-- Deep Desai, Xiaofei Long, Shalini, Aksshita Sarma -->
+		<!--li> Arijit Upadhyaya (CS):
+			MS student. 2014 Spring 
+		 Shalini (CS):
+			MS student. 2015 Spring  current.
+		-->
+	</ol>
+<li> Undergraduate students
+	<ol> 
+		<li> Brad Busse (CS): Summer 2003.
+		<li> Jeff Cheak (CS): Summer 2003.
+		<li> Josh Elkin (CE): Spring 2004.
+		<li> Gabriel Marquez (UT El Paso, CS): Summer 2003 Undergraduate
+		Summer Research Grant program (TAMU College of Engineering sponsored).
+		<li> J. Perry Evans (Rose-Hulman Inst. Tech., CS): Summer 2004, NSF REU.
+		<li> Maritza Johnson (U of San Diego, CS): Summer 2004, CRA-W DMP (co-supervisor: Ricardo Gutierrez-Osuna).
+		<li> Stuart Heinrich (U of Vermont, CS): Summer 2005, NSF REU.
+		<li> Andrew Jones (CE): Summer 2005, TAMU COE USRG.
+		<li> Tim Mann (SUNY Potsdam, CS): Summer 2006, NSF REU.
+		<li> Erica Bolan (Carlton U, CS): Summer 2006, CRA-W DMP.
+		<li> Daniel Eng (CS): Fall 2006, CPSC 485
+		<li> Steven Snyder (CS): Summer 2007, NSF REU 
+		<li> Gen Kazama (McGill, CS): Summer 2008, NSF REU (co-advised with John Keyser)
+		<li> Kasra Manavi (U of NM, CS): Summer 2008, NSF REU (co-advised with John Keyser)
+		<li> Sam Anzaroot (CUNY, CS): Summer 2009, NSF REU (co-advised with John Keyser)
+		<li> Aaron Panchal (Westmont U, CS): Summer 2010, NSF REU (co-advised with John Keyser).
+		<li> Janelle Fawver (TAMU, Biochem): Summer 2010, NSF REU (co-advised with John Keyser).
+		<li> Christopher Sinks (U of MO, Biomedical Engineering): Summer 2011, TAMU COE USRG.
+		<li> Jonathan Garcia (TAMU, Biomedical Engineering): Summer
+	2011, NSF REU.
+		<li> Jinsoo Kim (TAMU, Computer Science): Spring 2013. Summer 2013 TAMU COE USRG. 
+		<li> Mitchell Priour (TAMU, Psychology/Neuroscience): Spring 2013. Summer 2013 NSF REU
+		<li> Marco Antonio Blanco Cocom (Instituto
+		Technol&oacute;gico Superior Progreso, Mexico; Computer Science ): Summer 2014.
+		<li> Rachel Dorn (TAMU, Psychology/Neuroscience): Spring 2013--Spring 2014. 
+		<li> Jeff Harrison (TAMU, Computer Science): Summer 2014--Fall 2014.
+		<li> Andrew Laramore (TAMU, Computer Science): Spring 2015.
+		<li> Dimitri Dobroskok (TAMU, Biomedical Engineering): Summer 2015.
+		<li> Cassandra Bub (TAMU, Computer Science): Fall 2016.
+		<li> Juliang Li  (TAMU, Computer Science): Fall 2016.
+		<hr>
+	</ol>
+</ul>
+<p>
+
+<a name="Guests and Visitors"></a>
+<h3> Guests and Visitors </h3>
+<ul> 
+<li>
+Visiting scholars and visiting students
+<ol>
+	<li> Suhan Ree (Kongju National University, Korea: 2006--2007)
+	<li> Heung Shik Kim (Inje University, Korea: 2006--2007)
+	<li> Changhee Han (Korea Military Academy, Korea: 2009--2010)
+	<li> Kwanyong Lee (Korea Open University, Korea: 2009--2010)
+	<li> Hyeyoung Park (Kyungpook National University, Korea: 2009--2010)
+	<li> Eunkyeong Kwon (Kyewon School of Art and Design, Korea: 2011--2012)
+	<li> Danhee Yang (Pyeongtaek University, Korea: 2012-2013)
+	<li> Sang Heon Lee (Daegu Gyeongbuk Institute of Science and Technology, Korea: 2014)
+	<li> Namhoon Kim (Dongyang Mirae University, Korea: 2016).
+	<li> Changyeol Yum (National IT Industry Promotion Agency, Korea: 2016--2017).
+	<li> Jin Wook Kim (Korea Open University, Korea: 2017-2018).
+</ol>
+
+<p>
+<li>
+Short-term visitors
+<ol>
+	<li> Kooseung (Bryan) Chung (McLean High School, McLean, VA: July 2016)
+	<li> Jin Park (Korean Army: 12/2010)
+	<li> Soyeon Park (Yonsei University: 12/2007--1/2008)
+</ol>
+</ul>
+
+<a name="Teaching"></a>
+<h3> Teaching </h3>
+<blockquote>
+
+	<b>Calendar</b> (<a href="http://registrar.tamu.edu/general/calendar.aspx">TAMU Academic Calendar</a>)
+	<p>
+  	<b>Current</b>
+	<ul>
+		<li> Spring 2016: <a href="http://courses.cs.tamu.edu/choe/17spring/636">CSCE 636. Neural Networks.</a> TR 8am-9:15am. HRBB 113.
+		<li> Spring 2016: 
+	<a href="http://courses.cs.tamu.edu/choe/17spring/633">CSCE 633. Machine Learning.</a> TR 11:10am-12:25pm. THOM 107A. 
+	</ul>
+
+  	<b>Future</b>
+	<ul> 
+		<li> TBD
+	</ul> 
+
+	<b> Past </b>
+	<ul>
+		<li> Fall 2016: <a href="http://courses.cs.tamu.edu/choe/16fall/625">CSCE 625 Artificial Intelligence</a> TR 3:55pm-5:10pm, ETB 1020.
+		<li> Spring 2016: <a href="http://courses.cs.tamu.edu/choe/16spring/315/">CSCE 315 Programming Studio.</a><b>Lectures</b>: MWF 1:50pm-2:40pm, HRBB 124. <b>Labs</b>: 315-207 (honors: TR 12:45pm-2pm, RDMC 111J) 315-509 (TR 11:10am-12:00pm, RDMC 111J).
+		<li> Spring 2016: <a href="http://courses.cs.tamu.edu/choe/16spring/636/">CSCE 636 Neural Networks</a>. MWF 11:30am-12:20pm. ETB 1020.
+		<li> Fall 2015: <a href="http://courses.cs.tamu.edu/choe/15fall/315">CSCE 315 Programming Studio.</a> TR 12:45pm-2:00pm. HRBB 124.
+			Labs: MW 3-3:50pm, 4:10-5pm, 5:45-6:35pm. RDMC 111C.
+		<li> Spring 2015: <a href="http://courses.cs.tamu.edu/choe/15spring/633">CSCE 633 Machine Learning</a>. TR 3:55pm-5:10pm. ETB 1020.
+		<li> Spring 2015: <a href="http://courses.cs.tamu.edu/choe/15spring/636">CSCE 636 Neural Networks</a>. TR 2:20pm-3:35pm. HRBB 113.
+		<li> Fall 2014: <a href="http://courses.cs.tamu.edu/choe/14fall/315/">CSCE 315 Programming Studio</a>. Lecture: MWF 3-3:50pm HRBB 124. Labs: section 501 MW 4:10pm-5:00pm; section 502: MW 5:45pm-6:35pm; section 503: TR 12:45pm-1:35pm RDMB 111C.
+		<li> Summer 2014: <a href="http://courses.cs.tamu.edu/choe/14summer/315">CSCE 315 Programming Studio.</a>
+	CSCE 315-100. Lecture MTWRF 2:00pm-3:35pm, HRBB 113. Labs MTWR 4:00pm-5:20pm. RDMC 111C 6/2-7/7.
+	<li> Spring 2014: 
+		<a href="http://courses.cs.tamu.edu/choe/14spring/633">
+CSCE 633-600 Machine Learning</a>. 
+		Lecture: MWF 11:30am-12:20pm (ETB 1020). 
+	<li> Fall 2013: <a href="http://courses.cs.tamu.edu/choe/13fall/315">CSCE 315:501,502,503 Programming Studio</a>. 
+	Lecture: MWF 3-3:50pm (CHEN 106). Labs: MW 4:10-5:00pm (RDMC 111C), <strike>TR 11:10am-12:00pm, </strike> MW 5:45pm-6:35pm (RDMC 111H),
+	TR 3:55pm-4:45pm (RDMC 111C).
+	<li> Fall 2013: <a href="http://courses.cs.tamu.edu/choe/13fall/625">CSCE 625-600 Artificial Intelligence</a>. MWF 
+	9:10am-10:00am (HRBB 113).
+	<li> Fall 2013: 8/26-12/11/2013.
+		<li> Spring 2013: <a href="http://courses.cs.tamu.edu/choe/13spring/633">CSCE 633-600 Machine Learning</a> (non-CS students: you don't need to login). MWF 
+		10:20am-11:10am ZACH 105B
+	<li> Fall 2012: <a href="http://courses.cs.tamu.edu/choe/12fall/315">CSCE 315 Programming Studio</a>. MWF 1:50pm-2:40pm. ARCC 105. Labs: 
+MW 3:00pm-3:50pm [501], 11:30am-12:20pm [502], 4:10pm-5:00pm [503], RDMC 
+111C.
+	<li> Fall 2012:
+		<a href="http://courses.cs.tamu.edu/choe/12fall/644">CSCE 644 Cortical Networks</a>. MWF 3:00pm-3:50pm. HRBB 126.
+	<li> Summer 2012 (first term): <a href="http://courses.cs.tamu.edu/choe/12summer/315">CSCE 315 Programming Studio.</a> MTWRF 2:00pm-3:35pm, HRBB 126. Lab: MTWR 4:00pm-5:20pm  RDMC 111C.
+	<li> Spring 2012: <a href="http://courses.cs.tamu.edu/choe/12spring/636">CSCE 636 Neural Networks</a>. TR 9:35-10:50am. HRBB 126.
+	<li> Spring 2012: 
+	<a href="http://courses.cs.tamu.edu/choe/12spring/181">CSCE 181 Introduction to Computing</a>. TR 2:20-3:35pm. HRBB 124.
+	<li> Fall 2011: <a href="http://courses.cs.tamu.edu/choe/11fall/315">315-501/502/503/504</a>.  MWF 1:50p-2:40p (lecture: HRBB 113); TR 11:10am-12:00pm (lab: RDMC 111C)
+	<li> Spring 2011: <a href="http://courses.cs.tamu.edu/choe/11spring/633">633-600 Machine Learning</a>. TR 09:35 am-10:50 am, HRBB 113. 
+	<li> 
+	Fall 2010: <a href="http://courses.cs.tamu.edu/choe/10fall/625">625-600  Artificial Intelligence</a>. TR 2:20pm-3:35pm, HRBB 113.
+	
+	<li>
+	Fall 2010: <a href="http://courses.cs.tamu.edu/choe/10fall/315">315-501/503 Programming Studio</a>. TR 3:55pm-5:10pm (lecture, HRBB 113), MW 12:40pm-1:30pm (lab section 503, RDMC 111C), MW 4:10pm-5:00pm (lab section 501, RDMC 111C). 
+	
+	<li> Spring 2010: 
+	<a href="http://courses.cs.tamu.edu/choe/10spring/644">
+	644-600 Cortical Networks</a>, TR 5:30pm-6:45pm. HRBB 104.
+	<li> Spring 2009: <a href="http://courses.cs.tamu.edu/choe/09spring/633">633-600 Machine Learning</a>. MWF 9:10am-10:00am, HRBB 126. [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=bqPHRw6nsa1kTVL+FzBjvUKT0WCNy5Nx&type=M">Registration status</a>]
+		<li> Fall 2008: <a href="http://courses.cs.tamu.edu/choe/08fall/625">625-600 Artificial Intelligence.</a>  TR 11:10AM-12:25PM HRBB 113  [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=K22FPSHrTqzj5CyE1ih01oWETv7QBRNY&type=M">Registration status</a>]
+		<li> Fall 2008: <a href="http://courses.cs.tamu.edu/choe/08fall/420">420-500 Artificial Intelligence</a>.  TR 12:45PM-02:00PM HRBB 113 [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=K22FPSHrTqy1auorNne1Q9If1TvdtOOi&type=M">Registration status</a>]
+		<li> Spring 2008: <a href="http://courses.cs.tamu.edu/choe/08spring">636-600 Neural Networks</a>. TR 12:45pm-2:00pm HRBB 126. [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=K22FPSHrTqwReOg4cGfFdDbzhEHd78+s&type=M">Registration status</a>]
+		<li> Fall 2007: <a href="http://courses.cs.tamu.edu/choe/07fall/625">625-600 Artificial Intelligence.</a>  MWF 12:40PM-01:30PM HRBB 126 [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=6Eyt3OOAaP5yk+CS93P0XhGyoy5Z9y3t">Registration status</a>]
+		<li> Fall 2007: <a href="http://courses.cs.tamu.edu/choe/07fall/420">420-500 Artificial Intelligence</a>.  MWF 10:20AM-11:10AM HRBB 113 [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=6Eyt3OOAaP7C3Bl5cwnZW84kIPwdzx9W">Registration status</a>]
+		<li> Spring 2007: <a href="http://courses.cs.tamu.edu/choe/07spring/633">633-600 Machine Learning</a>
+			MWF 10:20am-11:30am HRBB 104. [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=6Eyt3OOAaP4mKKDDlryRnvUPsvTIMiR7&type=M">Registration status</a>]
+		<li> Spring 2007: <a href="http://courses.cs.tamu.edu/choe/07spring/644">644-600 Cortical Networks</a>
+			MWF 1:50pm-2:40pm HRBB 126.
+		[<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=6Eyt3OOAaP4mKKDDlryRnutJrHNQb2iG&type=M">Registration Status</a>]
+
+	
+	<li> Fall 2006: <a href="http://courses.cs.tamu.edu/choe/06fall">420-500 Artificial Intelligence.</a>  TR 12:45PM-02:00PM ZACH 105B [<a href="http://courses.tamu.edu/ViewSections.aspx?type=M&campus=CS&x=hvm4MX4PXIYG4wMk4csklJV1posxOqlq">Registration status</a>]
+		<li> Spring 2006: <a href="http://courses.cs.tamu.edu/choe/06spring/633">633-600 Machine Learning</a>, [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=hvm4MX4PXIZQ6eh280YELmKbiDuBxzNK&type=M">Registration status</a>]
+		<li> Spring 2006: <a href="http://courses.cs.tamu.edu/choe/06spring/420">420-500 Artificial Intelligence</a>, [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=hvm4MX4PXIb2leYVGDFcvXIUQA6wpxxm&type=M">Registration status</a>]
+	<li> Fall 2005: <a href="http://courses.cs.tamu.edu/choe/05fall">625-600 Artificial Intelligence</a> (T/Th 11:10am--12:25pm, ZACH 105B) [<a href="http://courses.tamu.edu/ViewSections.aspx?campus=CS&x=KVT3GSswMslRK5UqG3KBaD7glMonxYdu&type=M">Registration Status</a>]
+
+		<li> Spring 2005: <a href="http://courses.cs.tamu.edu/choe/05spring/689">CPSC 689-603 Computations in Neural and Biological 
+		Systems</a>
+
+		<li> Spring 2005: <a href="http://courses.cs.tamu.edu/choe/05spring/420">CPSC 420-200 (honors) Artificial Intelligence</a>
+		<li> Fall 2004: <a href="http://courses.cs.tamu.edu/choe/04fall">CPSC 625-600 Artificial Intelligence</a>   TR 12:45PM-02:00PM HRBB 113
+		<li> Spring 2004: <a href="http://courses.cs.tamu.edu/choe/04spring/420">CPSC 420-200 Artificial Intelligence (honors).</a>
+		<li> Spring 2004: <a href="http://courses.cs.tamu.edu/choe/04spring/689">CPSC 689-603 Special Topics in Intelligent
+			Neural Systems. (graduate seminar).</a>
+		<li> Fall 2003: <a href="http://courses.cs.tamu.edu/choe/03fall">CPSC 420-502 Artificial Intelligence</a>: T/TH 9:35-10:50am, ZACH 105B.
+		<li> Spring 2003: <a href="http://courses.cs.tamu.edu/choe/03spring"> CPSC 689 Intelligent Neural Systems (Graduate Seminar)</a>
+
+		<li> Fall 2002 : <a href="courses/02fall/625">CPSC 625 Artificial Intelligence (Graduate)</a>
+		<li> Fall 2002 : <a href="courses/02fall/420">CPSC 420 Artificial Intelligence (Undergraduate)</a>
+		<li> Spring 2002 : <a href="courses/02spring">CPSC 320-400 Artificial Intelligence (Undergraduate Honors)</a>
+	</ul>
+</blockquote>
+<p>
+<!--a name="Service"></a>
+<h3> Service </h3>
+	<ul> 
+		<li> Editorial board: Neural Networks, IEEE Transactions on Neural Networks and Learning Systems, <a href="http://www.nip-lr.info/">Neural
+		Information Processing - Letters and Reviews</a>
+		<li> Program committees: <a href="http://www.brain.kyutech.ac.jp/~wsom/">WSOM 2003</a>, <a href="http://www.iasted.com/conferences/2004/switzerland/c413.htm">NCI 2004</a>, <a href="http://www.aicml.cs.ualberta.ca/banff04/icml/">ICML 2004</a>. <a href="http://cis-ram.nus.edu.sg/">IEEE CIS 2004</a>. <a href="http://www.iasted.com/conferences/2005/calgary/c487.htm">CI 2005</a>. <a href="http://samos.univ-paris1.fr/wsom/wsom05.html">WSOM 2005</a>.
+	</ul>
+<p-->
+<a name="Resources"></a>
+<h3> Resources </h3>
+	<ul> 
+		<li> <a href="resources/">Research, tools, learning material, journals, and conferences.</a>
+	</ul>
+<p>
+<a name="Personal"></a>
+<h3> Personal </h3>
+
+	<ul>
+	<li> This is how I write my name in Hangul: 
+<img src="images/name-hangul.gif" align="center" alt="최윤석">
+	<li><a href="fun/inversion.shtml">Fun Stuff (inversions)</a>
+	<li><a href="extra/">Extracurricular stuff</a>: linux, etc.
+	</ul>
+<p>
+<hr>
+<i>Last Updated</i> : <!-- Mon Sep 29 03:57:16 CDT 1997 -->
+<!--#echo var="LAST_MODIFIED"-->
+ <!--img src="/cgi-bin/Count.cgi?prgb=ffffff&ft=0&df=choe.dat&dd=D" align="absmiddle"--> hits since 10/2001.
+<p>
+</html>
+
+

@@ -1,0 +1,103 @@
+<!DOCTYPE HTML SYSTEM "html.dtd">
+<HTML>
+<HEAD><TITLE>Dr. Thomas R. Ioerger</TITLE></HEAD>
+
+<BODY>
+
+<H1>Thomas R. Ioerger</H1> 
+<!-- IMG SRC="tom5.jpg" -->
+<!-- IMG SRC="tom99.jpg" -->
+<!-- <IMG SRC="ioerger-feb-03.jpg"> -->
+<IMG SRC="ioerger-tie.jpg">
+
+<H2>Associate Professor</H2>
+
+<P>
+<A HREF="http://www.cs.tamu.edu">Department of Computer Science</A><BR>
+<A HREF="http://www.tamu.edu">Texas A&amp;M University</A><BR>
+301 H.R. Bright Building<BR>
+3112 TAMU<BR>
+College Station, TX 77843-3112</P>
+
+<IMG SRC="small_seal.gif">
+
+<P><B>Office: </B> 322C H. R. Bright Building<BR>
+<B>Phone: </B> <!-- (979) 845-0161 --><BR> 
+<B>Fax: </B><!-- (979) 847-8578--><BR>
+<B>Email: </B>ioerger@cs.tamu.edu</P>  
+
+<!--
+<P> I am affiliated with the
+<A HREF="http://www.cs.tamu.edu/research/CFL/">Center for Fuzzy Logic,
+Robotics, and Intelligent Systems</A>. 
+-->
+
+<!--
+<P> I am affiliated with the
+<A HREF="http://reddrum.tamu.edu/~mack/saclab/">Center for Structural Biology</A>. 
+<P>
+-->
+
+<HR>
+
+<H2> General Information </H2>
+
+<UL>
+<!-- <LI><A HREF="bio.short.html">Biography</A> -->
+<!-- <LI><A HREF="bio.1999-2.html">Biography</A> -->
+<LI><A HREF="bio-2003.html">Biography</A>
+<LI><A HREF="education.html">Education</A>
+<LI><A HREF="pubs.html">Publications</A>
+<LI><A HREF="courses.html">Courses</A>
+<!--
+<LI><A HREF="research.html">Research</A>
+<LI><A HREF="activities.html">Professional Activities</A>
+<LI><A HREF="bands.html">Bands I've Played In</A>
+<LI><A HREF="ftp">Ftp Directory</A>
+-->
+</UL>
+
+<!--
+<P> I am a member of the 
+<A HREF="http://www.cs.tamu.edu/mentoring/">Faculty Mentor Pool</A>.
+If you want to talk with me, please feel free to stop by
+my office, or send me email to make an appointment.  <P>
+-->
+
+<HR><BR>
+
+<!--
+<H2> Seminars </H2>
+
+<UL>
+<LI><A HREF="http://www.cs.tamu.edu/seminars/airobotics/">AI and Robotics Seminars</A>
+
+<LI><A HREF="http://www.cs.tamu.edu/research/seminars/681seminar/">CPSC 681</A> - departmental graduate seminar
+<LI><A HREF="http://www.cs.tamu.edu/faculty/amato/DLecture/">TAMU CS Distinguished Lecturer Series</A></UL>
+
+<HR><BR>
+-->
+
+<P>
+<TABLE WIDTH=100%>
+<TD VALIGN=CENTER>
+<IMG SRC="column1.gif">
+<TD>
+<I>"Each says something about the nature of the world, and, though
+individually he adds little or nothing to our understanding of it,
+still from the combination of all something considerable is
+accomplished." </I> (Aristotle, Metaphysics)
+<P>
+<TD VALIGN=CENTER>
+<IMG SRC="column1.gif">
+</TABLE>
+
+<!--
+<I>"For as the eyes of bats are to the brightness of daylight, so is
+the reason in our soul to the things that by nature are the clearest
+of all." </I> (Aristotle, Metaphysics)
+<P><IMG SRC="small_atm.gif">
+-->
+
+</BODY>
+</HTML>

@@ -1,0 +1,1410 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>home [interface ecology lab]</title>
+<meta
+	http-equiv="Content-Type"
+	content="text/html; charset=utf-8"/>
+<link
+	href="code/styles/ecologylab/ecologylab.css"
+	rel="stylesheet"/>
+<link
+	rel="shortcut icon"
+	href="images/ecologylab-16.ico"
+	type="image/ico"/>
+<link
+	rel="icon"
+	href="images/ecologylab-16.png"
+	type="image/png"/>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20550827-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<meta itemprop="description" name="description" content="The Interface Ecology Lab investigates the future of human expression, focusing on creativity, play, participation, and education." />
+<meta name="twitter:description" content="The Interface Ecology Lab investigates the future of human expression, focusing on creativity, play, participation, and education." />
+<meta property="og:description" content="The Interface Ecology Lab investigates the future of human expression, focusing on creativity, play, participation, and education." />
+
+<meta name="keywords" content="hci,creativity support environments,hcir,exploratory search,exploratory browsing,ideation,social media,research,games,design,semantics,semantic web,curation,information-based ideation,embodied interfaces," />
+
+<meta property="twitter:image" content="http://ecologylab.net/images/interfaceEcologyLabLogos7-2004-2WhiteMatte.png"/>
+<meta property="og:image" content="http://ecologylab.net/images/interfaceEcologyLabLogos7-2004-2WhiteMatte.png"/>
+</head>
+
+<body>
+<div class="rootcontainer">
+
+<div class="header"><a href="http://ecologylab.net/index.html" ><img
+	class="logo"
+	src="images/interfaceEcologyLabLogos7-2004-2WhiteMatte.png"/> </a>
+<div class="title">home</div>
+
+</div>
+
+<br clear="all" />
+
+<div class="nav" style="height: 140px; width:96px;">
+<div class="block">
+<a class="navselected" href="index.html">home</a>
+<a class="navlink" href="define.html">define</a>
+<a class="navlink" href="research/index.html">research</a>
+<a class="navlink" href="people/index.html">people</a>
+<a class="navlink" href="courses/index.html">courses</a>
+<!-- <a class="navlink" href="workshops/index.html">workshops</a> -->
+<!-- <a class="navlink" href="summerofcode/index.html">summer of code</a> -->
+</div>
+
+<!-- <div class="block"> -->
+<!-- 		<a class="nav_nowrap" target="_blank" href="http://ecologylab.tumblr.com/">blog</a> -->
+<!-- </div> -->
+
+<div class="block">
+<a class="navlink" target="_blank" href="http://g.co/maps/47d92">227 Teague<br/>
+Texas A&amp;M [lot&nbsp;15]</a>
+
+<div class="block">
+			<a class="nav_nowrap" target="_blank"
+			 href="http://facebook.com/ecologylab"><img style="vertical-align:text-bottom;  margin-top:4px;" src="http://facebook.com/favicon.ico"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+
+
+</div>
+</div>
+
+&nbsp;
+
+<div class="intro">
+
+<a href="research/index.html" class="illustrate_left" style="display: flex;">
+	<img src="research/bodyBased/zerotouch/images/austinChiZtGirlCropScale2.jpg" style="width:170px; height: 107px;"/>
+</a>
+
+The Interface Ecology Lab investigates <em>the future of human expression</em>, focusing on creativity, play, participation, and learning.
+We develop interdisciplinary research and education from our home in the
+<a target="_blank" href="http://www.cse.tamu.edu">Texas A&amp;M Department of Computer Science and Engineering</a>.
+The lab is directed by <a class="destination" href="people/andruid/index.html">PI&nbsp;Andruid Kerne</a>.
+</div>
+
+<div class="intro">
+
+	<div class="h4">news</div>
+
+	<table cellpadding="0" border="0">
+		<tr valign="top">
+			<td><i>1/2017&nbsp;-&nbsp;12/2018</i>&nbsp;</td>
+			<td style="padding-bottom:8px;" >
+			<a target="_blank" class="destination" href="people/andrew.html">Andrew Webb</a>
+			takes a 2-year post-doc at Inria, in Paris, with Wendy Mackay, in the <a href="https://www.inria.fr/en/teams/ex-situ" target="_blank" class="destination">Extreme Interaction group</a> (EX-SITU).
+		</td></tr>
+		<tr valign="top">
+			<td><i>6/2016</i>&nbsp;&nbsp;</td>
+			<td style="padding-bottom:8px;" >
+			<a target="_blank" class="destination" href="people/bill.html">Bill Hamilton</a> Best Paper at TVX 2016:
+			<em><a target="_blank" href="research/publications/tvx0116-hamiltonA.pdf">Rivulet: Exploring Participation in Live Events through Multi-Stream Experiences</a></em> with Microsoft Research <a target="_blank" class="destination" href="https://www.microsoft.com/en-us/research/group/nexus/">neXus group</a>.
+		</td></tr>
+		<tr valign="top">
+			<td><i>9/2015 -&nbsp;2018</i>&nbsp;&nbsp;</td>
+			<td style="padding-bottom:8px;" >
+			Interface Ecology Lab awarded NSF IIS grant, <em>Transforming Participation in Online Courses through Social Live Media Composition</em>.
+		</td></tr>
+		<tr valign="top">
+			<td><i>7/2015 -&nbsp;2017</i>&nbsp;</td>
+			<td>
+			Interface Ecology Lab gets Microsoft Research grant&mdash;<em>Collaborative Pen+Touch Design Ideation on Large Surfaces</em>&mdash;84" (4K), 55" pen+touch Surface Hub devices.
+		</td></tr>
+	</table>
+</div>
+
+
+<div class="h4">projects</div>
+
+<div class="feature">
+
+	<a href="http://ideamache.ecologylab.net" target="_blank">
+		<img width="164" src="images/ideamache_thumb.png" class="illustrate_left"/>
+	</a>
+
+	<a target="_blank" class="destination" href="http://ideamache.ecologylab.net">IdeaM&acirc;ch&eacute;</a> is
+	a browser-based expressive web curation system that uses
+	<a target="_blank" href="research/curation.html">information composition</a> as the medium of curation.
+	<i>Curation</i> is the process of assembling information in meaningful exhibits, for people to think about.
+	<a target="_blank" class="destination" href="http://ideamache.ecologylab.net">IdeaM&acirc;ch&eacute;</a> allows users to
+	collect, arrange, annotate and synthesize digital content to express relationships and develop ideas.
+</div>
+
+
+<div class="h4">publications + exhibits</div>
+
+
+<div class="feature">
+<a
+   href="http://dl.acm.org/authorize?N31022"
+   title="Strategies of Free-Form Web Curation: Processes of Creative Engagement with Prior Work"
+   target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/freeFormStrategiesIcon.png" />
+</a>
+Kerne, A., Lupfer, N., Linder R., Qu, Y., Valdez, A., Jain, A., Keith, K., Carrasco, M., Vanegas, J., Billingsley, A.,
+<a href="http://dl.acm.org/authorize?N31022" class="pub_destination" target="_blank">
+	Strategies of Free-form Web Curation: Processes of Creative Engagement with Prior Work</a>,
+<i>Proc. ACM Creativity &amp; Cognition 2017</i>, 380-392  [29%].
+<a class="doi" href="http://dx.doi.org/10.1145/3059454.3059471" target="_blank">http://dx.doi.org/10.1145/3059454.3059471</a>
+<div class="pub_destination">
+<a href="https://ideamache.ecologylab.net/e/6Eor5zygyw/" target="_blank">
+    presentation m&acirc;ch&eacute;</a></div>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31459" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/cc2017gss_icon.png" />
+</a>
+Jain, A.,
+<a href="http://dl.acm.org/authorize?N31459" class="pub_desstination" target="_blank">
+	Measuring Creativity: Multi-Scale Visual and Conceptual Design Analysis</a>,
+<i>Proc. ACM Creativity &amp; Cognition 2017</i>, Graduate Student Symposium, Singapore, 490-495.
+<a class="doi" href="http://dx.doi.org/10.1145/3059454.3078697" target="_blank">http://dx.doi.org/10.1145/3059454.3078697</a>
+<div class="pub_destination">
+<a href="https://ideamache.ecologylab.net/e/FjaOtpE01Q/" target="_blank">
+    presentation m&acirc;ch&eacute;</a></div>
+</div>
+
+<div class="feature">
+<!--<a href="research/publications/lupferKerne-patterns.pdf" target="_blank">-->
+<a href="http://dl.acm.org/authorizestats?N31457" class="pub_destination" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/patterns-scoliosis_mache.png" />
+</a>
+Lupfer, N., Kerne, A., Webb, A.M., Linder R.,
+<!--<a href="research/publications/lupferKerne-patterns.pdf" class="pub_destination" target="_blank">-->
+<a href="http://dl.acm.org/authorizestats?N31457" class="pub_destination" target="_blank">
+	Patterns of Free-form Curation: Visual Thinking with Web Content</a>,
+<i>Proc. ACM Multimedia 2016</i>, Amsterdam, Netherlands, 12-21 [20%].
+    <div class="pub_best">Best Paper Nominee (top 2%).</div>
+<a class="doi" href="http://dx.doi.org/10.1145/2964284.2964303" target="_blank">http://dx.doi.org/10.1145/2964284.2964303</a>
+<div class="pub_destination">
+<a href="https://ideamache.ecologylab.net/v/loPiQiD3WY/" target="_blank">
+    presentation m&acirc;ch&eacute;</a></div>
+</div>
+
+<div class="feature">
+<a href="research/publications/distributedLiveness.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/distributedLiveness.png" />
+</a>
+Webb, A.M., Wang, C., Kerne, A., Cesar, P.,
+<a href="research/publications/distributedLiveness.pdf" class="pub_destination" target="_blank">Distributed Liveness: Understanding How New Technologies Transform Performance Experiences</a>,
+<i>Proc. ACM Conference on Computer-Supported Cooperative Work 2016</i>, 432-437 [25%].
+<a class="doi" href="http://dx.doi.org/10.1145/2818048.2819974" target="_blank">http://dx.doi.org/10.1145/2818048.2819974</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/webbLayerFish.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/layerFish.png" />
+</a>
+Webb, A.M., Kerne, A., Brown, Z., Kim, J.H., Kellogg, E.,
+<a href="research/publications/webbLayerFish.pdf" class="pub_destination" target="_blank">LayerFish: Bimanual Layering with a Fisheye In-Place</a>,
+<i>Proc. ACM Conference on Interactive Surfaces and Spaces (ISS) 2016</i>, Niagara Falls, Canada [28%].
+<a class="doi" href="http://dx.doi.org/10.1145/2992154.2992171" target="_blank">http://dx.doi.org/10.1145/2992154.2992171</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/webb%20kerne%202016%20free-form%20medium%20curating%20the%20digital.pdf" target="_blank"><img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/curatingTheDigital.png" />
+Webb, A.M., Kerne, A., Linder, R., Lupfer, N, Qu, Y., Keith, K., Carrasco, M., Chen, Y.,
+<a href="research/publications/webb%20kerne%202016%20free-form%20medium%20curating%20the%20digital.pdf" class="pub_destination" target="_blank">A Free-form Medium for Curating the Digital</a>,in England, D., Schiphorst, T., Bryan-Kinns, N. eds. <i>Curating the Digital Space for Art and Interaction</i>, Springer, 2016, 73-87.
+<a class="doi" href="http://dx.doi.org/10.1007/978-3-319-28722-5" target="_blank">http://dx.doi.org/10.1007/978-3-319-28722-5</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/chiplay2016photoNav.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/photoNav.png" />
+</a>
+Sharma, H.N., Toups, Z.O., Dolgov, I., Kerne, A., Jain, A.,
+<a href="research/publications/chiplay2016photoNav.pdf" target="_blank" class="pub_destination" >Evaluating Display Modalities Using a Mixed Reality Game</a>,
+<i>Proc. ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) 2016</i>, 65-77 [29%].
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2967934.2968090">http://dx.doi.org/10.1145/2967934.2968090</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/webbGuiardWearables.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/guiardAbidingTouch.png" />
+</a>
+Webb, A.M., Pahud, M., Hinckley, K., Buxton, B.,
+<a href="../research/publications/webbGuiardWearables.pdf" class="pub_destination" target="_blank">Wearables as Context for Guiard-abiding Bimanual Touch</a>,
+<i>Proc. ACM Symposium on User Interface Software and Technology (UIST) 2016</i>, Tokyo, Japan [20.6%].
+<a class="doi" href="http://dx.doi.org/10.1145/2984511.2984564" target="_blank">http://dx.doi.org/10.1145/2984511.2984564</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/rhema_vast_dc.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/rhema_vast_dc_thumb.png" />
+</a>
+Linder, R.,
+<a href="research/publications/rhema_vast_dc.pdf" target="_blank" class="pub_destination">Analyzing Creative Processes: Qualitative Methods Meets Visual Analytics</a>,
+<i>IEEE Conference on Visual Analytics Science and Technology<a target="_blank" class="pub_destination" href="http://ieeevis.org/year/2016/info/overview-amp-topics/doctoral-colloquium"> VAST 2016 Doctoral Colloquium</a></i>, Baltimore, Maryland.
+</div>
+
+
+
+<div class="feature">
+<a href="research/publications/chiplay2016-toupshamilton.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/playingatplanning.png" />
+</a>
+Toups, Z.O., Hamilton, W.A., Alharthi, S.A.,
+<a href="research/publications/chiplay2016-toupshamilton.pdf" target="_blank" class="pub_destination" >Playing at Planning: Game Design Patterns from Disaster Response Practice</a>,
+<i>Proc. ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) 2016</i>, in press.
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2967934.2968089">http://dx.doi.org/10.1145/2967934.2968089</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/tvx0116-hamiltonA.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/rivulet_thb.png" />
+</a>
+Hamilton, W.A., Tang, J.C., Venolia, G., Inkpen, K., Zillner, J., Huang, D.,
+<a href="research/publications/tvx0116-hamiltonA.pdf" target="_blank" class="pub_destination" >Rivulet: Exploring Participation in Live Events through Multi-Stream Experiences</a>,
+<i>Proc. ACM International Conference on Interactive Experiences for Television and Online (TVX) Video 2016</i>, 31-42.
+<div class="pub_best">Best Paper Award.</div>
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2932206.2932211">http://dx.doi.org/10.1145/2932206.2932211</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/lmp_chi_2016_dc.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/lmpthumb.png" />
+</a>
+Hamilton, W.A.,
+<a href="research/publications/lmp_chi_2016_dc.pdf" target="_blank" class="pub_destination" >Live Media Places: Participation in Online Education through Composition</a>,
+<i>Proc. 2016 Extended Abstracts</i>, 213-217. <a class="doi" target="blank" href="http://dx.doi.org/10.1145/2851581.2859017">http://dx.doi.org/10.1145/2851581.2859017</a>
+</div>
+
+
+<div class="feature">
+<a href="research/publications/crowdpoweredIdeasWorkshopLinder.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/crowdpoweredIdeasWorkshopLinder.png" />
+</a>
+Linder, R. and Kerne, A.,
+<a href="research/publications/crowdpoweredIdeasWorkshopLinder.pdf" target="_blank" class="pub_destination">Composing Everyday Plans on Pinterest: 5 Minute Projects and Gathered Ideas</a>,
+<i>CHI 2016 Workshop: <a target="_blank" class="pub_destination" href="http://research.microsoft.com/en-us/um/people/teevan/misc/microproductivity/"> Productivity Decomposed: Getting Big Things Done with Little Microtasks</a></i>, San Jose, California.
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31249" target="_blank" class="pub_destination">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/integrateExplorationCuration.png" />
+</a>
+Qu, Y.
+<a href="http://dl.acm.org/authorize?N31249" target="_blank" class="pub_destination">
+Supporting Ideation by Integrating Exploratory Search, Browsing, and Curation</a>,
+<i>Proc. ACM Conference on Human Information Interaction and Retrieval (CHIIR) 2016</i>, 361-363.
+<a class="doi" href="http://dx.doi.org/10.1145/2854946.2854948" target="_blank">http://dx.doi.org/10.1145/2854946.2854948</a>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31458" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/twb_oscars.png" />
+</a>
+Jain, A., Lupfer, N., Qu, Y., Linder, R., Kerne, A., Smith, S.M.,
+<a href="http://dl.acm.org/authorize?N31458" class="pub_destination" target="_blank">Evaluating TweetBubble with Ideation Metrics of Exploratory Browsing,
+</a>
+<i>Proc. ACM Creativity and Cognition 2015</i>, 178-187 [28%].
+    <span class="pub_best">Best Paper Honorable Mention (top 2%).</span>
+<a class="doi" href="http://dx.doi.org/10.1145/2757226.2757239" target="_blank">http://dx.doi.org/10.1145/2757226.2757239</a>
+<div class="pub_destination">
+<a href="https://ideamache.ecologylab.net/e/2t7vxnmFDn/" target="_blank">
+    presentation m&acirc;ch&eacute;</a> | 
+<a href="https://youtu.be/IekEK5XxYPY" target="_blank">video</a></div>
+</div>
+
+
+<div class="feature">
+<a href="research/publications/mache_present.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/machePresentIcon.png" />
+</a>
+Linder, R., Lupfer, N., Kerne, A., Webb, A. M., Hill, C., Qu, Y., Keith, K., Carrasco M., Kellogg, E.
+<a href="research/publications/mache_present.pdf" class="pub_destination" target="_blank">Beyond Slideware: How a Free-form Presentation Medium Stimulates Free-form Thinking in the Classroom,
+</a>
+<i>Proc. ACM Creativity and Cognition 2015</i>, 285-294 [28%].
+<a class="doi" href="http://dx.doi.org/10.1145/2757226.2757251" target="_blank">http://dx.doi.org/10.1145/2757226.2757251</a>
+<!-- uncomment below when active -->
+<!-- <a class="doi" href="http://dx.doi.org/10.1145/2757226.2757251" target="_blank">http://dx.doi.org/10.1145/2757226.2757251</a> -->
+</div>
+
+<div class="feature">
+	<a href="research/publications/webbPenTouchDiagramming.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  height="100"
+	  src="research/images/penTouchDiagramming.png" /></a>
+
+	Webb, A.M.,
+	<a class="pub_destination" href="research/publications/webbPenTouchDiagramming.pdf" target="_blank">
+	Pen + Touch Diagramming to Stimulate Design Ideation</a>,
+	<i>Proc. ACM Creativity and Cognition 2015</i>, Graduate Symposium, 331-332.
+	<a class="doi" href="http://dx.doi.org/10.1145/2757226.2764766" target="_blank">http://dx.doi.org/10.1145/2757226.2764766</a>
+
+</div>
+
+<div class="feature">
+<a href="research/publications/EvolutionWorks.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/evolutionworks.png" />
+</a>
+Wilkins, J., Järvi, J., Jain, A., Kejriwal, G., Kerne, A., Kumar, V.,
+<a href="research/publications/EvolutionWorks.pdf" class="pub_destination" target="_blank">EvolutionWorks: Towards Improved Visualization of Citation Networks,
+</a>
+<i>Proc. IFIP International Conference on Computer-Human Interaction (INTERACT) 2015</i>, 213-230 [29.9%].
+    	<a class="doi" href="http://dx.doi.org/10.1007/978-3-319-22723-8_17" target="_blank">http://dx.doi.org/10.1007/978-3-319-22723-8_17</a>
+
+</div>
+
+<div class="feature">
+	<a href="research/publications/Lupfer_Hamiliton_ArtCHI_Exhibition.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  height="100"
+	  src="research/images/artchi_thumb.jpg" /></a>
+
+	Lupfer, N., Hamiliton, W. Webb, A., Linder, R., Edmonds, E., and Kerne, A.,
+	<a class="pub_destination" href="research/publications/Lupfer_Hamiliton_ArtCHI_Exhibition.pdf" target="_blank">
+	The Art.CHI Gallery: An Embodied Iterative Curation Experience</a>,
+	Interactivity Exhibit,
+	<i>Proc CHI 2015 EA</i>. <!--, 1165-1170 [%].-->
+	<a class="doi" href="http://dx.doi.org/10.1145/2702613.2725457" target="_blank">http://dx.doi.org/10.1145/2702613.2725457</a>
+
+</div>
+
+
+<div class="feature">
+<a href="research/publications/quarry.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  height="100"
+	  src="research/images/quarry.png" /></a>
+
+	R., Linder, and Koh, E.,
+	<a class="pub_destination" href="research/publications/quarry.pdf" target="_blank">
+	Quarry: Picking From Examples to Explore Big Data</a>,
+	<i>Proc CHI 2015 EA</i>. <!--, 1165-1170 [%].-->
+	<a class="doi" href="http://dx.doi.org/10.1145/2702613.2732933" target="_blank">http://dx.doi.org/10.1145/2702613.2732933</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/p257-toups.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/commframework.png" />
+</a>
+Toups, Z., Hammer, J., Hamilton, W., Jarrah, A., Graves, W., and Garretson, O.
+<a class="pub_destination" href="research/publications/p257-toups.pdf" target="_blank">
+A Framework for Cooperative Communication Game Mechanics from Grounded Theory</a>,
+<i>Proc CHI PLAY 2014</i>,
+<a class="doi" href="http://dx.doi.org/10.1145/2658537.2658681" target="_blank">DOI:10.1145/2658537.2658681</a>
+</div>
+
+<div class="feature">
+<a
+   href="http://dl.acm.org/authorize?N31023.pdf"
+   target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/curationIdeationGaugeIcon.png" />
+</a>
+Kerne, A., Webb, A.M., Smith, S.M., Linder, R., Lupfer, N., Qu, Y., Moeller, J., Damaraju, S.,
+<a href="http://dl.acm.org/authorize?N31023" target="_blank" class="pub_destination">
+Using Metrics of Curation to Evaluate Information-based Ideation</a>,
+<i>ACM Transactions on Computer-Human Interaction (ToCHI)</i>,
+21(3), June 2014, 48 pages.
+<a class="doi" href="http://dx.doi.org/10.1145/2591677" target="_blank">http://dx.doi.org/10.1145/2591677</a>
+<a class="pub_video" href="https://docs.google.com/document/d/1BQUH0oZNmDvlX-NO7nsPtED7o_RZ2JS-z-bW0w82saA/edit?usp=sharing" target="_blank">reader's guide</a>
+</div>
+
+<div class="feature">
+<a href="http://link.springer.com/article/10.1007%2Fs10606-014-9211-4#page-1" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/1x1.gif" />
+</a>
+Pipek, V., Liu, S., Kerne, A.
+<a href="http://link.springer.com/article/10.1007%2Fs10606-014-9211-4#page-1" target="_blank" class="pub_destination">
+Crisis Informatics and Collaboration: A Brief Introduction</a>,
+<i>Journal of Computer Supported Cooperative Work (JCSCW)</i>,
+23(4), August 2014, 8 pages.
+<a class="doi" href="http://dx.doi.org/10.1007/s10606-014-9211-4" target="_blank">http://dx.doi.org/10.1007/s10606-014-9211-4</a>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31240" target="_blank" class="pub_destination">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/eics-debi.png" />
+</a>
+Qu, Y., Kerne, A., Lupfer, N., Linder, R., Jain, A.,
+<a href="http://dl.acm.org/authorize?N31240" target="_blank" class="pub_destination">
+Metadata Type System: Integrate Presentation, Data Models and Extraction to Enable Exploratory Browsing Interfaces</a>,
+<i>Proc. ACM Engineering Interactive Computing Systems (EICS) 2014</i>, 107-116 [18%].
+<a class="doi" href="http://dx.doi.org/10.1145/2607023.2607030" target="_blank">http://dx.doi.org/10.1145/2607023.2607030</a>
+<a class="pub_video" href="https://www.youtube.com/watch?v=CbtCZSHsenA" target="_blank">[video]</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/streamingOnTwitch.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/twitch.png" />
+</a>
+Hamilton, W., Garretson, O., and Kerne, A.
+<a href="research/publications/streamingOnTwitch.pdf" target="_blank" class="pub_destination">Streaming on Twitch: Fostering Participatory Communities of Play within Live Mixed Media</a>,
+<i>Proc. CHI 2014</i>, 1315-1324 [23%].
+<a class="doi" href="http://dx.doi.org/10.1145/2556288.2557048" target="_blank">http://dx.doi.org/10.1145/2556288.2557048</a>
+<a target="_blank" class="pub_video" href="https://www.youtube.com/watch?v=WXxptc_Ctt0">[video]</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/everyday_ideation_pinterest.pdf" target="_blank" class="pub_destination">
+<img
+  class="illustrate_left"
+  height="100"
+  src="research/images/pinterest_thumb.png" />
+</a>
+Linder, R., Snodgrass, C., and Kerne, A.
+<a href="research/publications/everyday_ideation_pinterest.pdf" target="_blank" class="pub_destination">Everyday Ideation: All of My Ideas Are On Pinterest</a>,
+<i>Proc. CHI 2014</i>, 2411-2420 [23%].
+<a class="doi" href="http://dx.doi.org/10.1145/2556288.2557273" target="_blank">http://dx.doi.org/10.1145/2556288.2557273</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/webbEmbodiedDiagrammingGestures.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/embodiedDiagrammingGestures.png" />
+</a>
+Webb, A.M. and Kerne, A.,
+<a href="research/publications/webbEmbodiedDiagrammingGestures.pdf" target="_blank" class="pub_destination">Embodying Diagramming through Pen + Touch Gestures</a>,
+<i>CHI 2014 Workshop: Gesture Interaction Design: Communication and
+  Cognition</i>, Toronto, Canada.
+</div>
+
+<div class="feature">
+<a href="research/publications/webbMultiScaleCuration.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/digitalCurated.png" />
+</a>
+Webb, A.M., Kerne, A., Linder, R., Lupfer, N., Qu, Y., Keith, K., Carrasco, M.,
+<a href="research/publications/webbMultiScaleCuration.pdf" target="_blank" class="pub_destination">Multi-Scale Information Composition: a New Medium for Freeform Art Curation in the Cloud</a>,
+<i>CHI 2014 Workshop: Curating the Digital: Spaces for Art and Interaction</i>, Toronto, Canada.
+<a target="_blank" class="pub_video" style="display: block;" href="http://ideamache.ecologylab.net/v/lj3V2VT0eR/">[information composition]</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/coordMixedReality2013.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/coordMixedReality2013.png" />
+</a>
+Fischer, J.E., Jiang, W., Kerne, A., Greenhalgh, C., Ramchurn, S.D.,  Reece,S., Pantidi, N., Rodden, T.,
+<a href="research/publications/coordMixedReality2013.pdf" target="_blank" class="pub_destination">Supporting Team Coordination on the Ground: Requirements from a Mixed-Reality Game</a>,
+<i>Proc. Design of Cooperative Systems (COOP) 2014</i>, 49-67  [42%].
+<a class="doi" target="blank" href="http://dx.doi.org/10.1007/978-3-319-06498-7_4">http://dx.doi.org/10.1007/978-3-319-06498-7_4</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/feiNFCTransSurfacePortal2013.pdf" target="_blank" class="pub_destination">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/trans-surface.png" />
+</a>
+Fei, S., Webb, A.M., Kerne, A., Qu, Y., and Jain, A.,
+<a href="research/publications/feiNFCTransSurfacePortal2013.pdf" target="_blank" class="pub_destination">Peripheral Array of Tangible NFC Tags: Positioning Portals for Embodied Trans-Surface Interaction</a>,
+<i>Proc. ACM Interactive Tabletops and Surfaces 2013</i>, 33-36.
+[29%].
+<a class="doi" href="http://dx.doi.org/10.1145/2512349.2512820" target="_blank">http://dx.doi.org/10.1145/2512349.2512820</a>
+<a target="_blank" class="pub_video" href="https://www.youtube.com/watch?v=Z-rTTJAH2-k">[video]</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/curatingRichBookmarks.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/curatingRichBookmarksCC2013.png" />
+ </a>
+Webb, A.M., Linder, R., Kerne, A., Lupfer, N., Qu, Y., Poffenberger, B., and Revia, C.,
+<a href="research/publications/curatingRichBookmarks.pdf" target="_blank" class="pub_destination">Promoting Reflection and Interpretation in Education: Curating Rich Bookmarks as Information Composition</a>,
+<i>Proc. Creativity and Cognition 2013</i>, 53-62 [32%].
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2466627.2466636">http://dx.doi.org/10.1145/2466627.2466636</a>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31341" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/ecseThumbnail.png" />
+</a>
+Kerne, A., Latulipe, C., Drucker, S.M., Candy, L., H&ouml;&ouml;k, K., Webb, A.M., and Carroll, E.
+<a href="http://dl.acm.org/authorize?N31341" target="_blank" class="pub_destination">Evaluation methods for creativity support environments</a>,
+<i>Proc CHI 2013 Extended Abstracts</i>, 3295-3298.
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2468356.2479670">http://dx.doi.org/10.1145/2468356.2479670</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/Searching_to_Measure_the_Novelty_of_Collected_Ideas.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/Searching_to_Measure_the_Novelty_of_Collected_Ideas.png" />
+</a>
+Linder, R., Webb, A.M., and Kerne, A.,
+<a class="pub_destination" href="research/publications/Searching_to_Measure_the_Novelty_of_Collected_Ideas.pdf" target="_blank">Searching to Measure the Novelty of Collected Ideas</a>,
+<i>CHI 2013 Evaluation Methods for Creativity Support Environments Workshop</i>, Paris, France.
+</div>
+
+<div class="feature">
+<a href="research/publications/multiTapIUI2013.pdf" target="_blank"><img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/multiTapIcon.png" />
+</a>
+
+Damaraju, S., Seo, J.H., Hammond, T., Kerne, A.,
+<a class="pub_destination" href="research/publications/multiTapIUI2013.pdf" target="_blank">
+Multi-tap sliders: advancing touch interaction for parameter adjustment</a>,
+<i>Proc IUI 2013</i>, 445-452 [22%].
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2468356.2479670">http://dx.doi.org/10.1145/2468356.2479670</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/RtsUist2012.pdf" target="_blank"><img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/rtsUISTPic.png" />
+</a>
+Hamilton, W., Kerne, A., and Robbins, T.,
+<a class="pub_destination" href="research/publications/RtsUist2012.pdf" target="_blank">High-Performance Pen + Touch Modality Interactions: A Real-Time Strategy Game eSports Context</a>,
+<i>Proc. UIST 2012</i>, 309-318 [21%].
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2380116.2380156">http://dx.doi.org/10.1145/2380116.2380156</a>
+<a target="_blank" class="pub_video" href="https://www.youtube.com/watch?v=Tyb4PAlstm8">[video]</a>
+</div>
+
+<div class="feature">
+<a target="_blank" href="research/publications/moellerKerneZeroTouchCHI2012.pdf"><img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/zerotouch-icon.png" /></a>
+Moeller, J. and Kerne, A.,
+<a class="pub_destination" target="_blank" href="research/publications/moellerKerneZeroTouchCHI2012.pdf">ZeroTouch: An Optical Multi-Touch and Free-Air Interaction Architecture</a>,
+<i>Proc. CHI 2012</i>, 2165-2174 [23%].
+    <div class="pub_best">Best Paper Honorable Mention.</div>
+<a class="doi" href="http://dx.doi.org/10.1145/2207676.2208368" target="_blank">http://dx.doi.org/10.1145/2207676.2208368</a>
+<a target="_blank" class="pub_video" href="research/images/chi%20video%20zerotouch.mov">[video]</a>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31342" target="_blank"><img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/rummy_tile.png" />
+</a>
+
+Kerne, A., Hamilton, W., Toups, Z.,
+<a class="pub_destination" href="http://dl.acm.org/authorize?N31342" target="_blank">
+Culturally Based Design: Embodying Trans-Surface Interaction in Rummy</a>,
+<i>Proc CSCW 2012</i>, 509-518 [top 9%].
+<a class="doi" href="http://dx.doi.org/10.1145/2145204.2145284" target="_blank">http://dx.doi.org/10.1145/2145204.2145284</a>
+</div>
+
+<div class="feature">
+<a href="http://www.youtube.com/watch?v=t4D8atZf2z4" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/pihcvid.png" />
+</a>
+Hamilton, W., Kerne, A., and Moeller, J.
+<a class="pub_destination" href="http://www.youtube.com/watch?v=t4D8atZf2z4" target="_blank">Pen-in-Hand Command: NUI for Real-Time Strategy eSports</a>,
+<i>Proc CHI EA 2012 (Video Showcase)</i>, 1455.
+<a class="doi" target="blank" href="http://dx.doi.org/10.1145/2212776.2212483">http://dx.doi.org/10.1145/2212776.2212483</a>
+<a target="_blank" class="pub_video" href="https://www.youtube.com/watch?v=t4D8atZf2z4">[video]</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/creativeVisualThinkingThroughInformationComposition+Diagramming.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/infoCompDiagrammingVisualThinking.jpg" />
+</a>
+Webb, A.M. and Kerne, A.,
+<a class="pub_destination" href="research/publications/creativeVisualThinkingThroughInformationComposition+Diagramming.pdf" target="_blank">Creative Visual Thinking through Information Composition + Diagramming</a>,
+<i>CHI 2012 Visual Thinking &amp; Digital Imagery Workshop</i>, Austin, TX.
+</div>
+
+<div class="feature">
+<a href="research/publications/Events_Across_Time_and_Place.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/Events_Across_Time_and_Place_Icon.png" />
+</a>
+Linder, R. and Kerne, A.,
+<a class="pub_destination" href="research/publications/Events_Across_Time_and_Place.pdf" target="_blank">Using Information Composition to Represent Connections Among Events Across Time and Place</a>,
+<i>CHI 2012 Workshop on Heritage Matters: Designing for current and future values through digital and social technologies</i>.
+</div>
+
+
+<div class="feature">
+	<a href="../research/publications/a23-toups.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  height="100"
+	  src="research/images/tecGameMechanicsV019-4.png" /></a>
+	Toups, Z. O., Kerne, A., Hamilton, W. A.
+	<a class="pub_destination" href="research/publications/a23-toups.pdf" target="_blank">
+	The Team Coordination Game: A zero-fidelity simulation abstracted from fire emergency response work practice</a>,
+	<i>ACM Transactions on Computer-Human Interaction (ToCHI)</i>, 18(4), December 2011, 37 pages.
+	<a class="doi" href="http://dx.doi.org/10.1145/2063231.2063237" target="_blank">http://dx.doi.org/10.1145/2063231.2063237</a>
+</div>
+
+<div class="feature">
+	<a href="research/publications/p1959-toups.pdf" target="_blank"><img
+	class="illustrate_left" width="144" height="100" src="research/images/ttecCHI2011Icon.png" /></a>
+	Toups, Z.O., Kerne, A., Hamilton, W. A., Shahzad, N.
+	<a class="pub_destination" href="research/publications/p1959-toups.pdf" target="_blank">
+		Zero-Fidelity Simulation of Fire Emergency Response: Improving Team Coordination Learning</a>,
+	<i>Proc CHI 2011</i>, 1959&ndash;1968 [26%].
+	<a class="doi" href="http://dx.doi.org/10.1145/1978942.1979226" target="_blank">http://dx.doi.org/10.1145/1978942.1979226</a>
+	<a target="_blank" class="pub_video" href="https://www.youtube.com/watch?v=0qzuF60ItEs">[video]</a>
+</div>
+
+<div class="feature">
+	<a href="research/publications/webb-messyOrganizer.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  src="research/images/messyOrganizerJCDL.jpg" /></a>
+	Webb, A.M., Kerne, A.
+	<a class="pub_destination" href="research/publications/webb-messyOrganizer.pdf" target="_blank">
+	Integrating Implicit Structure Visualization with Authoring Promotes Ideation</a>,
+	<i>Proc Joint ACM/IEEE Conf on Digital Libraries (JCDL) 2011</i>, 203-212 [23%].
+    <a class="doi" href="http://dx.doi.org/10.1145/1998076.1998116" target="_blank">http://dx.doi.org/10.1145/1998076.1998116</a>
+	<a target="_blank" class="pub_video" href="https://www.youtube.com/watch?v=Nga8DVTg0mM">[video]</a>
+</div>
+
+<div class="feature">
+	<a href="research/publications/SmithLinseyKerne_2010.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  src="research/images/evolvedAnalogiesIcon.png" /></a>
+	Smith, S.M., Linsey, J.S., Kerne, A.
+	<a class="pub_destination" href="research/publications/SmithLinseyKerne_2010.pdf" target="_blank">
+	Using Evolved Analogies to Overcome Creative Design Fixation</a>,
+	<i>Proc Design Creativity 2010</i>, 35-39 [33%].
+    <a class="doi" href="http://dx.doi.org/10.1007/978-0-85729-224-7_6" target="_blank">http://dx.doi.org/10.1007/978-0-85729-224-7_6</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/icmi2011ComparingMultitouch-damaraju.pdf" target="_blank"><img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/comparingMultitouchInterface.png" /></a>
+Damaraju, S., Kerne, A.,
+<a class="pub_destination" href="research/publications/icmi2011ComparingMultitouch-damaraju.pdf" target="_blank">
+Comparing Multi-Touch Interaction Techniques for Manipulation of an Abstract Parameter Space</a>,
+<i>Proc. International Conference on Multimodal Interaction (ICMI) 2011</i>, 221-224 [39%].
+<a class="doi" href="http://dx.doi.org/10.1145/2070481.2070520" target="_blank">http://dx.doi.org/10.1145/2070481.2070520</a>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31241" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/integratingSearches.png" />
+</a>
+Qu, Y., Kerne, A., Webb, A.M., Herstein, A.
+<a class="pub_destination" href="http://dl.acm.org/authorize?N31241" target="_blank">
+Interoperable Metadata Semantics with Meta-Metadata: A Use Case Integrating Search Engines</a>,
+<i>Proc ACM DocEng 2011</i>, 171-174 [53%].
+<a class="doi" href="http://dx.doi.org/10.1145/2034691.2034729" target="_blank">http://dx.doi.org/10.1145/2034691.2034729</a>
+</div>
+
+<div class="feature">
+	<a href="research/publications/intangibleCanvas.pdf" target="_blank"> <img
+	  class="illustrate_left"
+	  width="144"
+	  src="research/images/intangibleicon.png" /></a>
+
+	Moeller, J., Lupfer, N., Hamilton, B., Lin, H., Kerne, A.,
+	<a class="pub_destination" href="research/publications/intangibleCanvas.pdf" target="_blank">
+	intangibleCanvas: Free-Air Finger Painting on a Projected Canvas </a>,
+	<i>Proc CHI 2011 EA</i>, 1165-1170 [46%].
+	<a class="doi" href="http://dx.doi.org/10.1145/1979742.1979817" target="_blank">http://dx.doi.org/10.1145/1979742.1979817</a>
+</div>
+
+<div class="feature">
+	<a href="research/publications/moeller-zerotouch.pdf" target="_blank"><img
+	  class="illustrate_left"
+	  width="144"
+	  height="100"
+	  src="research/images/zerotouchicon.jpg" /></a>
+
+	Moeller, J. and Kerne, A.,
+	<a class="pub_destination" href="research/publications/moeller-zerotouch.pdf" target="_blank">
+	ZeroTouch: A Zero-Thickness Optical Multi-Touch Force Field</a>, Interactivity Exhibit,
+	<i>Proc CHI 2011 EA</i>, 1165-1170 [46%].
+	<a class="doi" href="http://dx.doi.org/10.1145/1979742.1979710" target="_blank">http://dx.doi.org/10.1145/1979742.1979710</a>
+	<a class="pub_video" target="_blank" href="research/images/zerotouch.mov">[video]</a>
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31242" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/metaMetadataCIKM.jpg" />
+</a>
+Kerne, A., Qu, Y., Webb, A.M., Damaraju, S., Lupfer, N., Mathur, A.
+<a class="pub_destination" href="http://dl.acm.org/authorize?N31242" target="_blank">
+Meta-Metadata: A Metadata Semantics Language for Collection Representation Applications</a>,
+<i>Proc ACM Conference on Information and Knowledge Management (CIKM) 2010</i>, 1129-1138 [12.7%].
+<a class="doi" href="http://dx.doi.org/10.1145/1871437.1871580" target="_blank">http://dx.doi.org/10.1145/1871437.1871580</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/moellerKerneScanningFTIRtei2010.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/happyfuntouch-icon.png" />
+</a>
+Moeller, J., Kerne, A.,
+<a class="pub_destination" href="research/publications/moellerKerneScanningFTIRtei2010.pdf" target="_blank">
+Scanning FTIR: Unobtrusive Multi-Touch Sensing through Waveguide Transmissivity Imaging</a>,
+<i>Proc ACM Tangible, Embedded and Embodied Interaction (TEI) 2010</i>, 73-76 [34%].
+<a class="doi" href="http://dx.doi.org/10.1145/1709886.1709900" target="_blank">http://dx.doi.org/10.1145/1709886.1709900</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/eng078-koh.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/doceng078_icon.jpg" />
+</a>
+Koh, E., Kerne, A.,
+<a class="pub_destination" href="research/publications/eng078-koh.pdf" target="_blank">
+Deriving Image-Text Document Surrogates to Optimize Cognition</a>,
+<i>Proc ACM DocEng 2009</i>, 84-93 [29.6%].
+<a class="doi" href="http://dx.doi.org/10.1145/1600193.1600212" target="_blank">http://dx.doi.org/10.1145/1600193.1600212</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/eng077s-koh.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/testCollection.png" />
+</a>
+Koh, E., Kerne, A., Berry, S.,
+<a class="pub_destination" href="research/publications/eng077s-koh.pdf" target="_blank">
+Test Collection Management and Labeling System</a>,
+<i>Proc ACM DocEng 2009</i>, 39-42 [29.6%].
+<a class="doi" href="http://dx.doi.org/10.1145/1600193.1600203" target="_blank">http://dx.doi.org/10.1145/1600193.1600203</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/p71-toups.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/siggraphCoop.jpg" />
+</a>
+Toups, Z. O., Kerne, A., Hamilton, W.
+<a class="pub_destination" href="research/publications/p71-toups.pdf" target="_blank">
+Game Design Principles for Engaging Cooperative Play: Core Mechanics and Interfaces for Non-Mimetic Simulation of Fire Emergency Response</a>,
+<i>Proc ACM SIGGRAPH Symposium on Games 2009</i>, 71-78 [30%]
+<a class="doi" href="http://dx.doi.org/10.1145/1581073.1581085" target="_blank">http://dx.doi.org/10.1145/1581073.1581085</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/p341-toupsKerneHamilton-emergentTeamCoord.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/group2009-icon.jpg" />
+</a>
+Toups, Z. O., Kerne, A., Hamilton, W., Blevins, A.
+<a class="pub_destination" href="research/publications/p341-toupsKerneHamilton-emergentTeamCoord.pdf" target="_blank">
+Emergent Team Coordination: From Fire Emergency Response Practice to a Non-Mimetic Simulation Game</a>,
+<i>Proc ACM Group 2009</i>, 341&dash;350 [36%].
+<a class="doi" href="http://dx.doi.org/10.1145/1531674.1531725" target="_blank">http://dx.doi.org/10.1145/1531674.1531725</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/wip611-hamilton.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/claps-wip.jpg" />
+</a>
+Hamilton, W., Toups, Z. O., Kerne, A.
+<a class="pub_destination" href="research/publications/wip611-hamilton.pdf" target="_blank">
+Synchronized Communication and Coordinated Views: Qualitative Data Discovery for Team Game User Studies</a>,
+<i>Proc CHI Extended 2009</i>,
+<a class="doi" href="http://dx.doi.org/10.1145/1520340.1520702" target="_blank">DOI:10.1145/1520340.1520702</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/toups-CHI-EBD-2009.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/ebd2009-icon.jpg" />
+</a>
+Toups, Z. O., Kerne, A., Hamilton, W.
+<a class="pub_destination" href="research/publications/toups-CHI-EBD-2009.pdf" target="_blank">
+Motivating Play through Score</a>,
+<i>ACM CHI 2009 Workshop on Engagement by Design</i>.
+</div>
+
+<div class="feature">
+<a href="http://dl.acm.org/authorize?N31343" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/cfToisIcon.png"/>
+</a>
+Kerne, A., Koh, E., Smith, S. M., Webb, A., Dworaczyk, B.,
+<a class="pub_destination" href="http://dl.acm.org/authorize?N31343" target="_blank">
+combinFormation: Mixed-Initiative Composition of Image and Text Surrogates Promotes Information Discovery
+</a>,
+<i>ACM Transactions on Information Systems (TOIS)</i>, 27(1), Dec. 2008, 5:1-45.
+<a class="doi" href="http://dx.doi.org/10.1145/1416950.1416955" target="_blank">http://dx.doi.org/10.1145/1416950.1416955</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/metadata_samt08Short2-1.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/metaMetadataSAMT2008.png"/>
+</a>
+Kerne, A., Damaraju, S., Kumar, B., and Webb, A.
+<a class="pub_destination" href="research/publications/metadata_samt08Short2-1.pdf" target="_blank">
+Meta-Metadata: A Semantic Architecture for Multimedia Metadata Definition, Extraction, and Presentation</a>,
+<i>Poster and Demo Proc International Conf on Semantic and Digital Media Technologies (SAMT) 2008</i>.
+</div>
+
+<div class="feature">
+<a href="research/publications/tabletop08-posterAbstract1-6.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/gestureTabletop08Icon.png"/>
+</a>
+Damaraju, S., Kerne, A.
+<a class="pub_destination" href="research/publications/tabletop08-posterAbstract1-6.pdf" target="_blank">
+Multitouch Gesture Learning and Recognition System</a>,
+<i>Extended Abstracts of IEEE Workshop on Tabletops and Interactive Surfaces 2008</i>.
+</div>
+
+<div class="feature">
+<a href="research/publications/sp44245-kerne.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/doceng08Icon.png"/>
+</a>
+Kerne, A., Toups, Z.O., Dworaczyk, B., Khandelwal, M.
+<a class="pub_destination" href="research/publications/sp44245-kerne.pdf" target="_blank">
+A Concise XML Binding Framework Facilitates Practical Object-Oriented Document Engineering
+</a>,
+<i>Proc ACM Symposium on Document Engineering  (DocEng) 2008</i>, 62-65 [43%].
+<a class="doi" href="http://dx.doi.org/10.1145/1410140.1410152" target="_blank">http://dx.doi.org/10.1145/1410140.1410152</a>
+</div>
+
+<div class="feature">
+<a target="_blank"  href="research/publications/kerneSmithEmergenceIJHCI2008.pdf">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/measuringIcon.jpg">
+</a>
+Kerne, A., Smith, S.M., Koh, E., Choi, H., Graeber, R.,
+<a class="pub_destination" target="_blank"  href="research/publications/kerneSmithEmergenceIJHCI2008.pdf">
+An Experimental Method for Measuring the Emergence of New Ideas in Information Discovery</a>,
+<i>International Journal of Human-Computer Interaction (IJHCI)</i>,
+24 (5) July 2008, 460-477.
+<a class="doi" href="http://dx.doi.org/10.1080/10447310802142243" target="_blank">http://dx.doi.org/10.1080/10447310802142243</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/icsAVI08.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/icsIcon.jpg"/>
+</a>
+Webb, A., Kerne, A.
+<a class="pub_destination" href="research/publications/icsAVI08.pdf" target="_blank">
+The In-Context Slider: A Fluid Interface Component for Visualization and Adjustment of Values while Authoring</a>,
+<i>Proc ACM Advanced Visual Interfaces (AVI) 2008</i>, 91-99, [27.5%].
+<a class="doi" href="http://dx.doi.org/10.1145/1385569.1385586" target="_blank">http://dx.doi.org/10.1145/1385569.1385586</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/p707-toupsKerneImplCoordDesignCHI2007.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/implCoordFFIcon.jpg"/>
+</a>
+Toups, Z. O., Kerne, A.,
+<a class="pub_destination" href="research/publications/p707-toupsKerneImplCoordDesignCHI2007.pdf" target="_blank">
+Implicit Coordination in Firefighting Practice: Design Implications for Teaching Fire Emergency Responders</a>,
+<i>Proc CHI 2007</i>, 277-286 [25%].
+<a class="doi" href="http://dx.doi.org/10.1145/1240624.1240734" target="_blank">http://dx.doi.org/10.1145/1240624.1240734</a>
+</div>
+
+<div class="feature">
+<a target="_blank"  href="research/publications/kerneKohSituatedCreativeLearningNRHM12-2007.pdf">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/coEvolutionIcon3.jpg"/>
+</a>
+Kerne, A., Koh, E.,
+<a class="pub_destination" target="_blank"  href="research/publications/kerneKohSituatedCreativeLearningNRHM12-2007.pdf">
+Representing Collections as Compositions to Support Distributed Creative Cognition and Situated Creative Learning</a>,
+<i>New Review of Hypermedia and Multimedia (NRHM)</i>,
+13(2) Dec 2007, 135-162.
+<a class="doi" href="http://dx.doi.org/10.1080/13614560701711859" target="_blank">http://dx.doi.org/110.1080/13614560701711859</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/compositionPromotesEmergence.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/cc2007_icon.jpg"/>
+</a>
+Kerne, A., Koh, E., Smith, S.M., Choi, H., Graeber, R., Webb., A.,
+<a class="pub_destination" href="research/publications/compositionPromotesEmergence.pdf" target="_blank">
+Promoting Emergence in Information Discovery by Representing Collections with Composition</a>,
+<i>Proc ACM Creativity and Cognition 2007</i>, 117-126 [23%].
+<a class="doi" href="http://dx.doi.org/10.1145/1254960.1254977" target="_blank">http://dx.doi.org/10.1145/1254960.1254977</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/cFMM7-0.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/mm07_icon.jpg"/>
+</a>
+Koh, E., Kerne, A., Webb, A., Damaraju, S., Sturdivant, D.,
+<a class="pub_destination" href="research/publications/cFMM7-0.pdf" target="_blank">
+Generating Views of the Buzz: Browsing Popular Media and Authoring using Mixed-Initiative Composition</a>,
+<i>Proc ACM Multimedia 2007</i>, 228-237 [19%].
+<a class="doi" href="http://dx.doi.org/10.1145/1291233.1291282" target="_blank">http://dx.doi.org/110.1145/1291233.1291282</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/kohKerneDocEng07.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/doceng07_icon.jpg"/>
+</a>
+Koh, E., Caruso, D., Kerne, A., Gutierrez-Osuna, R.,
+<a class="pub_destination" href="research/publications/kohKerneDocEng07.pdf" target="_blank">
+Elimination of Junk Document Surrogate Candidates through Pattern Recognition</a>,
+<i>Proc ACM Symposium on Document Engineering (DocEng) 2007</i>, 187-195 [39%].
+<a class="doi" href="http://dx.doi.org/10.1145/1284420.1284466" target="_blank">http://dx.doi.org/110.1145/1284420.1284466</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/awebbThesis2007.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/awebbThesis.png"/>
+</a>
+Webb, A.,
+<i><a class="pub_destination" href="research/publications/awebbThesis2007.pdf" target="_blank">
+A Transitory Interface Component for the In-Context Visualization and Adjustment of a Value
+</a></i>,
+M.S. thesis, Texas A&amp;M University, August 2007.
+</div>
+
+<div class="feature">
+<a href="research/publications/kohKerneIR07.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/sigir07_icon.jpg"/>
+</a>
+Koh, E., Kerne, A., Hill, R.,
+<a class="pub_destination" href="research/publications/kohKerneIR07.pdf" target="_blank">
+Creativity Support: Information Discovery and Exploratory Search</a>,
+<i>Proc SIGIR 2007</i>, 895-896.
+<a class="doi" href="http://dx.doi.org/10.1145/1277741.1277963" target="_blank">http://dx.doi.org/110.1145/1277741.1277963</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/D027-kerne.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/jcdl07_icon.jpg"/>
+</a>
+Kerne, A., Koh, E.,
+<a class="pub_destination" href="research/publications/D027-kerne.pdf" target="_blank">
+Creativity support: the mixed-initiative composition space</a>,
+<i>Proc Joint ACM/IEEE Conf. on Digital Libraries (JCDL)</i>, 509-509.
+</div>
+
+<div class="feature">
+<a href="research/publications/exploratorysearchworkshop.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/chi_exploratorysearch_icon.jpg"/>
+</a>
+Koh, E., Kerne, A.,
+<a class="pub_destination" href="research/publications/exploratorysearchworkshop.pdf" target="_blank">
+combinFormation: Exploring Multiple Searches Together through the Mixed-Initiative Composition Space</a>,
+<i>CHI 2007 Workshop on Exploratory Search and HCI</i>, San Jose, California [24%].
+</div>
+
+<div class="feature">
+<a href="research/publications/MobSpatialWorkshop.pdf" target="_blank">
+<img
+  class="illustrate_left"
+  width="144"
+  height="100"
+  src="research/images/mobSpatialIcon.jpg"/>
+</a>
+Toups, Z. O., Kerne, A.,
+<a class="pub_destination" href="research/publications/MobSpatialWorkshop.pdf" target="_blank">
+Location-Aware Augmented Reality Gaming for Emergency Response Education: Concepts and Development</a>,
+<i>CHI 2007 Workshop on Mobile Spatial Interaction</i>, San Jose, California.
+</div>
+
+<div class="feature">
+<a	href="research/publications/fp025-kerne-2.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/combinFormationJCDL06Icon.png"/></a>
+Kerne, A., Koh, E., Dworaczyk, B., Mistrot, J.M., Choi, H.,
+Smith, S., Graeber, R., Caruso, D., Webb, A., Hill, R., Albea, J.,
+<a class="pub_destination"
+	href="research/publications/fp025-kerne-2.pdf" target="_blank">combinFormation: A
+Mixed-Initiative System for Representing Collections as Compositions of
+Image and Text Surrogates</a>,<br />
+<i>Proc Joint ACM/IEEE Conf. on Digital Libraries (JCDL) 2006</i>, 11-20 [23%].
+<a class="doi" href="http://dx.doi.org/10.1145/1141753.1141756" target="_blank">http://dx.doi.org/110.1145/1141753.1141756</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/choreographicButtonsMM06.pdf" target="_blank">
+<img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/cb/choreographicButtonsIcon.jpg"/>
+</a>
+Webb, A., Kerne, A., Koh, E., Joshi, P., Park, Y., Graeber, R.,
+<a class="pub_destination" href="research/publications/choreographicButtonsMM06.pdf" target="_blank">
+Choreographic Buttons: Promoting Social Interaction through Human
+Movement and Clear Affordances</a>, <i>Proc ACM Multimedia 2006</i>, 451-460 [16%].
+<a class="doi" href="http://dx.doi.org/10.1145/1180639.1180731" target="_blank">http://dx.doi.org/10.1145/1180639.1180731</a>
+</div>
+
+<div class="feature">
+<a	href="research/publications/zmicssMM06p795.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/zmicssRuinedChurch.jpg"/></a>
+Graeber, R., Kerne, A., Henderson, K.,
+<a class="pub_destination" href="research/publications/zmicssMM06p795.pdf" target="_blank">ZooMICSS:
+a zoomable map image collection sensemaking system (the Katrina Rita context)</a>,
+<i>Proc ACM Multimedia 2006</i>, 795-796 [37%].
+<a class="doi" href="http://dx.doi.org/10.1145/1180639.1180813" target="_blank">http://dx.doi.org/110.1145/1180639.1180813</a>
+</div>
+
+<div class="feature">
+<a	href="research/publications/physiRogueACI06.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/PRogueIcon.jpg"/></a>
+Toups, Z. O., Graeber, R., Kerne, A., Tassinary, L., Berry, S., Overby, K., Johnson, M.,
+<a class="pub_destination"
+	href="research/publications/physiRogueACI06.pdf" target="_blank">A
+Design for Using Physiological Signals to Affect Team Game Play</a>, <i>Proc
+Augmented Cognition International 2006</i>.
+</div>
+
+<div class="feature">
+<a	href="research/publications/IKeepCollecting.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/ecdl.jpg"/></a>
+Koh, E., Kerne, A.,
+<a class="pub_destination" href="research/publications/IKeepCollecting.pdf" target="_blank">
+I Keep Collecting: College Students Build and Utilize Collections in Spite of Breakdowns</a>, <i>Proc European Conf
+on Digital Libraries (ECDL) 2006</i>, 303-314 [27%].
+<a class="doi" href="http://dx.doi.org/10.1007/11863878_26" target="_blank">http://dx.doi.org/10.1007/11863878_26</a>
+</div>
+
+<div class="feature">
+<a href="research/publications/supportingLearningExperiencesEDMED1-6.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/edmedia.jpg"/></a>
+Kerne, A., Koh, E., Choi, H., Dworaczyk, B., Smith, S.M., Hill, R., Albea, J.,
+<a class="pub_destination"
+	href="research/publications/supportingLearningExperiencesEDMED1-6.pdf" target="_blank">Supporting
+Creative Learning Experience with Compositions of Image and Text Surrogates</a>, <i>Proc Ed Media&nbsp;2006</i>.
+</div>
+
+<div class="feature">
+<a
+	href="research/publications/censorChairMM05.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/censorChairIcon.jpg"/></a>
+Alley, E., Cooper, T., Graeber, R., Kerne, A., Overby, K., Toups, Z.,
+<a class="pub_destination"
+	href="research/publications/censorChairMM05.pdf" target="_blank">Censor Chair: Exploring Censorship and Social Presence through
+Psychophysiological Sensing</a>,
+<i>Proc ACM Multimedia 2005</i>, 922-929 [16%].
+<a class="doi" href="http://dx.doi.org/10.1145/1101149.1101345" target="_blank">http://dx.doi.org/10.1145/1101149.1101345</a>
+</div>
+
+<div class="feature">
+<a
+	href="research/publications/playasHomelandMirageMM05.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/welcomeToPlayasIcon.jpg"/></a>
+Stenner, J., Kerne, A., Williams, Y., Playas: Homeland Mirage,
+<i>ISEA/Zero One</i>, Aug 2006, San Jose.
+<div style="padding-top:8px;">
+Stenner, J., Kerne, A., Williams, Y.,
+<a class="pub_destination"
+	href="research/publications/playasHomelandMirageMM05.pdf" target="_blank">Playas: Homeland Mirage</a>,
+	<i>Proc ACM Multimedia 2005</i>,  1057-1058 [28%].
+<a class="doi" href="http://dx.doi.org/10.1145/1101149.1101375" target="_blank">http://dx.doi.org/10.1145/1101149.1101375</a>
+</div>
+</div>
+
+
+<div class="feature">
+<a
+	href="research/publications/andruidMetadisciplinaritySiggraph05.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/metadisciplinarityDiagram3q.png"/></a>
+Kerne, A.,
+<a class="pub_destination"
+	href="research/publications/andruidMetadisciplinaritySiggraph05.pdf" target="_blank">doing
+interface ecology: the practice of metadisciplinarity</a>, <i>Proc
+SIGGRAPH Art and Animation</i>, 181-185 [20%].
+<a class="doi" href="http://dx.doi.org/10.1145/1086057.1086144" target="_blank">http://dx.doi.org/10.1145/1086057.1086144</a>
+</div>
+
+<div class="feature">
+<a
+	href="research/publications/generativeSemanticClusteringDocEng05.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/doceng.jpg"/></a>
+
+Kerne, A., Koh, E., Sundaram, V., Mistrot, J.M.,
+<a class="pub_destination"
+	href="research/publications/generativeSemanticClusteringDocEng05.pdf" target="_blank">Generative
+semantic clustering in spatial hypertext</a>, <i>Proc ACM Document Engineering (DocEng) 2005</i>, 84-93 [30%].
+<a class="doi" href="http://dx.doi.org/10.1145/1096601.1096624" target="_blank">http://dx.doi.org/10.1145/1096601.1096624</a>
+</div>
+
+<div class="feature">
+<a
+	href="research/publications/evaluatingNavigationalSurrogatesCHI05.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/navigationSurrogatesIcon.png"/></a>
+Kerne, A., Smith, S.M., Choi, H., Graeber, R., Caruso, D.,
+<a class="pub_destination"
+	href="research/publications/evaluatingNavigationalSurrogatesCHI05.pdf" target="_blank">Evaluating
+Navigational Surrogate Formats with Divergent Browsing Tasks</a>, <i>Proc CHI 2005 Extended</i>, 1537-1540.
+<a class="doi" href="http://dx.doi.org/10.1145/1056808.1056960" target="_blank">http://dx.doi.org/10.1145/1056808.1056960</a>
+</div>
+
+<div class="feature">
+<a
+	href="research/publications/re-presentingTheHypersign4-3.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images/cosignIcon1.jpg"/></a>
+Kerne, A., Mistrot, J.M., Khandelwal, M.,Sundaram, V., Koh, E.,
+<a class="pub_destination"
+	href="research/publications/re-presentingTheHypersign4-3.pdf" target="_blank">Using
+Composition to Re-Present Personal Collections of Hypersigns</a>, <i>Proc
+Computational Semiotics in Games and New Media (CoSIGN) 2004</i>, Split, Croatia.
+</div>
+
+<div class="feature">
+<a
+	href="research/publications/meetTheParticipantUser1996.pdf" target="_blank"><img
+	class="illustrate_left"
+	width="144"
+	height="100"
+	src="research/images//1x1.gif"/></a>
+Kerne, A.,
+<a class="pub_destination"
+	href="research/publications/meetTheParticipantUser1996.pdf" target="_blank">acm forum:
+Meet the Participant User</a>, <i>Communications of the ACM</i>, Feb 1996, p 12.
+</div>
+
+<br clear="all"/>
+<br/>
+Thanks for support provided by the National Science Foundation.
+</div>
+
+</div>
+</body>
+</html>

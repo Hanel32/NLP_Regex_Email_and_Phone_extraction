@@ -1,0 +1,258 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"  />
+<title>Ricardo Gutierrez-Osuna - Perception, Sensing &amp; Instrumentation lab</title>
+<meta name="generator" content="WordPress 4.4.2" />
+<meta name="robots" content="follow, all" />
+<link rel="stylesheet" href="http://psi.cse.tamu.edu/wp-content/themes/vulcan/style.css" type="text/css" media="screen" />
+<link rel="shortcut icon" href="http://psi.cse.tamu.edu/wp-content/uploads/2012/07/psi_favicon6.png"/>
+<link rel="alternate" type="application/rss+xml" title="Perception, Sensing &amp; Instrumentation lab RSS Feed" href="http://psi.cse.tamu.edu/feed/" />
+<link rel="pingback" href="http://psi.cse.tamu.edu/xmlrpc.php" />
+<style type="text/css">
+@import url("http://psi.cse.tamu.edu/wp-content/themes/vulcan/css/styles/default.css");
+      body{
+      	font-family:Arial, sans-serif;	
+      	font-size:13px;	
+      	color:#4d4d4d;
+      }    
+      p, ul, ol, blockquote{
+      	font-size:13px;
+      	color:#4d4d4d;
+      }      
+    /* SA Aug 9th - to hide the company news that appears in right corner of the footer */
+#footer-news{
+display: none;
+}
+#get-in-touch{
+display: none;
+}
+
+a:link {color:#333377;}      /* unvisited link */ 
+a:visited {color:#773333;}  /* visited link */
+a:hover {text-decoration:underline;}  /* mouse over link */
+a:active {text-decoration:underline;}  /* selected link */ 
+p.nocomments {
+display: none;
+}
+#footer-address p
+{
+color: #B6B5B5;
+}
+
+</style>
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.2.3 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-34041314-1']);
+</script><script src="http://psi.cse.tamu.edu/wp-content/plugins/google-analytics-for-wordpress/custom_se_async.js" type="text/javascript"></script>
+<script type="text/javascript">	_gaq.push(['_setCustomVar',2,'post_type','page',3],['_setCustomVar',3,'author','rgutier',3],['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/psi.cse.tamu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/jquery.cycle.all.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/jquery.corner.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/jquery.prettyPhoto.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/jquery.tools.tabs.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/jquery.gmap.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/functions.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://psi.cse.tamu.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://psi.cse.tamu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://psi.cse.tamu.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel="canonical" href="http://psi.cse.tamu.edu/people/ricardo-gutierrez-osuna/" />
+<link rel='shortlink' href='http://psi.cse.tamu.edu/?p=500' />
+<link rel="alternate" type="application/json+oembed" href="http://psi.cse.tamu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpsi.cse.tamu.edu%2Fpeople%2Fricardo-gutierrez-osuna%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://psi.cse.tamu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpsi.cse.tamu.edu%2Fpeople%2Fricardo-gutierrez-osuna%2F&#038;format=xml" />
+
+<!-- teachPress 3.1.4 -->
+<script type="text/javascript" src="http://psi.cse.tamu.edu/wp-content/plugins/teachpress/js/frontend.js"></script>
+<link type="text/css" href="http://psi.cse.tamu.edu/wp-content/plugins/teachpress/styles/teachpress_front.css" rel="stylesheet" />
+<!-- END teachPress -->
+	<link rel="stylesheet" href="http://psi.cse.tamu.edu/wp-content/themes/vulcan/css/prettyPhoto.css" type="text/css" media="screen" />
+<!-- this link is not required because header.php is already running the custom_style.php to add the theme related css  - Aug 9th 2012 - SA
+	<link rel="stylesheet" href="http://psi.cse.tamu.edu/wp-content/themes/vulcan/css/custom_style.php" type="text/css" media="screen" />
+-->
+  <!--[if IE 6]>    
+	<link href="http://psi.cse.tamu.edu/wp-content/themes/vulcan/css/ie6.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/DD_belatedPNG.js"></script>
+	<script type="text/javascript"> 
+	   DD_belatedPNG.fix('img'); 
+       DD_belatedPNG.fix('#pager a, ul.list-bottom li');
+       DD_belatedPNG.fix('#footer-content, .dot-separator');
+       DD_belatedPNG.fix('blockquote');   
+	</script>    
+<![endif]-->
+<!--[if IE 7]>    
+	<style type="text/css">
+    #pager{top:260px;margin-left:0;right:20px;}
+    #slideshow {height:298px;}
+    #content .front-box-content{padding-bottom:45px;}
+    .intouch { margin-top: -40px;}
+    </style>
+<![endif]-->
+<!--[if IE 8]>    
+	<style type="text/css">
+    #pager{top:260px;}
+    </style>
+<![endif]-->
+
+<!-- ////////////////////////////////// -->
+<!-- //      Javascript Files        // -->
+<!-- ////////////////////////////////// -->
+<script type="text/javascript" src="http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/cufon-yui.js"></script>
+<script type="text/javascript" src="http://psi.cse.tamu.edu/wp-content/themes/vulcan/js/fonts/Vegur_300.font.js"></script>
+
+<script type="text/javascript">
+    Cufon.replace('h1') ('h2') ('h3') ('h4') ('h5') ('h6') ('.slide-more') ('.heading1-slide') ('.heading2-slide') ('.more-button') ('.navigation a',{hover:true})('.page-navigation',{hover:true}) ('.date') ('.month') ('.wp-pagenavi') ;
+    Cufon.set('fontWeight', 'Normal');
+</script>  
+</head>
+<body>
+	<div id="container">
+    
+    	<!-- BEGIN OF HEADER -->
+    	<div id="top-container-inner">
+        
+        	<!-- begin of logo and mainmenu -->
+        	<div id="header">
+            	<div id="logo">
+              								<a href="http://psi.cse.tamu.edu"><img src="http://psi.cse.tamu.edu/wp-content/uploads/2012/07/psi_logo_small2.png" alt="Perception, Sensing &amp; Instrumentation lab" /></a>
+              </div>
+              <div id="mainmenu">
+                <ul id="menu-psi-main-menu" class="navigation"><li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-53"><a href="http://psi.cse.tamu.edu/people/" >People</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://psi.cse.tamu.edu/research/" >Research</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://psi.cse.tamu.edu/publications/" >Publications</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51"><a title="Lecture notes and course materials" href="http://psi.cse.tamu.edu/teaching/" >Teaching</a>
+<ul class="sub-menu">
+	<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636"><a href="http://psi.cse.tamu.edu/teaching/lecture_notes/" >Lecture notes</a></li>
+	<li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="http://psi.cse.tamu.edu/teaching/courses/" >Courses</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a title="Openings available for Fall 2013" href="http://psi.cse.tamu.edu/jobs/" >Jobs</a></li>
+</ul>              </div>          
+            </div>
+            <!-- end of logo and mainmenu -->
+            
+                        
+            <!-- begin of welcome-slogan -->
+                        <!-- end of welcome-slogan -->
+          <div class="clear"></div>            
+        </div>
+        <div class="clear"></div>
+        <!-- END OF HEADER -->        <!-- BEGIN OF PAGE TITLE -->
+              
+        <div id="page-title">
+        	<div id="page-title-inner">
+                <div class="title">
+                <h1>Ricardo Gutierrez-Osuna</h1>
+                </div>
+                <div class="dot-separator-title"></div>
+                <div class="description">
+                                                      <p></p>
+                </div>
+            </div>   	            
+        </div>
+        <!-- END OF PAGE TITLE --> 
+        
+        <!-- BEGIN OF CONTENT -->
+        <div id="content">
+        	   <div id="content-inner-fullwidth">          
+                <div class="maincontent">
+                                <h2><span style="color: #000000;">Positions <a href="http://psi.cse.tamu.edu/wp-content/uploads/2012/07/rgo2-e1343359862911.jpg" ><img class=" wp-image-260 alignright" title="rgo2" src="http://psi.cse.tamu.edu/wp-content/uploads/2012/07/rgo2-e1343359862911.jpg" alt="" width="191" height="277" /></a></span></h2>
+<p>Professor (<a href="http://research.cs.tamu.edu/prism/docs/rgo_cv.pdf" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/download/http://research.cs.tamu.edu/prism/docs/rgo_cv.pdf']);">Curriculum Vitae</a>)<br />
+Director, PSI lab</p>
+<h2>Interests</h2>
+<p>Intelligent sensors, machine learning, speech processing</p>
+<h2>Education</h2>
+<p>Ph.D., Computer Engineering, North Carolina State University, 1998<br />
+M.S., Computer Engineering, North Carolina State University, 1995<br />
+B.S., Electrical Engineering, Universidad Politecnica de Madrid (Spain), 1992</p>
+<h2>Contact Information</h2>
+<p>506A H.R. Bright Building<br />
+Department of Computer Science and Engineering<br />
+Texas A&amp;M University<br />
+College Station, TX 77843-3112</p>
+<p>Voice: (979) 845-2942<br />
+Fax: (979) 845-1420<br />
+Email: rgutier[at]cse.tamu.edu</p>
+<h2>Professional Affiliations</h2>
+<p>IEEE, Senior Member<br />
+ISOCS, Steering Committee, Member</p>
+<p>&nbsp;</p>
+                     
+                </div>
+            </div>
+                    
+                  
+        </div>
+        <!-- END OF CONTENT -->
+                <!-- BEGIN OF FOOTER -->
+        <div id="bottom-container">
+        	<div id="footer-content">
+            
+            	<!-- begin of footer-address --> 
+            	<div id="footer-address">
+                                <img src="http://psi.cse.tamu.edu/wp-content/uploads/2012/07/psi_logo_neg_small1.png "  alt="Perception, Sensing &amp; Instrumentation lab" />
+                <p>506 H. R. Bright Building - Department of Computer Science and Engineering - Texas A&M University - College Station, TX 77840-3112</p>
+                <p>
+                Phone (979) 845-2942, 
+                Fax (979) 845-1420<br/>
+                Email rgutier@cse.tamu.edu                </p>
+                </div>
+                <!-- end of footer-address -->
+                
+                <div id="footer-news">
+                                    <h3>Company News</h3>    <ul class="list-bottom">
+        </ul>
+                                  </div>                
+                <!-- begin of footer-menu and copyright -->
+                <div id="footer-last">
+                	<div id="footer-menu">
+                  <ul id="menu-psi-footer-menu" class="navigation-footer"><li id="menu-item-859" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-859"><a href="http://psi.cse.tamu.edu/people/" >People</a></li>
+<li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="http://psi.cse.tamu.edu/research/" >Research</a></li>
+<li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href="http://psi.cse.tamu.edu/publications/" >Publications</a></li>
+<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="http://psi.cse.tamu.edu/teaching/" >Teaching</a></li>
+<li id="menu-item-860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-860"><a href="http://psi.cse.tamu.edu/jobs/" >Jobs</a></li>
+</ul>                    </div>
+                    <div id="footer-copyright">
+                                        Perception, Sensing & Instrumentation Lab                    </div>
+                </div>
+                <!-- end of footer-menu and copyright -->
+                            
+            </div>
+        </div>
+        <!-- END OF FOOTER -->
+    	
+    </div>
+        <script type='text/javascript' src='http://psi.cse.tamu.edu/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: psi.cse.tamu.edu @ 2017-08-25 10:05:08 by W3 Total Cache -->

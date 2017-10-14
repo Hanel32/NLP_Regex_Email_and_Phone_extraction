@@ -1,0 +1,135 @@
+<HTML>
+<HEAD>
+<TITLE>Riccardo Bettati</TITLE>
+</HEAD>
+<BODY BGCOLOR = "333366"
+text="#f0f0f0"
+link="#d0b090"
+vlink="#00ffcc">
+<TABLE CELLPADDING=0 CELLSPACING=10 BORDER=0>
+  <TR>
+    <!--INCLUDE-side.html.inc>
+<!-- SIDE.HTML.INC
+   This is the html source for the side table used on all other
+   pages this cannot be viewed as is, it must be included!!   
+   (Nicked from Geoff Dillon's page.)
+-->
+
+<TD VALIGN=TOP WIDTH=220>
+   <TABLE WIDTH="210" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+     <TR VALIGN="TOP">
+       <TD WIDTH=210>
+<!--         <FONT FACE="ARIAL,HELVETICA" COLOR="#ffffff" SIZE="3">
+-->
+
+	 &nbsp;<B> Sites</B><P>
+         &nbsp;&nbsp;<A HREF="http://faculty.cs.tamu.edu/bettati">My Home Page</A><br>
+         &nbsp;&nbsp;<A HREF="http://www.tamu.edu/">TAMU Home Page</A><br>
+         &nbsp;&nbsp;<A HREF="http://www.cs.tamu.edu/">TAMU CS Home Page</A><br>
+
+         <BR CLEAR=ALL>
+
+         &nbsp;<B>Research</B><p>
+	 &nbsp;&nbsp;<A
+	 HREF="experience.html">Experience</a><br>
+	 &nbsp;&nbsp;<A
+	 HREF="research.html">Interests</a><br>
+
+         <BR CLEAR=ALL>
+
+         &nbsp;<B>Professional</B><p>
+	 &nbsp;&nbsp;<A
+	 HREF="activities.html">Activities</a><br>
+
+         <BR CLEAR=ALL>
+
+         &nbsp;<B>Projects</B><p>
+
+	 &nbsp;&nbsp;<A HREF="http://vtech.tamu.edu/index.html">VTech</a><br>
+
+	 &nbsp;&nbsp;<A HREF="http://netex.cs.tamu.edu/">TAMU-NetEx</a><br>
+	 &nbsp;&nbsp;RT-ARM<br>
+	 &nbsp;&nbsp;<A HREF="http://netcamo.cs.tamu.edu/">NetCamo</a><br>
+	 &nbsp;&nbsp;<A
+ HREF="hydranet_overview.html">HydraNet</a><br>
+	 &nbsp;&nbsp;<a
+	 href="panic_overview.html">Panic</a><br>
+
+         <BR CLEAR=ALL>
+             
+         &nbsp;<B>Publications</B><p>
+	 &nbsp;&nbsp;<A
+	 HREF="selected_papers.html">Selected
+	 Papers</a><br>
+	 &nbsp;&nbsp;<A
+	 HREF="tech_reports.html">Technical
+	 Reports</a><br>
+
+         <BR CLEAR=ALL>
+             
+         &nbsp;<B>Courses</B><p>
+
+         &nbsp;&nbsp;
+         <A HREF="Courses/489CryptoCurrencies/2017A/course_homepage.html">SpTp Cryptocurrencies (S17)</A><BR>
+         &nbsp;&nbsp;
+
+         <A HREF="Courses/313/2016B/course_homepage.html">Intro Comp Systems (Sum16)</A><BR>
+         &nbsp;&nbsp;
+         <A HREF="Courses/410/2017A/course_homepage.html">UG Operating Systems (S17)</A><BR>
+         &nbsp;&nbsp;
+         <A HREF="Courses/613/2013A/course_homepage.html">G Operating Systems (S13)</A><BR>
+         &nbsp;&nbsp;
+         <A HREF="Courses/662/2007A/course_homepage.html">Distributed Systems (S07)</a><br>
+	 &nbsp;&nbsp;
+         <A HREF="Courses/663/2016C/course_homepage.html">Real-TimeSystems(F16)</a><br>
+	 &nbsp;&nbsp;
+         <A HREF="Courses/681/Fall-2002/course_homepage.html">Graduate Seminar</a><br>
+
+         <BR CLEAR=ALL>
+
+         &nbsp;<B>Misc</B><p>
+         &nbsp;&nbsp;
+<A HREF="note_to_students.html">Note to Prospective Students</a><br>
+        
+<!--       </FONT>
+-->
+     <HR>
+     </TD>
+   </TR>
+
+  </TABLE>
+</TD>
+
+    <TD Valign=top Width=500>
+	<FONT FACE="Arial,Helvetica" SIZE=6>
+	<P>Riccardo Bettati --  Professor</P>
+	<HR>
+	<FONT SIZE=4>
+        <TABLE COLSPAN=2 ALIGN=ABSCENTER CELLSPACING=10 CELLPADDING=0 WIDTH="100%" >
+          <TR ALIGN=LEFT VALIGN=CENTER>
+             <TD WIDTH="40%"><IMG SRC="bettati.gif" ALIGN=LEFT
+VALIGN=TOP BORDER=1></TD>
+             <TD ALIGN=LEFT VALIGN=TOP WIDTH="50%">
+             <P>Riccardo Bettati</P>
+             <P>Professor<BR>
+             Department of Computer Science</P>
+	       <P>Director<BR>
+	       Texas A&amp;M University Center for Information
+             Assurance and Security</P>
+             <P>Texas A&amp;M University<BR>
+             College Station, TX 77843-3112</P>
+             <P><B>Office: </B>509C H. R. Bright Building<BR>
+             <B>Phone: </B>(979) 845-5469<BR>
+             <B>Fax: </B>(979) 847-8578<BR>
+             <B>Email: </B>bettati@cs.tamu.edu<BR>
+             <B>Web: </B>http://www.cs.tamu.edu/faculty/bettati</P>
+             </TD>
+          </TR>
+        </TABLE>
+	</FONT>
+        <HR>
+    </TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>

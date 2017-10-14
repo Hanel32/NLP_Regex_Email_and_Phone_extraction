@@ -1,0 +1,696 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; 
+  for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) 
+    x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; 
+  if(d.images){ 
+    if(!d.MM_p) 
+      d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
+    for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ 
+	d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+    }
+  }
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  
+  if(!d) d=document; 
+  if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; 
+    n=n.substring(0,p);
+  }
+  if(!(x=d[n])&&d.all) 
+    x=d.all[n]; 
+  for (i=0;!x&&i<d.forms.length;i++) 
+    x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) 
+    x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) 
+    x=d.getElementById(n); 
+  return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; 
+  document.MM_sr=new Array; 
+  for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){
+     document.MM_sr[j++]=x; 
+     if(!x.oSrc) x.oSrc=x.src; 
+     x.src=a[i+2];
+   }
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+     document.MM_pgH=innerHeight; 
+     onresize=MM_reloadPage; 
+    }
+  }else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) 
+    location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+
+<HTML>
+<!-- MAIN HEADER FOR THE PARASOL WEBSITE
+     In charge of the banner with the logo and the graphic tabs linking
+     to the different sections of the site.
+-->
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link href="/php/includes/parasol.css" rel="stylesheet" type="text/css">
+<link href="/php/includes/seminar.css" rel="stylesheet" type="text/css">
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0
+MARGINHEIGHT=0
+onLoad="MM_preloadImages('/images/main_menu/home-o.gif',
+        '/images/main_menu/resources-o.gif',
+        '/images/main_menu/people-o.gif',
+        '/images/main_menu/general-o.gif',
+        '/images/main_menu/seminars-o.gif',
+        '/images/main_menu/research-o.gif',
+        '/images/main_menu/intranet.png',
+        '/images/main_menu/intranet-o.png')" >
+<font class="bodytext">
+<!-- parasol-www-status.incl - centralized server status page for all Parasol sites -->
+<!-- parasol-www-status-notes.incl - notifications about Parasol web server -->
+<!-- When no notifications are necessary, comment out the below (with HTML comments) -->
+<!--
+<center>
+<H4>
+<span style="border:red solid 4px;text-align:center;color:red;background-color:yellow">
+We are experiencing technical difficulties at this moment. You may need to try load the page repeatedly. We are looking forward to fix this issue. 
+</span>
+</H4>
+</center>
+-->
+<!--
+## MAINTENANCE NOTICE 
+<center>
+<H4>
+<span style="border:red solid 4px;text-align:center;color:red;background-color:yellow">
+The Parasol website site will be down for maintenance from Friday May 29 22:00 to Saturday May 30 16:00 CST.
+</span>
+</H4>
+</center>
+comment closer-->
+<!-- parasol-www-status-db-check.incl - check status of Parasol DB server -->
+
+
+<!-- EOF -->
+<!-- EOF -->
+
+<script language="Javascript" type="text/Javascript">
+<!--
+function validate_edit() {
+if (document.edit_seminar.seminar.value != '0') {
+	document.edit_seminar.submit();
+} else {
+	alert("Select semester and year to edit");
+}
+}
+
+function validate_insert(seminar_name) {
+if (document.insert_seminar.semester_to_insert.value != '0' &&
+	document.insert_seminar.year_to_insert.value != '0') {
+	var agree = confirm("New "+ seminar_name + " seminar: "+document.insert_seminar.semester_to_insert.value+" "+document.insert_seminar.year_to_insert.value);
+	if (agree)
+		document.insert_seminar.submit();
+} else {
+	alert("Select semester and year to insert");
+}
+}
+
+function confirm_delete_seminar() {
+document.delete_seminar.seminar.value = document.edit_seminar.seminar.value;
+if (document.delete_seminar.seminar.value != '0') {
+	var agree = confirm(document.edit_seminar.seminar.options[document.edit_seminar.seminar.selectedIndex].text+" Seminar will be deleted");
+	if (agree)
+		document.delete_seminar.submit();
+} else {
+	alert("Select semester and year to delete");
+}
+}
+
+function confirmDeleteTalk(obj, seminar_label, talk_label) {
+var agree = confirm("Talk: " + talk_label + "\nwill be deleted from " + seminar_label + " Seminar");
+if (agree)
+	obj.submit();
+}
+
+function confirmSpeaker(form,action) {
+if (form.speaker_id.value != '-1') {
+	var agree = confirm(form.speaker_id.options[form.speaker_id.selectedIndex].text+" will be "+action+" this talk");
+	if (agree)
+		form.submit();
+} else {
+	alert("No speaker was selected to be "+action+" this talk");
+}
+}
+
+function validateSearchSpeaker(form) {
+if (form.firstname.value == '' && form.lastname.value =='') {
+	alert("Error: either of the name boxes have to be filled to search a speaker");
+} else {
+		form.submit();
+}
+}
+
+
+function checkUrl(theUrl){
+  if(theUrl.value.match(/^(http|ftp)\:\/\/\w+([\.\-]\w+)*\.\w{2,4}(\:\d+)*([\/\.\-\?\&\%\#\=]\w+)*\/?$/i) ||
+     theUrl.value.match(/^mailto\:\w+([\.\-]\w+)*\@\w+([\.\-]\w+)*\.\w{2,4}$/i)){
+    return true;
+  } else {
+    theUrl.select();
+    theUrl.focus();
+    return false;
+  }
+}
+function validateTalkInfo(form) {
+var agree = confirm("Updating records");
+if (agree)
+	form.submit();
+}
+
+function validateBioSelection(form) {
+var some_checked=0;
+if (!form.bio.length) {
+	if (form.bio.checked)
+		some_checked = 1;
+} else {
+	for (var i=0;i<form.bio.length; i++) {
+		if (form.bio[i].checked) {
+			some_checked=1;
+			break;
+	}
+}
+}
+if (!some_checked) {
+	alert("Error: no biography has been checked yet");
+} else {
+	form.submit();
+}
+}
+
+function openwindow(mywindow){
+	window.open(mywindow,"New","status=no,toolbar=yes,scrollbars=yes,left=0,top=0,width=800,height=850");
+}
+
+
+function validate_institution(form,button_value) {
+if (form.institution.value != '-1') {
+	form.institution_action.value=button_value;
+	form.submit();
+} else {
+	alert("Select institution");
+}
+}
+
+function validate_institution_subunit(form,button_value) {
+if (form.institution_subunit.value != '-1') {
+	form.institution_subunit_action.value=button_value;
+	form.submit();
+} else {
+	alert("Select institution subunit (department, college, etc...)");
+}
+}
+
+function validate_institution_action(form,button_value,action) {
+form.institution_action.value=button_value;
+if (action == 'Edit') {
+	if (form.institution_name.value != '' && form.institution_short_name.value != '' && form.institution_url.value != '') {
+		var agree = confirm("Institution will be saved in the database");
+		if (agree)	
+			form.submit();
+
+	} else {
+		alert("Required fields are still missing");
+	}
+} else
+	form.submit();
+}
+
+
+function validate_institution_subunit_action(form,button_value,action) {
+form.institution_subunit_action.value=button_value;
+if (action == 'Edit') {
+	if (form.institution_subunit_name.value != '' && form.institution_subunit_short_name.value != '' && form.institution_subunit_url.value != '') {
+		var agree = confirm("Institution subunit will be saved in the database");
+		if (agree)	
+			form.submit();
+
+	} else {
+		alert("Required fields are still missing");
+	}
+} else
+	form.submit();
+}
+
+//-->
+</script>
+
+<!-- 
+NMA: after we remove require('pubs.inc.php') from other files 
+we put it here.
+-->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/parasol-top-18-slices_10.gif" bgcolor="#FFFFFF">
+  <tr> 
+    <td><img src="/images/header.gif" width=780 height=57 alt=""></td>
+  </tr>
+  <tr> 
+    <!-- 27feb2012/davidr: Extending from 780->859 pixels to fit new intranet
+         button. Also the table row below increased from 546->620 -->
+    <td height="31" align="left" valign="top"><table width="859" height="28" border="0" cellpadding="0" cellspacing="0" background="/images/parasol-top-18-slices_10.gif">
+        <tr> 
+          <td width="620" height="28"> 
+	  <a href="/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','/images/main_menu/home-o.gif',1)"><img src="/images/main_menu/grayspace.gif" width="71" height="29" border="0"><img src="/images/main_menu/home.gif" alt="Home" name="Home" width="42" height="29" border="0"></a>
+          <a href="/research.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('research','','/images/main_menu/research-o.gif',1)"><img src="/images/main_menu/research.gif" alt="research" name="research" width="68" height="29" border="0"></a>
+          <a href="/people/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('People','','/images/main_menu/people-o.gif',1)"><img src="/images/main_menu/people.gif" alt="People" name="People" width="54" height="29" border="0"></a>
+          <a href="/geninfo/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('General Info','','/images/main_menu/general-o.gif',1)"><img src="/images/main_menu/general.gif" alt="General Info" name="General Info" width="95" height="29" border="0"></a>
+          <a href="/seminar/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Seminars','','/images/main_menu/seminars-o.gif',1)"><img src="/images/main_menu/seminars.gif" alt="Seminars" name="Seminars" width="68" height="29" border="0"></a>
+         <a href="/resources/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Resources','','/images/main_menu/resources-o.gif',1)"><img src="/images/main_menu/resources.gif" alt="Resources" name="Resources" width="74" height="29" border="0"></a>
+         <a href="/intranet/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Intranet','','/images/main_menu/intranet-o.png',1)"><img src="/images/main_menu/intranet.png" alt="Intranet" name="Intranet" width="74" height="29" border="0"></a>
+<!-- 20jul2011/davidr removed this image was always in bad place. -->
+<!-- <img src="/images/main_menu/search.gif" width="70" height="29"> -->
+<!-- 20jul2011/davir added a search button to replace gif above. -->
+<!-- Search implementation using Google limited to site. Will complain due to
+     the search being unencrypted, i.e. we leave the https area for a while -->
+</td>
+     <td width="250" align="right"> 
+	<FORM method=GET action="http://www.google.com/search">
+          <input name="q" type="text" size="16" maxlength="600">
+          <input type=submit name=btnG value="Search">
+	  <input TYPE="hidden" value="parasol.tamu.edu" name=as_sitesearch>
+	  </FORM>
+	  </td>
+<!-- Removed link to unimplemented index functionality  -->
+<!--          <td align="right"><img src="/images/main_menu/a-z-index.gif" alt="" width=87 height=29 border="0" usemap="#AZIndex"></td> -->
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="1" cellspacing="0" bordercolor="#666666" bgcolor="#FFFFFF">
+  <tr> 
+    <td>
+	<table width="100%" border="0" cellpadding="0" cellspacing="5" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+        <tr> 
+          <td> 
+            <!--Sub Menu TITLE goes here  (i.e. Home, Research, Resources etc. specific to this group.)-->
+            <font face="Arial, Helvetica, sans-serif" size="2" class = parasol_blue>
+	    | Software Engineering Group |</font> 
+            <!--Sub MENU LINKS go here-->
+           <small>
+	    <a href="/groups/huangroup/" > Home </a> 
+	    | <a href="/groups/huangroup/research.html"> Research </a> 
+	    | <a href="/people/jeff/#research"> Publications </a> 
+	    | <a href="/groups/huangroup/people.html"> People </a> 
+	    | <a href="/people/jeff/#news"> News </a> 
+	   </small> 
+	</td>
+        </tr>
+      </table>
+      <!-- END SUB MENU TABLE ---------------------------------------------->
+    </td>
+  </tr>
+</table>
+
+<script language="javascript">
+function write_mail(host,mailto)
+ {
+     document.write(mailto + "@" + host);
+ }
+</script>
+
+<!-- Makes link they can click and send an email.... we don't want it so easy... -->
+<script language="javascript">
+function write_mail2(host,mailto)
+ {
+     document.write("<A HREF=\"mailto");
+     document.write(":" + mailto + "@");
+     document.write(host + "\">" + mailto + "@" + host + "<\/a>");
+ }
+</script>
+	      
+
+<title>Home Page for Jeff Huang | Parasol Laboratory</title>
+
+<p>
+<hr width="90%" noshade>
+
+<table width=100% border=0 cellpadding=0 cellspacing=2>
+<tr valign="bottom">
+
+<td align="center" valign="center">
+<IMG SRC="../../media/photo/people/Huang.Jeff.JPG" alt="Picture" width="200"></td>
+
+ <td align="left">
+  <nobr><font class="pagetitle">Jeff Huang</font><br></nobr>
+  <nobr><font class="largertext"><font class="parasol_blue">Assistant Professor</font></font><br></nobr>
+  <nobr><a href="/groups/huangroup/">  Software Engineering Group </a><br></nobr>
+  <br>
+ 
+ <table width=100% border=0 cellpadding=0 cellspacing=2>
+
+  <tr>
+  <td align="left"><nobr><a href="/">Parasol Laboratory</a></nobr></td>
+  <td align="right"><b>url:</b></td>
+  <td align="left"><nobr><a href=".">http://parasol.tamu.edu/~jeff/</nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left"><nobr><a href="http://www.cse.tamu.edu/" target="_blank">Department of Computer Science and Engineering </a></nobr></td>
+  <td align="right"><b>email:</b></td>
+  <td><nobr><script  LANGUAGE="JavaScript" type="text/javascript"> 
+      write_mail("tamu.edu","jeffhuang") </script></nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left"><nobr><a href="http://www.tamu.edu/" target="_blank">Texas A&amp;M University</a></nobr></td>
+  <td align="right"><b>office:</b></td>
+  <td align="left"><nobr>416 HRBB</nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left"><nobr><a href="http://www.cstx.gov/" target="_blank"> College Station</A>, TX 77843-3112</nobr></td>
+  <td align="right"><b>tel:</b></td>
+  <td align="left"><nobr>979-845-5485</nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left">USA</td>
+  <td align="right"><b>fax:</b></td>
+  <td align="left"><nobr> 
+  (979) 458-0718</nobr></td>
+  </tr>
+  
+ </table>
+ </td>
+
+</tr>
+</table>
+
+<!-- ========================== -->
+<p><hr width="90%" noshade>
+
+
+
+<!-- Below here is where the user should be doing their personalization  -->
+<!-- An example webpage can be found in the Parasol intranet at:         -->
+<!-- http://parasol.tamu.edu/intranet/                                   -->
+
+<h2><a name="news">News</a></h2>
+<ul>
+    <b><img src="images/new.gif" border="0" height="15" width="36"><font size="4" color="black"><em>I'll Co-Chair the 15th International Workshop on Dynamic Analysis (WODA'17) with Ben Livshits. Consider <a href="http://conf.researchr.org/track/woda-2017/woda-2017">attending</a>.</em></font></b>
+
+    <br>
+<br>
+    <b><img src="images/new.gif" border="0" height="15" width="36"><font size="4" color="black"><em>Consider submitting your best work to </em>
+</font<br><center><font size="5">2018: <a href="http://conf.researchr.org/home/PPoPP-2018">PPoPP</a>&nbsp;&nbsp;<a href="https://www.asplos2018.org/">ASPLOS</a>&nbsp;&nbsp;<a href="http://2018.splashcon.org/">OOPSLA</a>&nbsp;&nbsp;<a href="http://cgo.org/">CGO</a></font></b> <font size="4">where I'm on the OC/PC/ERC.</font></center> 
+
+<br>
+<font size="5" color="blue"><a href="http://parasol.tamu.edu/groups/huangroup/">Automated Software Engineering Research (ASER) Group</a></font><br>
+<br>
+    <em><font size="4" color="black"><b>To motivated PhD and undergrad students</b>: Drop an email with your CV to jeff@cse.tamu.edu if interested.</font>
+</em>
+<br><br>
+                <li><img src="images/new.gif" border="0" height="15" width="36"><font size="4" color="black">[07/2017]: Paper accepted to <a href="http://ase2017.org/">ASE 2017</a>.
+</font></li>
+            <li><img src="images/new.gif" border="0" height="15" width="36"><font size="4" color="black">[05/2017]: Paper accepted to <a href="https://www.usenix.org/conference/atc17/technical-sessions">USENIX ATC'17</a>. Congratulations Shiyou and Bowen!
+</font></li>
+        <li><img src="images/new.gif" border="0" height="15" width="36"><font size="4" color="black">[05/2017]: Paper accepted to <a href="https://www.usenix.org/conference/usenixsecurity17">USENIX SECURITY'17</a>. Congratulations Lei!
+</font></li>
+    <li><img src="images/new.gif" border="0" height="15" width="36"><font size="4" color="black">[05/2017]: Two papers accepted to <a href="http://2017.ecoop.org/track/ecoop-2017-papers#program">ECOOP'17</a>. Congratulations Shiyou and Arun!
+</font></li>
+
+<li><font size="4" color="black">[02/2017]: I have been selected as a <a href="http://engineering.tamu.edu/news/2017/05/17/banks-recognizes-faculty-and-staff-award-winners">TEES Young Faculty Fellow</a></font></li>
+<li><font size="4" color="black">[09/2016]: We wrote an article (invited by <a href="http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml">Special issues in Journal of Computer Science and Technology</a>) on <a href="http://jcst.ict.ac.cn:8080/jcst/EN/abstract/abstract9966.shtml">challenges in concurrency debugging and our contributions</a>. Check it out if you are curious about this area.</font></li>
+<li><font size="4" color="black">[08/2016]: Two papers accepted to <a href="http://2016.splashcon.org/track/splash-2016-oopsla">OOPSLA 2016</a>. Congratulations Shiyou and Arun!</font></li>
+<li><font size="4" color="black">[06/2016]: Paper on <a href="#research">Instantaneous Race Detection</a> accepted to <a href="http://www.cs.ucdavis.edu/fse2016/">FSE 2016</a>. Congratulations Sheng!</font></li>
+<li><font size="4" color="black">[05/2016]: Congratulations to Shiyou for winning the 3rd place at the <a href="http://2016.icse.cs.txstate.edu/acmSRCAcceptedAbstracts">ACM Student Research Competition @ICSE 2016</a>.</font></li>
+<li><font size="4" color="black">[05/2016]: Invited to the <a href="http://conf.researchr.org/home/PPoPP-2017">PPoPP 2017</a> program committee</font></li>
+<li><font size="4" color="black">[03/2016]: Invited to the <a href="http://conf.researchr.org/home/pldi-2017">PLDI 2017</a> program committee</font></li>
+<li><font size="4" color="black">[02/2016]: Congratulations to Arun, Shiyou, Shanshan, and Bowen for being selected into <a href="http://2016.icse.cs.txstate.edu/acmSRC">ACM Student Research Competition at ICSE 2016</a>. Only 14 students were selected this year (38% accept rate).</font></li>
+<li><font size="4" color="black">[01/2016]: <a href="
+http://engineering.tamu.edu/news/2016/01/26/huang-receives-prestigious-nsf-career-award">NSF CAREER Award</a></font></li>
+<li><a href="http://parasol.tamu.edu/groups/huangroup/news.html"><font color="3399FF">All News</font></a></li>
+</ul>
+
+<h2><a name="teaching">Teaching</a></h2>
+<ul>
+<li><font size="4" color="black">CSCE 431: Software Engineering (Spring 2016,&nbsp;<a href="http://parasol.tamu.edu/~jeff/course/431_spring2017/">Spring 2017</a>)</font></li>
+<li><font size="4" color="black">CSCE 604: Programming Language Design (<a href="https://parasol.tamu.edu/~jeff/course/604_spring2017/">Spring 2017</a>)</font></li>
+<li><font size="4" color="black">CSCE 606: Software Engineering (<a href="http://parasol.tamu.edu/~jeff/course/606_fall2015/">Fall 2015</a>)</font></li>
+<li><font size="4" color="black">CSCE 689: Fundamentals of Software Analysis (Spring 2015,&nbsp;<a href="https://parasol.tamu.edu/~jeff/course/689_fall2016/">Fall 2016</a>)</font></li>
+<li><font size="4" color="black">CSCE 689: Special Topics in Reliable Concurrent Software (<a href="http://parasol.tamu.edu/~jeff/course/689_fall2014/">Fall 2014</a>)</font></li>
+</ul>
+<p>
+<h2><a name="research">Research</a></h2>
+<ul>I enjoy doing research in software engineering and programming languages, in particular, concurrency and concurrent programming, program analysis, program verification, testing, debugging,
+  and everything looks interesting related to software correctness, performance, reliability, and security.
+See my recent papers:</ul>
+<ul><table border="0" cellspacing="10" align="left">
+    <tr>
+  <td align="left">ASE 2017</td>
+    <td><img src="images/new.gif" border="0" height="15" width="36"><a href="academic/ehbdroid.pdf"><font size="3"><u>EHBDroid: Beyond GUI Testing for Android Applications</u></font></a><br>Wei Song, Xiangxing Qian and Jeff Huang <br><b>Accept Rate: 21% (65/314).</b></td>
+  </tr>
+<tr>
+  <td align="left">USENIX ATC 2017</td>
+    <td><img src="images/new.gif" border="0" height="15" width="36"><a href="academic/h3.pdf"><font size="3"><u>Towards Production-Run Heisenbugs Reproduction on Commercial Hardware</u></font></a><br>Shiyou Huang, Bowen Cai and Jeff Huang <br><b>Accept Rate: 21% (60/283).</b></td>
+  </tr>
+<tr>
+  <td align="left">USENIX SECURITY 2017</td>
+    <td><img src="images/new.gif" border="0" height="15" width="36"><a href="academic/starch.pdf"><font size="3"><u>Attacking the Brain: Races in the SDN Control Plane</u></font></a><br>Lei Xu, Jeff Huang, Sungmin Hong, Jialong Zhang and Guofei Gu
+ <br><b>Accept Rate: 16% (85/522).</b></td>
+  </tr>    
+    <tr>
+  <td align="left">ECOOP 2017</td>
+    <td><img src="images/new.gif" border="0" height="15" width="36"><a href="academic/rex.pdf"><font size="3"><u>What’s the Optimal Performance of Precise Dynamic Race Detection? – A Redundancy Perspective</u></font></a><br>Jeff Huang and Arun Rajagopalan <br><b>Accept Rate: ??% (27/??).</b></td>
+  </tr>
+<tr>
+  <td align="left">ECOOP 2017</td>
+    <td><img src="images/new.gif" border="0" height="15" width="36"><a href="academic/mcr-static.pdf"><font size="3"><u>Speeding Up Maximal Causality Reduction with Static Dependency Analysis</u></font></a><br>Shiyou Huang and Jeff Huang <br><b>Accept Rate: ??% (27/??).</b></td>
+  </tr>
+    <tr>
+  <td align="left">JCST 2016</td>
+    <td><a href="http://jcst.ict.ac.cn:8080/jcst/EN/abstract/abstract9966.shtml"><font size="3"><u>Debugging Concurrent Software: Advances and Challenges</u></font></a><br>Jeff Huang and Charles Zhang</td>
+  </tr>
+<tr>
+  <td align="left">OOPSLA 2016</td>
+    <td><a href="academic/mcr-tso-pso.pdf"><font size="3"><u>Maximal Causality Reduction for TSO and PSO</u></font></a><br>Shiyou Huang and Jeff Huang <br><b>Accept Rate: 25.6% (52/203).</b></td>
+  </tr>
+<tr>
+  <td align="left">OOPSLA 2016</td>
+    <td><a href="academic/rdit.pdf"><font size="3"><u>Precise and Maximal Race Detection from Incomplete Traces</u></font></a><br>Jeff Huang and Arun Rajagopalan <br><b>Accept Rate: 25.6% (52/203).</b></td>
+  </tr>
+   <td align="left">FSE 2016</td>
+    <td><a href="academic/echo.pdf"><font size="3"><u>ECHO: Instantaneous In Situ Race Detection in the IDE</u></font></a><br>Sheng Zhan and Jeff Huang<br><b>Accept Rate: 27% (74/273).</b></td>
+  </tr>
+<tr>
+   <td align="left">ICSE 2016</td>
+    <td><a href="academic/tsa.pdf"><font size="3"><u>Scalable Thread Sharing Analysis</u></font></a><br>Jeff Huang<br><b>Accept Rate: 19% (101/530).</b></td>
+  </tr>
+<tr>
+   <td align="left">IEEE TSE 2015</td>
+    <td><a href="academic/swan.pdf"><font size="3"><u>Verifying Synchronization for Atomicity Violation Fixing</u></font></a><br>Qingkai Shi, Jeff Huang, Zhenyu Chen and Baowen Xu<br><br></td>
+  </tr>
+<tr>
+   <td align="left">LCPC 2015</td>
+    <td><a href="academic/coco.pdf"><font size="3"><u>SMT Solving for the Theory of Ordering Constraints</u></font></a><br>Cunjing Ge, Feifei Ma, Jeff Huang and Jian Zhang<br><b>Accept Rate: ?% (?/?).</b></td>
+  </tr>
+<tr>
+   <td align="left">ESEC/FSE<br> NIER 2015</td>
+    <td><a href="academic/rdit-nier.pdf"><font size="3"><u>RDIT: Race Detection from Incomplete Traces</u></font></a><br>Arun Rajagopalan and Jeff Huang<br><b>Accept Rate: 27% (?/?).</b></td>
+  </tr>
+<tr>
+   <td align="left">ESEC/FSE 2015</td>
+    <td><a href="academic/tame.pdf"><font size="3"><u> Finding Schedule-Sensitive Branches</u></font></a><br>Jeff Huang and Lawrence Rauchwerger<br><b>Accept Rate: 25% (74/291).</b></td>
+  </tr>
+<tr>
+   <td align="left">PLDI 2015</td>
+    <td><a href="academic/mcr.pdf"><font size="3"><u> Stateless Model Checking Concurrent Programs with Maximal Causality Reduction</u></font></a><br>Jeff Huang<br><b>Accept Rate: 19% (58/303).</b></td>
+  </tr>
+<tr>
+   <td align="left">ICSE 2015</td>
+    <td><a href="academic/gpredict.pdf"><font size="3"><u> GPredict: Generic Predictive Concurrency Analysis</u></font></a><br>Jeff Huang, Qingzhou Luo, Grigore Rosu<br><b>Accept Rate: 18.5% (84/452).</b></td>
+  </tr>
+<tr>
+   <td align="left">ICSE 2015</td>
+    <td><a href="academic/recbulc.pdf"><font size="3"><u> Reproducing Concurrency Bugs Using Local Clocks</u></font></a><br>Xiang Yuan, Chenggang Wu, Zhenjiang Wang, Jianjun Li, Pen-Chung Yew, Jeff Huang, Xiaobing Feng, Yanyan Lan, Yunji Chen, Yong Guan<br><b>Accept Rate: 18.5% (84/452).</b></td>
+  </tr>
+  <tr>
+   <td align="left">RV-TOOL 2014</td>
+    <td><a href="http://fsl.cs.illinois.edu/FSL/papers/2014/huang-erdogan-zhang-moore-luo-sundaresan-rosu-2014-rvtool/huang-erdogan-zhang-moore-luo-sundaresan-rosu-2014-rvtool-public.pdf"><font size="3"><u>ROSRV: Runtime Verification for Robots</u></font></a><br>Jeff Huang, Cansu Erdogan, Yi Zhang, Brandon Moore, Qingzhou Luo, Aravind Sundaresan, and Grigore Rosu</td>
+  </tr>
+  <tr>
+    <td align="left">PLDI 2014</td>
+    <td><a href="http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf"><font size="3"><u>Maximal Sound Predictive Race Detection with Control Flow Abstraction</u></font></a><br>Jeff Huang, Patrick Meredith and Grigore Rosu</td>
+  </tr>
+  <tr>
+    <td align="left">PLDI 2013</td>
+    <td><a href="academic/clap.pdf"><font size="3">CLAP: Recording Local Executions to Reproduce Concurrency Failures</font></a><br>Jeff Huang, Charles Zhang and Julian Dolby <br><b><i><a href="http://pldi2013.ucombinator.org/#dpa">Distinguished Paper Award</a></i></b> <br><b><i><a href="http://www.sigplan.org/Newsletters/CACM/Papers">Nominated for CACM Research Highlights</a></i></b> </td>
+  </tr>
+    <tr>
+    <td align="left">TOSEM 2013</td>
+    <td><a href="academic/tracefilter.pdf"><font size="3">Scaling Predictive Analysis of Concurrent Programs by Removing Trace Redundancy</font></a><br>Jeff Huang, Jinguo Zhou and Charles Zhang</td>
+  </tr>
+    <tr>
+    <td align="left">PLDI-SRC 2012</td>
+    <td><a href="academic/clap-src.pdf"><font size="3">Lightweight Concurrency Crash Reproduction Without Logging Shared Memory Dependencies and Program States</font></a><br>Jeff Huang <b><i><a href="http://pldi12.cs.purdue.edu/content/student-research-competition">won 1st place & gold medal</a></i></b></td>
+  </tr>
+  <tr>
+    <td align="left" width="80">OOPSLA 2012</td>
+    <td><a href="academic/lean.pdf"><font size="3">LEAN: Simplifying Concurrency Bug Reproduction via Replay-supported Execution Reduction</font></a><br>Jeff Huang and Charles Zhang</td>
+  </tr>
+    <tr>
+    <td align="left">OOPSLA 2012</td>
+    <td><a href="academic/privateer.pdf"><font size="3">Execution Privatization of Scheduler-Oblivious Concurrent Programs</font></a><br>Jeff Huang and Charles Zhang</td>
+  </tr>
+    <tr>
+    <td align="left">ISSTA 2011</td>
+    <td><a href="academic/pecan.pdf"><font size="3">Persuasive Prediction of Concurrency Access Anomalies</font></a><br>Jeff Huang and Charles Zhang</td>
+  </tr>
+  <tr>
+    <td align="left">SAS 2011</td>
+    <td><a href="academic/simtrace.pdf"><font size="3">An Efficient Static Trace Simplification Technique for Debugging Concurrent Programs</font></a><br>Jeff Huang and Charles Zhang</td>
+  </tr>
+  <tr>
+    <td align="left">FSE 2010</td>
+    <td><a href="academic/leap.pdf"><font size="3">LEAP: Lightweight Deterministic Replay of Concurrent Java Programs</font></a><br>Jeff Huang, Peng Liu and Charles Zhang</td>
+  </tr>
+  <tr>
+    <td align="left">FSE-DEMO 2010</td>
+    <td><a href="academic/leap-demo.pdf"><font size="3">LEAP: A Tool for Lightweight Deterministic Replay of Concurrent Java Programs</font></a><br>Jeff Huang, Peng Liu and Charles Zhang</td>
+  </tr>
+</table>
+</ul>
+</p>
+<p>
+<h2><a name="software">Software</a></h2>
+<ul><table border="0" cellspacing="10" align="left">
+<p><b><font size="3"><a href="http://www.runtimeverification.com/predict/">RV-Predict</a></font></b>:
+     a dynamic data race detector that is both sound and maximal: it only reports races which are real (i.e., no false positives)
+     and it finds all the races that can be found by any other sound race detector analyzing the same execution trace.</p>
+ </table></ul>
+</p>
+<p>
+<h2><a name="activity">Professional Activities</a></h2>
+    <p><b>OC Member</b>:
+    <ul>
+      2017: 
+            <font size="3"><a href="http://conf.researchr.org/track/woda-2017/woda-2017">WODA </a>(Co-Chair)</font>, 
+            <font size="3"><a href="http://ase2017.org/">ASE </a>(Publicity Chair)</font>, 
+            <font size="3"><a href="http://ppopp.org">PPoPP </a>(Publicity Chair)</font>, 
+            <font size="3"><a href="http://parasol.tamu.edu/lcpc2017/">LCPC </a>(Publicity Chair)</font>
+    <br>2016: 
+        <font size="3"><a href="http://2016.splashcon.org/track/splash-2016-posters/">SPLASH POSTER </a>(Co-Chair)</font>
+    <br>2015: 
+        <font size="3"><a href="http://2015.splashcon.org/track/splash2015-posters/">SPLASH POSTER </a>(Co-Chair)</font>
+    </ul>
+</p> 
+    <p><b>NSF Panel</b>:
+    <ul>
+      2017 (twice) 
+    </ul>
+</p>
+    <p><b>PC/ERC Member</b>:
+    <ul>
+      2018: 
+            <font size="3"><a href="http://cgo.org/cgo2018/">CGO</a></font>
+            <font size="3"><a href="http://2018.splashcon.org/">OOPSLA</a></font>
+            <font size="3"><a href="http://parasol.tamu.edu/lcpc2017/">LCPC </a></font>
+            <font size="3"><a href="http://conf.researchr.org/home/PPoPP-2018">PPoPP</a> (ERC)</font>
+            <font size="3"><a href="http://asplos2018.org">ASPLOS</a> (ERC)</font>
+
+    <br>2017: 
+            <font size="3"><a href="http://conf.researchr.org/home/pldi-2017">PLDI</a></font>
+            <font size="3"><a href="http://conf.researchr.org/home/PPoPP-2017">PPoPP</a></font>
+            <font size="3"><a href="http://se.uni-konstanz.de/crest2017/index.php?id=paper">CREST</a></font>
+            <font size="3"><a href="http://icse2017.gatech.edu/acm-src">ICSE-SRC</a></font>
+            <font size="3"><a href="http://icse2017.gatech.edu/demonstrations">ICSE-DEMO</a></font>
+            <font size="3"><a href="http://conf.researchr.org/committee/issta-2017/issta-2017-demos-program-committee">ISSTA-DEMO</a></font>
+    <br>2016: 
+            <font size="3"><a href="http://www.cs.ucdavis.edu/fse2016/">FSE</a></font>
+            <font size="3"><a href="http://pactconf.org/">PACT</a></font>
+            <font size="3"><a href="https://lcpc2016.wordpress.com">LCPC</a></font>
+            <font size="3"><a href="http://www.sable.mcgill.ca/soap/">SOAP</a></font>
+        <font size="3"><a href="http://www.isec2016.org/">ISEC</a></font>
+    <br>2015: 
+            <font size="3"><a href="http://isoft.acm.org/isec2015/">ISEC</a></font>
+        <font size="3"><a href="http://2015.icse-conferences.org/call-dates/call-for-contributions/acm-src/">ICSE SRC</a></font>
+    <br>2014: 
+      <font size="3"><a href="http://2014.splashcon.org/track/splash2014-posters/">SPLASH POSTER</a></font>,
+      <font size="3"><a href="http://grid.hust.edu.cn/apscc2014/">APSCC</a></font>,
+    <font size="3"><a href="http://pldi14-aec.cs.brown.edu/">PLDI AEC</a></font>
+    <br>2013: 
+      <font size="3"><a href="http://www.sable.mcgill.ca/soap/">SOAP</a></font>,
+      <font size="3"><a href="http://splashcon.org/2013/cfp/due-june-01-2013/665-oopsla-artifacts">OOPSLA AEC</a></font>
+    </ul>
+</p>   
+      <p><b>Journal Reviewer</b>:
+    <ul>2017: <font size="3">TSE</font>, <font size="3">TPDS</font>
+      <br>2016: <font size="3">TOSEM</font>
+      <br>2015: <font size="3">TOSEM</font>, <font size="3">TSE</font>, <font size="3">IEEE Software</font>
+      <br>2014: <font size="3">TOPLAS</font>, <font size="3">TOSEM</font>, <font size="3">TSE</font>
+      <br>2013: <font size="3">TC</font>, <font size="3">TKDE</font>, <font size="3">SCP</font>, <font size="3">JPDC</font>,
+      <font size="3">SoSyM</font>
+</ul></p>   
+
+ </table>
+</ul>
+</p>
+<!-- Links to CSE/TAMU resources updated 2014-11-04 David Ramirez -->
+<!-- e-mail obfuscation code introduced Spring 2015 DR -->
+<table width="100%" border="0" cellspacing="10" cellpadding="5">
+  <tr> 
+    <td><div align="right"><small><br>
+        <a href="/index.php">Parasol Home</a> 
+	| <a href="/research.php">Research</a> 
+        | <a href="/people.php">People</a> 
+	| <a href="/geninfo/">General info</a> 
+	| <a href="/seminar/">Seminars</a> 
+	| <a href="/resources/">Resources</a> 
+	&nbsp;<br>
+        <br>
+	Parasol Lab,
+        301 Harvey R. Bright Bldg, 3112 TAMU, College Station, TX 77843-3112&nbsp;<br>
+<!-- 14may2015/davidr - Put the office e-mail in front page. Obfuscate it as per http://www.hcidata.info/obfuscate-email-address.htm -->
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#115;&#111;&#108;&#45;&#97;&#100;&#109;&#105;&#110;&#64;&#99;&#115;&#101;&#46;&#116;&#97;&#109;&#117;&#46;&#101;&#100;&#117;">&#112;&#97;&#114;&#97;&#115;&#111;&#108;&#45;&#97;&#100;&#109;&#105;&#110;&#64;&#99;&#115;&#101;&#46;&#116;&#97;&#109;&#117;&#46;&#101;&#100;&#117;</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+        Phone 979.458.0722 &nbsp;&nbsp;&nbsp;&nbsp;Fax 979.458.0718&nbsp;<br>
+        <br>
+        <a href="http://www.cse.tamu.edu" target="_blank">Department of Computer Science and Engineering</a> 
+	| <a href="http://aggieengineer.tamu.edu/" target="_blank">Dwight Look College of Engineering</a> 
+        <a href="http://aggieengineer.tamu.edu/" target="_blank">
+	<img src="/images/look_logo.gif" alt="Dwight Look College of Engineering" width="62" height="52" border="0" align="right"></a> 
+        | <a href="http://www.tamu.edu" target="_blank">Texas A&amp;M University</a></small>&nbsp;&nbsp;&nbsp;&nbsp; 
+        <br>
+        Privacy statement: <a href="http://engineering.tamu.edu/cse/cse-internal/privacy-and-security" target="_blank">Computer Science and Engineering</a> <a href="http://engineering.tamu.edu/policies" target="_blank">Engineering</a> <a href="http://www.tamu.edu/statements/privacy.html" target="blank">TAMU</A> 
+        <br>
+         <a href="https://itaccessibility.tamu.edu/laws_policies_standards/regulations.php" target="_blank">Web Accessibility Policy and Law</a>&nbsp;-&nbsp;<a href="https://itaccessibility.tamu.edu/laws_policies_standards/web_standards.php" target="_blank">Web Accessibility and Usability Standards</a>
+&nbsp;-
+&nbsp;
+<!-- 16apr2015/davidr - Replaced plain Webmaster e-mail by obfuscated code pointing to parasol-sysadmin -->
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#115;&#111;&#108;&#95;&#115;&#121;&#115;&#97;&#100;&#109;&#105;&#110;&#64;&#99;&#115;&#101;&#46;&#116;&#97;&#109;&#117;&#46;&#101;&#100;&#117;">&#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#87;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;</a>
+    </div></td>
+  </tr>
+</table>
+</BODY>
+</HTML>

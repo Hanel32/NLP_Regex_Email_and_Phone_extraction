@@ -1,0 +1,10 @@
+<html>
+<link rel="icon" href="assets/images/favicon.ico">
+<title> Jianer Chen </title>
+
+<frameset cols=0% 100%>
+   <frame src="new.html" name="chenmainwin">
+   <!--<frame src="home.html" name="chenmainwin">-->
+</frameset>
+</html>
+~

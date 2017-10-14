@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Xia Ben Hu, Texas A&M University</title>
+    <!-- Website Styles -->
+    <link rel="stylesheet" href="files/style.css" type="text/css" media="screen" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,400italic' rel='stylesheet' type='text/css'/>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'/>
+    <link rel="icon" href="/files/favicon.ico">
+</head>
+
+<body >
+    <div id="wrapper" >
+        <!-- HEADER START -->
+        <div id="header" >
+		<div class="inner" >
+                <div class="logo">
+                    <img src="files/tamu.png" alt="Purity" width="60" height="60" />
+                </div>
+
+                <div class="log">
+                    <p><font size="+2">Xia "Ben" Hu</font></p>
+                </div>
+
+                <div class="nav">
+                    <ul>
+                        <li class="current">
+                            <a href="index.html">Home</a>
+                        </li>
+						<li >
+                            <a href="research.html">Research</a>
+                        </li>
+                        <li>
+                            <a href="publications.html">Publications</a>
+                        </li>
+						<li>
+                            <a href="students.html">Students</a>
+                        </li>
+                        <li>
+                            <a href="teaching.html">Teaching</a>
+                        </li>
+                        <li>
+                            <a href="service.html">Service</a>
+                        </li>
+						
+                    </ul>
+                </div><!-- #nav end -->
+                <div class="clear"></div>
+            </div><!-- .inner end -->
+        </div><!-- #header end -->
+
+        <!-- MAIN CONTENT START -->
+        <div id="main" >
+            <div class="inner" >
+
+                
+
+				<div class="one_third" >
+                    <img src="files/Hu.jpg" width="220" /> 
+									
+					<br /> <br /> Assistant Professor <br />			
+					<a href="http://engineering.tamu.edu/cse/" target="_blank" rel="nofollow">Computer Science & Engineering</a> <br />
+					<a href="https://www.tamu.edu/" target="_blank" rel="nofollow">Texas A&M University</a> <br/>
+					Email: hu at cse dot tamu dot edu
+					
+
+                </div>
+				
+				<h3>Howdy!</h3>
+                <div class="two_third  last">
+				
+				<p> I am an Assistant Professor in <a href="http://engineering.tamu.edu/cse/" target="_blank" rel="nofollow">Computer Science and Engineering</a> at <a href="https://www.tamu.edu/" target="_blank" rel="nofollow">Texas A&M University</a> starting from Fall 2015, and am also a member of the <a href="http://remotehealth.tamu.edu/" target="_blank" rel="nofollow">Center for Remote Health Technologies and Systems</a> and the <a href="https://www.csdl.tamu.edu/node/2" target="_blank" rel="nofollow">Center for the Study of Digital Libraries</a>.  I am currently directing the DATA (Data Analytics at Texas A&M) Lab.  <br	/>	</p> 
+
+<p> At the DATA Lab, we strive to develop data mining and machine learning algorithms with theoretical properties to better discover actionable patterns from large-scale, networked, dynamic and sparse data. Our research is directly motivated by, and contributes to, applications in social informatics, health informatics and information security. Our work has been featured in  <a href="media.html">Various News Media</a>, such as <a href="https://www.technologyreview.com/s/603795/the-us-military-wants-its-autonomous-machines-to-explain-themselves/" target="_blank" rel="nofollow">MIT Tech Review</a>, <a href="http://technews.acm.org/archives.cfm?fo=2016-03-mar/mar-30-2016.html#851893" target="_blank" rel="nofollow">ACM TechNews</a>, <a href="https://www.newscientist.com/blogs/onepercent/2013/03/twitter-arab-spring-tweeter.html" target="_blank" rel="nofollow">New Scientist</a>, <a href="https://www.fastcompany.com/40433959/why-the-military-and-corporate-america-want-to-make-ai-explain-itself" target="_blank" rel="nofollow">Fast Company</a>, <a href="http://economictimes.indiatimes.com/magazines/panache/tweets-can-determine-if-debates-will-turn-into-violent-protests/articleshow/51141265.cms" target="_blank" rel="nofollow">Economic Times</a>. Here is my <a href="https://scholar.google.com/citations?user=pcCS60IAAAAJ&hl=en" target="_blank" rel="nofollow">Google Scholar</a>. </p>
+
+                
+                <p><font color="#FF4D50">[Open Positions]</font> We are recruiting postdoctoral researchers, PhD students, undergraduate students, and visiting scholars/students. Here you can find the <a href="jobs.html">job description</a>. Please feel free to drop me an email with your CV. </i></p>
+                </div>
+				<div class="divider line"></div>
+				
+				
+                
+                <h3>News and Highlights</h3> 
+				<table>
+				
+<tr>
+    <td ><b>[11/2017]</b>:</td>
+    <td > Call for paper: <a href="http://faculty.cs.tamu.edu/xiahu/ws/icdm17-idm/index.html" target="_blank" rel="nofollow">Interpretable Data Mining (IDM) Workshop in conjunction with IEEE International Conference on Data Mining (ICDM 2017)</a> </td>
+  </tr>
+  
+  <tr>
+    <td ><b>[11/2017]</b>:</td>
+    <td > Call for paper: <a href="http://faculty.cs.tamu.edu/xiahu/ws/cikm17-idm/index.html" target="_blank" rel="nofollow">Interpretable Data Mining (IDM) Workshop in conjunction with ACM International Conference on Information and Knowledge Management (CIKM 2017)</a> </td>
+  </tr>
+  
+  <tr>
+    <td ><b>[08/2017]</b>:</td>
+    <td > Call for proposals and participants: <a href="http://www.kdd.org/kdd2017/networking-with-experts" target="_blank" rel="nofollow">Networking with Experts Forum</a>, in conjunction with KDD 2017   </td>
+  </tr>
+
+  <tr>
+    <td ><b>[08/2017]</b>:</td>
+    <td > Grateful to receive an NSF grant from the IIS core program, as the lead PI, to support our research on data-driven dynamic attributed network analytics! </td>
+  </tr>
+  
+  <tr>
+    <td ><b>[05/2017]</b>:</td>
+    <td >  Xiao Huang received the SDM'17 Doctoral Forum Best Poster Runner-Up Award! Congratulations! </td>
+  </tr>
+  
+  <tr>
+    <td ><b>[05/2017]</b>:</td>
+    <td > Grateful to receive a grant from DARPA, as the PI, to support our research on developing interpretable machine learning models! </td>
+  </tr>
+  
+				<tr>
+    <td ><b>[04/2017]</b>:</td>
+    <td > Call for paper: <a href="http://www.dmmh.org/sdm17" target="_blank" rel="nofollow">6th Workshop on Data Mining for Medicine and Healthcare</a>, in conjunction with SDM 2017</td>
+  </tr>
+  
+  
+  <tr>
+    <td ><b>[04/2017]</b>:</td>
+    <td > Grateful to receive a grant from DARPA, as the PI, to support our research on developing automatic composition of machine learning models! </td>
+  </tr>
+
+<tr>
+    <td ><b>[03/2017]</b>:</td>
+    <td > Grateful to receive an AggiE-Challenge grant from the College of Engineering at Texas A&M, as one of the PIs, to support undergraduate students research on smart and resilient urban infrastructure systems! </td>
+  </tr>
+  
+  
+  <tr>
+    <td ><b>[02/2017]</b>:</td>
+    <td > Grateful to receive an NSF CRII grant (IIS-1657196), as the sole PI, to support our research on analyzing large-scale and complex attributed networks! </td>
+  </tr>
+  
+  <tr>
+    <td ><b>[02/2017]</b>:</td>
+    <td > Grateful to receive a grant from KC Sence Limited, as the sole PI, to support our research on deep learning! </td>
+  </tr>
+				
+				<tr>
+    <td ><b>[01/2017]</b>:</td>
+    <td > I will serve as the Social Networking Chair for the <a href="http://www.kdd.org/kdd2017/" target="_blank" rel="nofollow"> 21st ACM SIGKDD Conference  on Knowledge Discovery and Data Mining (KDD 2017)</a> </td>
+  </tr>
+		
+				<tr>
+    <td ><b>[08/2016]</b>:</td>
+    <td > Grateful to receive a grant from DARPA, as the co-PI, to support our research on developing machine learning algorithms to advance next generation social science! </td>
+  </tr>
+				
+			
+
+			
+				<tr>
+    <td ><b>[06/2016]</b>:</td>
+    <td > Thanks Nvidia for the donation of GPU cards!  </td>
+  </tr>
+				
+
+
+
+				<tr>
+    <td ><b>[07/2016]</b>:</td>
+    <td > Honored to receive the Best Paper Award from IJCAI-BOOM workshop! The paper is on "On the Organization and Retrieval of Health QA Records for Community-based Health Services" </td>
+  </tr>
+	
+			
+				
+				<tr>
+    <td ><b>[05/2016]</b>:</td>
+    <td > Honored to receive the PEPI award, in collaboration with UnitedHealthcare, from The NSF South BD Hub  </td>
+  </tr>
+				 
+	
+			
+  
+ <!-- <tr>
+    <td ><b>[04/2015]</b>:</td>
+    <td >Defended my PhD dissertation!</td>
+  </tr> -->
+  
+</table>
+				<div align="right"><a href="news.html" target="_blank" rel="nofollow">More</a></div> 
+				
+				<div class="divider line"></div>
+				
+		<h3> Selected Honors and Awards </h3> 
+				<ul class="list square">  
+                    <li> PEPI Award, NSF South BD Hub, 2016   </li>
+					<li> Best Paper Award, IJCAI BOOM Workshop, 2016</li>
+					<li> Outstanding Graduate Student Award, Ira A. Fulton Schools of Engineering, Arizona State University, 2015</li>
+					<li> Atluri Award, Phoenix Section Student Scholarship, IEEE Foundation, 2015 </li>
+					<li>Faculty Emeriti Fellowship, Arizona State University, 2014</li>
+					<li>President's Award for Innovation, Arizona State University, 2014</li>  
+					<li>Best Paper Shortlist, WSDM 2013</li> 
+                </ul> 
+				
+				<div class="divider line"></div>
+				
+		<h3> Background </h3> 
+				 <p>I received my PhD from <a href="http://www.public.asu.edu/~xiahu/rankings1.jpg" target="_blank" rel="nofollow">Arizona State University</a> under the  supervision of Dr.  <a href="http://www.public.asu.edu/~huanliu/" target="_blank" rel="nofollow">Huan Liu</a>. I received my Master and Bachelor degrees from  <a href="http://www.buaa.edu.cn/" rel="nofollow" target="_blank">Beihang University</a>. Before my current position, I worked as a postdoctoral researcher at Arizona State University and Phoenix Veteran Affairs Health Care System, a research intern at <a href="http://research.microsoft.com/en-us/" target="_blank" rel="nofollow">Microsoft Research</a>, and a visiting student at <a href="http://www.nus.edu.sg/" target="_blank" rel="nofollow">National University of Singapore</a> with Dr. <a href="http://www.comp.nus.edu.sg/~chuats/" target="_blank" rel="nofollow">Tat-Seng Chua</a>. </p>
+<br>
+				
+				
+            </div><!-- .inner End -->
+        </div><!-- #main End -->
+    </div><!-- wrapper End -->
+
+	
+    <div id="footer"> <!-- FOOTER START -->
+        <div class="inner">
+            <h3>Contact</h3>
+            <div class="one_third">
+                <p>
+				<font size="4">Mailing Address:</font> <br /> <br />
+				
+				Xia Hu <br />
+                TAMU – MS3112  <br />
+				College Station, TX 77843-3112 <br />
+				E.B.: hu at cse dot tamu dot edu <br /> 
+                </p>
+            </div>
+			<div class="one_third">
+                <p>
+				<font size="4">Office:</font> <br /> <br />
+				
+				Xia Hu <br />
+                330B H.R. Bright Building  <br />
+				College Station, TX 77843-3112 <br />
+				
+                </p>
+            </div>
+
+            <div class="one_third">
+                 
+                <p>
+				<br /> <br />
+                    E.B.: xiahu <at> tamu <dot> edu <br />
+					Phone: 979-845-8873<br />
+					Fax: 979-845-1420 <br />
+                   
+                </p>
+            </div>
+        </div>
+       
+        <!-- #footer_small End -->
+        
+    </div> <!-- FOOTER END -->
+
+</body>
+</html>

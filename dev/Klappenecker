@@ -1,0 +1,61 @@
+<html>
+<head>
+  <title>Andreas Klappenecker's Home Page</title>
+  <style type="text/css">
+    body {background-color: #ffffe0}
+  </style>
+</head>
+<body>
+<h2><b>Andreas Klappenecker <br>
+Professor</b></h2>
+<table>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <br><a href="http://www.cse.tamu.edu/">Department of Computer
+	Science and Engineering
+        <br><a href="http://www.tamu.edu/">Texas A&amp;M University</a>
+	<br>College Station, TX 77843-3112
+        <br>USA
+      </td>
+      <td valign="top"></td>
+      <td valign="top">
+        <br><b>Office</b> 509B Harvey R. Bright Building
+        <br><b>Phone</b> (979) 458-0608
+        <br><b>FAX</b> (979) 847-8578
+        <br><b>Email</b> klappi at cse.tamu.edu (research and instructor)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3><b>Research</b></h3>
+<ul class="ul1">
+  <li class="li2"><a
+  href="http://faculty.cs.tamu.edu/klappi/iciss2015b.m4v">ICISS 2015
+  Talk on Probabilistic Biquorums</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/pub.html">Publications</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/nano.html">Nano: Resilient Quantum Error Correction (NSF)</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/career.html">CAREER: Design of Efficient Quantum Algorithms (NSF)</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/dec.html">Efficient Decoherence Control Algorithms (NSF)</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/titf.html">Quantum Computing (TITF)</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/ueb/ueb.html">Catalogue of Nice Error Bases</a></li>
+  <li class="li2"><a href="http://faculty.cs.tamu.edu/klappi/bio.html">Short Bio</a>,
+  <a href="http://faculty.cs.tamu.edu/klappi/advisor.html">Academical genealogy</a></li>
+</ul>
+<h3><b>Courses</b></h3>
+<ul>
+  <li><a
+  href="http://faculty.cs.tamu.edu/klappi/csce411-s17/index.html">CSCE
+  411 Design and Analysis of Algorithms</a></li>
+  <li><a href="http://faculty.cs.tamu.edu/klappi/oldcourses.html">Previous Courses</a></li>
+</ul>
+<h3><b>Service</b></h3>
+<ul>
+  <li>I organized the <a href="http://faculty.cs.tamu.edu/klappi/msqc01.html">Mini-Symposium on Quantum Computing</a> in 2001.</li>
+  <li>List of <a href="http://faculty.cs.tamu.edu/klappi/people.html">wavelet researchers</a>.</li>
+</ul>
+<br></p>
+<p>My <a href="http://www.oakland.edu/~grossman/erdoshp.html">Erd&#337s number</a> is 2, my <a href="http://www.oakland.edu/~grossman/trivia.html#en2k">Erd&#337s number of the second kind</a> is 3, my Einstein number is 4, my Riemann number is 5, and my Gauss number is 6. Find your own <a href="http://www.ams.org/msnmain/cgd/index.html?preferred_language=en&amp;AuthorSourceName=klappenecker%2C+andreas&amp;AuthorTargetName=&amp;group_target=&amp;Submit=Start+Search">collaboration distance</a> to me.</p>
+</body>
+</html>

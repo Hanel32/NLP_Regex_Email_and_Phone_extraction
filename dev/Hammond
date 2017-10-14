@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>
+div.hide { display:none;}
+div.show { }
+</style>
+<meta charset="utf-8"/>
+  <title>Sketch Recognition Lab - Texas A&amp;M University </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Dr. Tracy Hammond - Sketch Recognition Lab - Texas A&amp;M University" />
+  <meta name="keywords" content="sketch recognition lab, sketch, hammond, tracy hammond, srl, texas,
+    a&amp;m, texas a&amp;m, aggies, texas aggies, university, universities, college, colleges, higher education, 
+    college station" />
+  <meta name="description" content="Sketch Recognition Lab - Texas A&amp;M University." />
+
+  <meta content="width=device-width; initial-scale=1.0;" name="viewport"/>
+  <meta content="gbLDbh-Q1KfBG2HlZvIUsuGLsaHEXnO_kW30uedj-nU" name="google-site-verification"/>
+ <!-- <link href="http://dmc-assets.tamu.edu/global/images/icons/favicon.ico" rel="shortcut icon"/> -->
+ <link href="logos/favicon_srl.ico" rel="shortcut icon"/>
+  <link href="http://dmc-assets.tamu.edu/global/images/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
+  <link href="css/defaults.css" rel="stylesheet"/>
+  <link href="css/tamuMain-4.css" rel="stylesheet"/>
+  <script src="http://dmc-assets.tamu.edu/global/javascript/modernizr-2.0.6.min.js"></script>
+  <script src="http://dmc-assets.tamu.edu/global/javascript/gextrackr.js"></script>
+  <script src="http://dmc-assets.tamu.edu/global/javascript/jquery.min.js"></script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-56456407-1', 'auto');
+  <!--ga('require', 'displayfeatures');-->
+  ga('send', 'pageview');
+  <!--ga(‘set’, ‘&uid’, {{USER_ID}}); // Set the user ID using signed-in user_id.-->
+</script>
+<script>
+function showText(show,hide)
+{
+    document.getElementById(show).className = "show";
+    document.getElementById(hide).className = "hide";
+}</script>
+  
+<!--  <script>
+   var _gaq = _gaq || [];
+   _gaq.push(
+   ['_setAccount', 'UA-1617721-2'],
+   ['_setDomainName', '.tamu.edu'],
+   ['_trackPageview']
+    );
+ 
+   (function() {
+     var ga = document.createElement('script'); ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+  </script -->
+</head>
+<!--[if lt IE 7]> <body class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <body class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <body class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!--> <body> <!--<![endif]--> 
+<div id="pageWrapper">
+<div id="page"><a class="offPage" href="#content">skip to main content</a>
+<header>
+
+<nav id="primaryNavigation">
+ <ol id="primaryNav">
+
+      <li><a href="http://www.coursesketch.com">CourseSketch</a></li>
+	  <li><a href="http://kidgab.tamu.edu">Kidgab</a></li>
+      <li><a href="mechanix.php">Mechanix</a></li>
+	  <li><a href="haptigo.php">Haptigo/HaptiMoto</a></li>
+	  <li><a href="http://srl.cse.tamu.edu/srlng/sousa/">Sousa</a></li>
+ </ol>
+</nav>
+<div id="audienceNavIndex">
+
+
+
+     <nav id="secondaryNavigation">
+	  <a href="publications.php">Publications</a> | 
+      <a href="theses.php">Theses</a> |
+	  <a href="books.php">Books</a> |
+	  <a href="chapters.php">Book Chapters</a> |
+      <a href="http://registrar.tamu.edu/General/Calendar.aspx">Academic Calendar</a> |
+      <a href="http://maps.tamu.edu">TAMU Maps</a> 
+    </nav>
+
+		    <a href="http://www.tamu.edu/index.html" id="primaryMark" 
+	title="Texas A&amp;M University"><span class="offPage">
+	Texas A&amp;M University</span></a>
+
+    <nav id="audienceNavigation">
+     <ol id="audienceNav">
+      <li><a href="index.php">Main</a></li>
+       <li><a href="news.php">News</a></li>
+	   	  <li><a href="awards.php">Awards</a></li>
+  	  <li><a href="http://tamusrl.blogspot.com">Blog</a></li>
+      <li><a href="people.php">People</a></li>
+      <li><a href="courses.php">Courses</a></li>
+	  <li><a href="publications.php">Publications</a></li>
+	  <li><a href="theses.php">Theses</a></li>
+  	  <li><a href="posters.php">Posters</a></li>
+	     	  <li><a href="sponsors.php">Funding</a></li>
+	  	  <li><a href="speakers.php">Speakers</a></li>
+	  	  <li><a href="conferences.php">Conferences</a></li>
+	  	  <li><a href="join.php">Join</a></li>
+<!--      <li><a href="projects.php">Projects</a></li>-->
+
+
+     </ol>
+    </nav>
+  </div>
+  </header>
+<br>
+<div style="text-align:center">	<img src=logos/logo_srl_maroon.png alt="Sketch Recognition Lab" width=400></div>
+<div style=“text-align:center;font-variant:small-caps;”><center>Director: Dr. Tracy Anne Hammond</center><br></div>
+
+<article>
+<section id="level3Content">
+<article>
+<center>
+
+<h1 class="pageTitle">Happy Holidays from SRL!</h1>
+<img width=400 src=people/group/IMG_20151214_140302.jpg>
+
+
+<h1 class="pageTitle">TAMU Sketch Recognition Lab</h1>
+
+Welcome to the homepage for the Sketch Recognition Lab at Texas A&amp;M University! <br>
+<br>
+
+
+Featured on:<br>
+<a href=http://faculty.cse.tamu.edu/hammond/videos/20150113DiscoveryChannelCanada.mp4>
+<img height=100 src=logos/discovery.jpg>
+</a>
+<a href=http://faculty.cse.tamu.edu/hammond/videos/20131219HaptiMotoNews.mp4>
+<img height=100 src=logos/KBTX.jpg>
+</a>
+<a href=http://faculty.cse.tamu.edu/hammond/videos/20120905GeoTrooperYouTube.mp4>
+<img height=100 src=logos/TAMUEng.jpg>
+</a>
+<a href=http://faculty.cse.tamu.edu/hammond/videos/20120905HammondTeaching.mp4>
+<img height=100 src=logos/TAMU.jpg>
+</a>
+<a href=https://vimeo.com/135943655></a>
+<a href=https://www.youtube.com/watch?v=xeUQMPEHY5s&feature=youtu.be>
+<img height=100 src=logos/CSE.jpg>
+</a>
+<a href=http://faculty.cse.tamu.edu/hammond/videos/20100809SMUT.mp4>
+<img height=100 src=logos/theeagle.jpg>
+</a>
+
+<br><br>
+<br>
+</center>
+<b><i>Our mission at the Sketch Recognition Lab: </i></b><br><br>
+<center>
+<table>
+<tr><td valign=top> <b><i>activity recognition algorithms</i></b> that can
+<ul><li>identify and understand a person's behavior and actions  </li>
+<li>infer and predict a person's intentions and future choices </li></ul></td>
+<td>  &nbsp; &nbsp;</td>
+<td> <b><i>wearable technologies and sensors </i></b> that 
+<ul><li>enhance a person's senses </li>
+<li>communicate environmental and personal information to the wearer </li>
+<li>help people be more cognizant of their environment </li>
+<li>enable people to make better choices. </li></ul></td>
+</tr></table>
+<br>
+SRL has received over $4 million in total funding, including over $2 million in NSF funding and over $1 million in DoD funding.
+<br><br><br>
+
+<table>
+<tr>
+<td><img src=people/tracyhammond.jpg width=120 alt=TracyHammond></td><td>  &nbsp; &nbsp;</td>
+<td>
+<b>Dr. Tracy Anne Hammond</b><br>
+Director, Sketch Recognition Lab <br>
+Professor, <br>
+Computer Science &amp; Engineering, TAMU <br>
+326-327 Teague, 414C and 229 HRBB<br>
+Mailstop 3112, College Station, TX 77840<br> 
+hammond @ tamu.edu, 979 353 0899<br>
+</td><td>
+<br>
+<b>Education:</b><br>
+<ul>
+<li><b><i>PhD</i></b>, <i>EECS</i>, CSAIL / AI Lab, <i><b>MIT</b></i>, 2007<br></li>
+<li><b><i>FTO</i></b>, <i>Finance Technology</i>, Sloan School of Management, <i><b>MIT</b></i>, 2004<br></li>
+<li><b><i>MA</i></b>, <i>Anthropology</i>, GSAS, <b><i>Columbia University</i></b>, 2001<br></li>
+<li><b><i>MS</i></b>, <i>Computer Science</i> FuSEAS, <b><i>Columbia U.</i></b>, 2000<br></li>
+<li><b><i>BS</i></b>, <i>Applied Mathematics and Physics</i> FuSEAS, <b><i>Columbia U.</i></b>, 1997<br></li>
+<li><b><i>BA</i></b>, <i>Mathematics</i>, Columbia College, <b><i>Columbia U.</i></b>, 1997<br></li>
+</ul>
+</td>
+</tr>
+</table>
+<br><br><br>
+<b>SRL Members, Alumni, and Collaborators:</b>
+<br><br>
+
+
+
+<img src=https://docs.google.com/uc?id=0BzLrg3dk_93MajhVVGZ0blVQWmc height=60 alt="aaronadler"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHLUF5MmtYSDNfeUE height=60 alt="georgiabass"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeG9COTFYdEh6N00 height=60 alt="randybrooks"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTzUzTFVKRFlLTWc height=60 alt="cullenbrown"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRnFURXZKSkd6ZHM height=60 alt="anthonycahill"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUjZOTC1pMndyMEU height=60 alt="sabyasachichakraborty"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUnBrQjlGSkxLWGc height=60 alt="joshcherian"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTGVseEVWSklIUms height=60 alt="tianshuchu"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHcm9TUm5iN3RRakE height=60 alt="leianaedwards"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVWZkV2FJeDdCNTA height=60 alt="joseelizondo"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHTnZPZ0EyU29GZGc height=60 alt="seragearhart"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeFBKQjFCN1pSU1k height=60 alt="danielgoldberg"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93McTU5aUxwb1h5NlU height=60 alt="matthewgreen"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRGllR2NJclV2OEE height=60 alt="tracyhammond"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHTmt4VndyakNRWlk height=60 alt="danielhou"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MU01FaGtQcWd0ZE0 height=60 alt="mariaisokpunwu"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Ma0pYSVlVX3N4Mlk height=60 alt="junginkoh"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHQ0tDbGhTSWxKVHc height=60 alt="kalynnkosyka"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHZFMtandQYW5DdjA height=60 alt="sterlinglaboo"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMTZwT1JTNUtyRkk height=60 alt="ranierolaragarduno"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHQXpJUzBBTHh6V0E height=60 alt="samuellee"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHMnIzQTEwTTd3MTg height=60 alt="wayneli"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVDB3RnhTVnQ1NlU height=60 alt="jeffreyliew"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSUowZUFlSFNxcU0 height=60 alt="julielinsey"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHZEg4ekt4TmtXNzg height=60 alt="laurenmabe"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MckVkTEdUOEw4SHM height=60 alt="theresamaldonado"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRUhWekMxTFQyTUE height=60 alt="adilhamidmalla"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVEVmbnBJSjNrZjA height=60 alt="erinmctigue"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHNzNESHp1QWxDY2c height=60 alt="kenrickmock"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTU5LeHhDV2g5bDg height=60 alt="sandranite"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTldyTkxYRHdlSFU height=60 alt="marciaory"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUHFBQXBPZFVZX2M height=60 alt="markpayton"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYWJwMUJreWEydWs height=60 alt="sethpolsley"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMi0teVhvLWEtWU0 height=60 alt="larrypowell"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MU3l6MVFJQTNieTg height=60 alt="erikprout"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MaFdrQVVQZGJUM00 height=60 alt="vijayrajanna"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWlJJWHZLYnZIRWc height=60 alt="dwayneraymond"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRWFsN3JKU1pZb00 height=60 alt="mauricerojas"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWGE4OG9FeEd5TE0 height=60 alt="matthewrunyon"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mb0FkS3pDMndHcFk height=60 alt="muratrussell"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHX0dhaWtnWU5uT0k height=60 alt="maevescully"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVlJPS2xaNmN4eFk height=60 alt="patricksheehan"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHRldVNHNsZU5Mc3c height=60 alt="isaacsmith"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MS18zUThPMWwyR3M height=60 alt="annastepanova"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHeHBIaW9sYTJGdk0 height=60 alt="heatherswienton"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRDhMUVNCakxmOWs height=60 alt="paultaele"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMlk3NGxKcDIyZFU height=60 alt="samueltowne"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVnVnZG1pOGVkOE0 height=60 alt="carawallis"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZW16QlprTUtGdUk height=60 alt="blakewilliford"><br><br><b>Alumni:</b><br><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MV1BTaDVQQUJqY2M height=60 alt="chrisaikens"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93McDIxR1ZGNlU2NUE height=60 alt="folamialamudun"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSC1wZE5jVU9LMk0 height=60 alt="fadumoali"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQXdXVk1Zek5MbWc height=60 alt="javieranguas"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRVd4V3FoSDdNXzg height=60 alt="danielaninag"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQjBuSkFaTFBPUE0 height=60 alt="shaliniashokkumar"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbmNFbFVnZk1PdEk height=60 alt="funmiatilola"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHSUdCS3pwc25ob3M height=60 alt="wilmerbaron"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUGJ2emE0dHVlZFk height=60 alt="laurabarreto"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUzFVVmNpbHQ4NE0 height=60 alt="angelicacardona"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeHUyS0NUdkstc0U height=60 alt="benbeadle"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHb0p3QncyN2NiTHM height=60 alt="anamikabedi"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MNzdFS0lEUHBLRzA height=60 alt="jessicabell"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbHM1V0J1eXZJblk height=60 alt="taylorbell"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWlJ6WjI0cGFQUzA height=60 alt="alejandrobenavides"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeXF3S04tWjQ3STA height=60 alt="emilyberk"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdV9SVUdjNDY2dUk height=60 alt="richardberman"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVmVVcGRfYk5lSGM height=60 alt="rahulashokbhagat"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mc3FqV0RZUkpkN0k height=60 alt="aqibbhat"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQVpKc1V1RTNMeTA height=60 alt="christopherblanchard"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWkN2b2lwOEdfS0k height=60 alt="mattborders"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRnpqQ1hhbURTelE height=60 alt="katyaborgos"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mc05IVkZhcU1BNG8 height=60 alt="ericbotello"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSjlzWmZxVU01cXc height=60 alt="kateboxer"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTElZcDd1aWtCRDA height=60 alt="davidbrhlik"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTjRiVE4wN0d0cWs height=60 alt="federicoburch"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMXhVTld0ZE1VSUk height=60 alt="jackiebyun"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHU1hnM2tJcUloZms height=60 alt="jorgecamara"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRFlRMlBJS2NObFk height=60 alt="romaincambier"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MOTNJd2dYam0tMTA height=60 alt="andrewcarlberg"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHMWpCUHpuRldRRlE height=60 alt="tylercarlson"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRGJtNjFSSjBmM0k height=60 alt="colbycartwright"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Ma0Vjb25DSi1SZDA height=60 alt="loraynechandler"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRm1WLUwtZnpDZ3c height=60 alt="alexischuck"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MREVSWEkxdXFWLTA height=60 alt="jaredclifton"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUVpLS0l2VGVreGc height=60 alt="amandacofsky"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Ma2hEQnlEdGVNblE height=60 alt="hannahconrad"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUEFyT0FuUy1KaWc height=60 alt="jackcordes"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdHZoWS03YV9BR28 height=60 alt="paulcorey"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTXplTk5sdHphX28 height=60 alt="cristophercortes"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQmRQUmhpWWdMNUk height=60 alt="randycross"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHZHB1Z0w1OTJTN1E height=60 alt="andrescrucetta"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MN3VpRk9DOU5Wd28 height=60 alt="daniellecummings"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYWtDQVEwdExGdU0 height=60 alt="katiedahmen"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MekRmRVZ0TjV5bTA height=60 alt="sashikanthdamaraju"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mb1Zxcm5nMWtXeXc height=60 alt="jessicadavid"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQTJRVm5BcVBUaE0 height=60 alt="stephendawkins"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MLW9IcFRSWVlKVzA height=60 alt="deepdesai"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Md0IwcDVIQ1Bkejg height=60 alt="frankdirosa"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MN0p3bWgybGE2VDQ height=60 alt="danieldixon"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZkYydDRhRkVLWUU height=60 alt="danielaedey"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHU1loZGgzQ25WaVk height=60 alt="danielesparza"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMWE0bmo5QU9rbzg height=60 alt="kaitlinfarr"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdDdET1E0MFdkTjA height=60 alt="martinfield"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWXlETHVCSmNiR1E height=60 alt="jessicagantt"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MU3l5UWFET3FhV1E height=60 alt="omargarcia"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWVptclE3VW9yemc height=60 alt="anuragdgarg"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93McF90ZEZQM2ZWdTg height=60 alt="anuragpgarg"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSG1qcXhFaEhqMkk height=60 alt="avidghamsari"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYXJwb2ZaM2FNWDA height=60 alt="katelyngoodroe"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdTY3MUFxTHhsNDA height=60 alt="jaredgotte"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdTVsZDBtMTB2QU0 height=60 alt="robertgraham"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMHoyNEt0OVpnOUk height=60 alt="jamesgranger"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Md1k3ZDFSNFZ2UEk height=60 alt="shiqiangguo"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MblNfS3B0a1R5Njg height=60 alt="abramgutierrez"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MN25lVW8yWXVzd2c height=60 alt="essahaddad"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Md0d5RUdOM2ZncWc height=60 alt="richardhaines"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbllldDh0dGpEeFU height=60 alt="andyhampton"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MM3JFQzhHUEl5cDQ height=60 alt="nicholashanemann"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdWpPbkNIVGhKd3c height=60 alt="aldoharo"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRXdmd3NoRFdYNXc height=60 alt="michaelhelms"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MU0JhMWllV2stY3M height=60 alt="jimmyho"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHeWV0ZXFYLXdLWVE height=60 alt="lukeholloman"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSXNza0hQblEweGM height=60 alt="marchonore"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYzM3SzRDcVRNQjg height=60 alt="emilyjacobson"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHYVRXZ0JLOXVxSnc height=60 alt="jessicajin"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYU1xTVB1S2dXd1k height=60 alt="joshjohnston"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTDMzcVBibTBhazg height=60 alt="siddharthakarthik"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSDZESUw1eTVsUU0 height=60 alt="brandonkaster"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVWxGeTBCRzkzYUk height=60 alt="purnendukaul"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MM2pOLVVwdFl1SjA height=60 alt="kourtneykebodeaux"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeVBUak5VU2YyNHM height=60 alt="swarnakeshavabhotla"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSG1oekdiOUZhVDg height=60 alt="honghoekim"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVzgyaG1wcktRcTA height=60 alt="andrewking"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MT3hMTndiMjJ0dFE height=60 alt="traviskosarek"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeTJCR1BLczBrMkk height=60 alt="francinelapid"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mbk1VSVl2RjBvUjQ height=60 alt="jusunglee"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MUUlGbHNkVlFIT3c height=60 alt="jakeleland"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYXRMZV93VmJrWHM height=60 alt="dewannalewis"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVjFLMEo4VjVESnM height=60 alt="kimberlylewis"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZE15WWV1cDgycms height=60 alt="thomaslewis"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MamNVdlMya3Uxa2s height=60 alt="angelicaleyvamcmurtry"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbVFYLUJqdm8tREk height=60 alt="wenzheli"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRGtMa1JYMTgzZ2s height=60 alt="alexlizarraga"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MOEhJa2NDR3lPYk0 height=60 alt="drewlogsdon"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHNHl5bWdLU1VwUms height=60 alt="justinlovelace"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeEc2RnJ2dXU5bmc height=60 alt="angellozano"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MS05feDVuOE5pNEU height=60 alt="georgelucchese"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MT0tqeDRMQk8yZ28 height=60 alt="rhiannonmartinez"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mc2VWN2l5cEhEZlk height=60 alt="christymariamathew"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbktGdDZCYkVIbWs height=60 alt="donaldmaxwell"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWVlmZjV4cW1NVms height=60 alt="matthewmcfadden"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSm9STzN6R25QUlU height=60 alt="rafaelmoreno"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYkxjLW0zck12STg height=60 alt="marisolmuniz"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWUJKeS1rcERST1E height=60 alt="lauramurphy"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQzdwdFZGSFRKOTg height=60 alt="alyssanabors"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MOUhrM0pkUDFCVE0 height=60 alt="ellinaderi"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZjFRd2RMbWtZREU height=60 alt="trevornelligan"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MN3M1TDJpX192cDg height=60 alt="blakenelson"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMnJEUEVlLXpVMWM height=60 alt="phucnguyen"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYjVPYTNEVHNkUWM height=60 alt="cassandraoduola"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MX2pEY0p0bFBpM0k height=60 alt="ayobamiolubeku"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MNHRnSTNtNDJUSms height=60 alt="oyindamolaoluwatimi"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYnNod2xJMThvUU0 height=60 alt="christianortega"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MR0dlUUVFSFgtRWc height=60 alt="cherylosterman"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MaDZrRUhLN2ExSmc height=60 alt="temiotuyelu"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMkdhTEdFNkgtYkE height=60 alt="dhivyapadmanabhan"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MSURRYUFnelo2LUk height=60 alt="bretparker"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTHR1R3hEaE9Zc0U height=60 alt="brandonpaulson"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MY19nTjJiMXBRdWc height=60 alt="blakepavel"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MREczZkFOMm9xVnM height=60 alt="andresperez"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeWlkZU11R2p1bm8 height=60 alt="joshuapeschel"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbWdrdnQyZ2FvT2c height=60 alt="rosspeterson"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRmRJMUhEWWRZdUE height=60 alt="bryantpoffenberger"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MN0JHZEhHMW1vWWs height=60 alt="manojprasad"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMktESEtYVlc0NVk height=60 alt="pankajrajan"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MOTd0OHY2MEdMYnM height=60 alt="joseramos"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZlJxVlEzeEphVGc height=60 alt="kyleraney"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTWNXYzNhNWJnWnc height=60 alt="jaideepray"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHbWdZaGZMY0VQbmc height=60 alt="ryanrebenschied"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMFJGcUpPV2JWRjg height=60 alt="sarinregmi"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MWlVTRGQtS1NLWlk height=60 alt="jignareshamwala"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZHJXZXlnX1N4QzA height=60 alt="alexandrareynolds"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MR1JNMkNhWVhPd3c height=60 alt="patrobinson"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVlR4SGdNYlZqNEE height=60 alt="vyassathya"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MU1lwSkVHQWlnb1U height=60 alt="jaredschenkel"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRE5qemU2Z091aTQ height=60 alt="shannonsenn"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MU1Zpb3RlTVd3azg height=60 alt="jilpashah"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MeDdOVHhRTHFyOWs height=60 alt="jasmeetsingh"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MakdDVWU4bHdDSzA height=60 alt="sethsmitherman"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MYjY1NlZCSnRIMEU height=60 alt="kileysobel"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MX3hVZDR0UlpwNWM height=60 alt="davidspellman"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQXJUemhLM3hvZDQ height=60 alt="raunaksrivastava"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93McHRDWVVEZmdHWlk height=60 alt="ellenstanfill"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mald4R1dXa09IZFk height=60 alt="danieltan"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZTk5MlVmdzVRNm8 height=60 alt="connortaylor"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MTGJobEQ4b0c2WGc height=60 alt="jenniferthan"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MRlR6XzM3Z0tUdUk height=60 alt="josephtomlinson"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MdUdoWU1FZTExM0k height=60 alt="devintuchsen"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MV0t6RXctNnV2cUk height=60 alt="davidturner"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZDdCTElsRVNSR0k height=60 alt="michaelturner"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQlhYenJEQmdHNXc height=60 alt="joshtutt"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mam5ENzBYM1AtZ1E height=60 alt="bradtwitty"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHLXdtLW1Zc0pXTjg height=60 alt="mariatheresiavalerietyas"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MZ1VVYmdQODhMaTQ height=60 alt="stephanievalentine"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQUN5dzZvUS1LNlk height=60 alt="franciscovides"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MMVUxa3UyQkY2UU0 height=60 alt="nahumvillanueva"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93Mb0VQc19ZLUc2UFU height=60 alt="courtneywalker"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQUxhTmFlcDBrLW8 height=60 alt="homerwerbiski"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MLWEwaUpjM1Q1MG8 height=60 alt="danielwhatley"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MbENaOTVkdlFDM00 height=60 alt="aaronwolin"><img src=https://docs.google.com/uc?id=0B7EoqEf8SbXHZUhEWkc2WG15bk0 height=60 alt="yangyang"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MVDlKeE95UWZadUk height=60 alt="zhengliangyin"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MQWM0U05IeVBkZms height=60 alt="chadyoung"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MNF9SZjhpRnVjdEU height=60 alt="yumingzhao"><img src=https://docs.google.com/uc?id=0BzLrg3dk_93MY1AzMEx3RWROVVk height=60 alt="joshzodda">
+
+</center>
+
+<br>
+<h4>Brief Bio of Hammond: </h4>
+Director of the Sketch Recognition Lab and Professor in the Department of Computer Science and Engineering at Texas A&amp;M University, Dr. Hammond is an international leader in activity recognition (focusing on eye, body, and sketch motions), haptics, intelligent fabrics, SmartPhone development, and computer human interaction research. Dr. Hammond’s publications on the subjects are widely cited and have well over a thousand citations, with Dr. Hammond having an h-index of 18, an h10-index of 26, and four papers with over 100 citations each.  Her research has been funded by NSF, DARPA, Google, and many others, totaling over 3.6 million dollars in peer reviewed funding. She holds a PhD in Computer Science and FTO (Finance Technology Option) from MIT, and four degrees from Columbia University: an M.S in Anthropology, an M.S. in Computer Science, a B.A. in Mathematics, and a B.S. in Applied Mathematics. Prior to joining the TAMU CSE faculty Dr. Hammond taught for five years at Columbia University and was a telecom analyst for four years at Goldman Sachs. Dr Hammond is the 2011-2012 recipient of the Charles H. Barclay, Jr. '45 Faculty Fellow Award. The Barclay Award is given to professors and associate professors who have been nominated for their overall contributions to the Engineering Program through classroom instruction, scholarly activities, and professional service.  Dr. Hammond has been featured on the Discovery Channel and other news sources.
+<br>Dr. Hammond is dedicated to diversity. She focuses a significant amount of her efforts on improving diversity in computer science, and published an award winning paper at FIE on the topic. She regularly sends 5-10 students yearly to Tapia and Grace Hopper, and  has presented herself three times at Grace Hopper and Tapia, including mentoring workshops to junior faculty and undergraduates. She has recently founded a non profit organization, Wired Youth,  with her graduate student Stephanie Valentine, teaching cybercitizen and computer science skills to young girls.
+
+<br>
+
+<br>
+<h4> Want To Join The Lab? - <a href=join/“>Click Here!</a> (or click Join at the top)</h4>
+
+<br>
+<h4>Student Resources</h4>
+<a href="http://hammondacademics.blogspot.com/2016/05/new-lab-members-to-do-list.html">New Lab Members To Do List</a><br>
+<a href="http://hammondacademics.blogspot.com/2016/05/citi-lab-training-info.html">CITI Training</a><br>
+<a href="http://hammondacademics.blogspot.com/2016/05/srl-blog-post-instructions.html">SRL Blog Post Instructions</a><br>
+<a href="/resources/writing/Thesis Proposal Guidelines.html">Thesis Proposal Guidelines</a><br>
+<br /> <hr />
+<h4>Links:</h4>
+<a href="http://www.genealogy.ams.org/id.php?id=140907"> Mathematics Genealogy Project</a><br />
+
+<hr>
+
+</section></article></article>
+
+<center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+<br><br />
+<a class="twitter-timeline" href="https://twitter.com/tracyhammond" data-widget-id="535612186442211328">Tweets by @tracyhammond</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</center>
+<footer>
+<div id="footer">
+
+<div id="universityCredits">
+      <a href="http://www.tamu.edu/statements/trademark.html">&#169; 2012 All rights reserved</a><br/>
+      <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Texas+A%26M+University&amp;sll=37.0625,-95.677068&amp;sspn=44.658568,67.5&amp;ie=UTF8&amp;z=13">Texas 
+A&amp;M University<br/>College Station, Texas 77843</a>
+    </div>
+<div id="calloutLinks">
+      <a href="http://www.tamu.edu/statements/index.html">Site Policies</a><br/>
+      <a href="http://itaccessibility.tamu.edu/">Web Accessibility</a><br/>
+      <a href="http://www.tamu.edu/emergency/index.html">Emergency Preparedness</a>
+    </div>
+<br class="clear"/>
+  </div>
+</footer></div>
+</div>
+<script src="http://dmc-assets.tamu.edu/www2/javascript/plugins4.js"></script>
+<script src="http://dmc-assets.tamu.edu/www2/javascript/script2.js"></script> 
+</body>
+</html>

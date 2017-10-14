@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Roozbeh Jafari &#8211; Embedded Signal Processing Laboratory </title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Embedded Signal Processing Laboratory  &raquo; Feed" href="https://jafari.tamu.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Embedded Signal Processing Laboratory  &raquo; Comments Feed" href="https://jafari.tamu.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jafari.tamu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mg-style-css'  href='https://jafari.tamu.edu/wp-content/plugins/formget-contact-form/css/mg_popup.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-secondary-nav-css'  href='https://jafari.tamu.edu/wp-content/plugins/gp-premium/addons/generate-secondary-nav/inc/css/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-secondary-nav-mobile-css'  href='https://jafari.tamu.edu/wp-content/plugins/gp-premium/addons/generate-secondary-nav/inc/css/mobile.css?ver=0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pnestyles2-css'  href='http://jafari.tamu.edu/wp-content/plugins/plugnedit/css/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='https://jafari.tamu.edu/wp-content/plugins/siteorigin-panels/inc/../css/front-flex.css?ver=2.5.10' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css'  href='https://jafari.tamu.edu/wp-content/themes/generatepress/css/unsemantic-grid.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='https://jafari.tamu.edu/wp-content/themes/generatepress/style.css?ver=1.4' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+body{background-color:#500000;color:#3a3a3a;}a, a:visited{color:#1d87c4;text-decoration:none;}a:visited{color:#1d87c4;}a:hover, a:focus, a:active{color:#000000;text-decoration:none;}body .grid-container{max-width:1000px;}.page .entry-content{margin-top:0px;}
+.site-header {background-color: #510000; color: #3a3a3a; }.site-header a {color: #3a3a3a; }.main-title a,.main-title a:hover,.main-title a:visited {color: #222222; }.site-description {color: #999999; }.main-navigation,  .main-navigation ul ul {background-color: #322c2c; }.navigation-search input[type="search"],.navigation-search input[type="search"]:active {color: #FFFFFF; background-color: #8f8f8c; }.navigation-search input[type="search"]:focus {color: #FFFFFF; background-color: #8f8f8c; }.main-navigation ul ul {background-color: #3f3f3f; }.main-navigation .main-nav ul li a,.menu-toggle {color: #FFFFFF; }.main-navigation .main-nav ul ul li a {color: #FFFFFF; }.main-navigation .main-nav ul li > a:hover, .main-navigation .main-nav ul li.sfHover > a {color: #FFFFFF; background-color: #8f8f8c; }.main-navigation .main-nav ul ul li > a:hover, .main-navigation .main-nav ul ul li.sfHover > a {color: #FFFFFF; background-color: #4f4f4f; }.main-navigation .main-nav ul .current-menu-item > a, .main-navigation .main-nav ul .current-menu-parent > a, .main-navigation .main-nav ul .current-menu-ancestor > a, .main-navigation .main-nav ul .current_page_item > a, .main-navigation .main-nav ul .current_page_parent > a, .main-navigation .main-nav ul .current_page_ancestor > a {color: #FFFFFF; background-color: #8f8f8c; }.main-navigation .main-nav ul .current-menu-item > a:hover, .main-navigation .main-nav ul .current-menu-parent > a:hover, .main-navigation .main-nav ul .current-menu-ancestor > a:hover, .main-navigation .main-nav ul .current_page_item > a:hover, .main-navigation .main-nav ul .current_page_parent > a:hover, .main-navigation .main-nav ul .current_page_ancestor > a:hover, .main-navigation .main-nav ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul .current-menu-ancestor.sfHover > a, .main-navigation .main-nav ul .current_page_item.sfHover > a, .main-navigation .main-nav ul .current_page_parent.sfHover > a, .main-navigation .main-nav ul .current_page_ancestor.sfHover > a {color: #FFFFFF; background-color: #8f8f8c; }.main-navigation .main-nav ul ul .current-menu-item > a, .main-navigation .main-nav ul ul .current-menu-parent > a, .main-navigation .main-nav ul ul .current-menu-ancestor > a, .main-navigation .main-nav ul ul .current_page_item > a, .main-navigation .main-nav ul ul .current_page_parent > a, .main-navigation .main-nav ul ul .current_page_ancestor > a {color: #FFFFFF; background-color: #4f4f4f; }.main-navigation .main-nav ul ul .current-menu-item > a:hover, .main-navigation .main-nav ul ul .current-menu-parent > a:hover, .main-navigation .main-nav ul ul .current-menu-ancestor > a:hover, .main-navigation .main-nav ul ul .current_page_item > a:hover, .main-navigation .main-nav ul ul .current_page_parent > a:hover, .main-navigation .main-nav ul ul .current_page_ancestor > a:hover,.main-navigation .main-nav ul ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul ul .current-menu-ancestor.sfHover > a, .main-navigation .main-nav ul ul .current_page_item.sfHover > a, .main-navigation .main-nav ul ul .current_page_parent.sfHover > a, .main-navigation .main-nav ul ul .current_page_ancestor.sfHover > a {color: #FFFFFF; background-color: #4f4f4f; }.inside-article, .comments-area, .page-header,.one-container .container,.paging-navigation,.inside-page-header {background-color: #FFFFFF; color: #3a3a3a; }.entry-meta {color: #888888; }.entry-meta a, .entry-meta a:visited {color: #666666; }.entry-meta a:hover {color: #1E73BE; }.sidebar .widget {background-color: #FFFFFF; color: #3a3a3a; }.sidebar .widget .widget-title {color: #000000; }.footer-widgets {background-color: #FFFFFF; color: #3a3a3a; }.footer-widgets a, .footer-widgets a:visited {color: #1e73be; }.footer-widgets a:hover {color: #000000; }.footer-widgets .widget-title {color: #000000; }.site-info {background-color: #332c2c; color: #ffffff; }.site-info a, .site-info a:visited {color: #ffffff; }.site-info a:hover {color: #606060; }input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="tel"], textarea {background-color: #ffffff; border-color: #ffffff; color: #666666; }input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, textarea:focus {background-color: #FFFFFF; color: #666666; border-color: #BFBFBF; }::-webkit-input-placeholder {color: #666666; opacity: 0.7; }:-moz-placeholder {color: #666666; opacity: 0.7; }::-moz-placeholder {color: #666666; opacity: 0.7; }:-ms-input-placeholder {color: #666666; opacity: 0.7; }button, html input[type="button"], input[type="reset"], input[type="submit"],.button,.button:visited {background-color: #666666; color: #FFFFFF; }button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover,.button:hover,button:focus, html input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus,.button:focus,button:active, html input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active,.button:active {background-color: #3F3F3F; color: #FFFFFF; }
+.entry-header {display:none} .page-content, .entry-content, .entry-summary{margin-top:0}
+.inside-header {padding-top: 20px; padding-right: 15px; padding-bottom: 15px; padding-left: 0px; }.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content {padding-top: 20px; padding-right: 40px; padding-bottom: 20px; padding-left: 40px; }.ignore-x-spacing {margin-right: -40px; margin-bottom: 20px; margin-left: -40px; }.ignore-xy-spacing {margin-top: -20px; margin-right: -40px; margin-bottom: 20px; margin-left: -40px; }.main-navigation .main-nav ul li a,			.menu-toggle {padding-left: 15px; padding-right: 15px; line-height: 40px; }.nav-float-right .main-navigation .main-nav ul li a {line-height: 40px; }.main-navigation .main-nav ul ul li a {padding-left: 15px; padding-right: 15px; padding-top: 10px; padding-bottom: 10px; }.main-navigation ul ul {top: 40px; }.navigation-search {height: 40px; line-height: 0px; }.navigation-search input {height: 40px; line-height: 0px; }.widget-area .widget {padding-top: 40px; padding-right: 40px; padding-bottom: 40px; padding-left: 40px; }.footer-widgets {padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; }.site-info {padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; }.right-sidebar.separate-containers .site-main {margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 0px; padding: 0px; }.left-sidebar.separate-containers .site-main {margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 10px; padding: 0px; }.both-sidebars.separate-containers .site-main {margin: 10px; padding: 0px; }.both-right.separate-containers .site-main {margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 0px; padding: 0px; }.separate-containers .site-main {margin-top: 10px; margin-bottom: 10px; padding: 0px; }.separate-containers .page-header-image, .separate-containers .page-header-content, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single {margin-top: 10px; }.both-left.separate-containers .site-main {margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 10px; padding: 0px; }.separate-containers .inside-right-sidebar, .inside-left-sidebar {margin-top: 10px; margin-bottom: 10px; padding-top: 0px; padding-bottom: 0px; }.separate-containers .widget, .separate-containers .hentry, .separate-containers .page-header, .widget-area .main-navigation {margin-bottom: 10px; }.both-left.separate-containers .inside-left-sidebar {margin-right: 5px; padding-right: 0px; }.both-left.separate-containers .inside-right-sidebar {margin-left: 5px; padding-left: 0px; }.both-right.separate-containers .inside-left-sidebar {margin-right: 5px; padding-right: 0px; }.both-right.separate-containers .inside-right-sidebar {margin-left: 5px; padding-left: 0px; }
+body, button, input, select, textarea {font-family: inherit; font-weight: normal; text-transform: none; font-size: 14px; }.main-title {font-family: inherit; font-weight: bold; text-transform: capitalize; font-size: 30px; }.site-description {font-family: inherit; font-weight: normal; text-transform: none; font-size: 15px; }.main-navigation a, .menu-toggle {font-family: inherit; font-weight: bold; text-transform: none; font-size: 13px; }.main-navigation .main-nav ul ul li a {font-size: 12px; }.widget-title {font-family: inherit; font-weight: normal; text-transform: none; font-size: 20px; }.sidebar .widget, .footer-widgets .widget {font-size: 16px; }h1 {font-family: inherit; font-weight: normal; text-transform: none; font-size: 32px; }h2 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 25px; }h3 {font-family: inherit; font-weight: normal; text-transform: none; font-size: 18px; }
+body {background-image: none; }.site-header {background-image: none; }.main-navigation,.menu-toggle {background-image: none; }.main-navigation .main-nav ul li a {background-image: none; }.main-navigation .main-nav ul li > a:hover, .main-navigation .main-nav ul li.sfHover > a {background-image: none; }.main-navigation .main-nav ul .current-menu-item > a, .main-navigation .main-nav ul .current-menu-parent > a, .main-navigation .main-nav ul .current-menu-ancestor > a, .main-navigation .main-nav ul .current_page_item > a, .main-navigation .main-nav ul .current_page_parent > a, .main-navigation .main-nav ul .current_page_ancestor > a {background-image: none; }.main-navigation .main-nav ul .current-menu-item > a:hover, .main-navigation .main-nav ul .current-menu-parent > a:hover, .main-navigation .main-nav ul .current-menu-ancestor > a:hover, .main-navigation .main-nav ul .current_page_item > a:hover, .main-navigation .main-nav ul .current_page_parent > a:hover, .main-navigation .main-nav ul .current_page_ancestor > a:hover, .main-navigation .main-nav ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul .current-menu-ancestor.sfHover > a, .main-navigation .main-nav ul .current_page_item.sfHover > a, .main-navigation .main-nav ul .current_page_parent.sfHover > a, .main-navigation .main-nav ul .current_page_ancestor.sfHover > a {background-image: none; }.main-navigation .main-nav ul ul li a {background-image: none; }.main-navigation .main-nav ul ul li > a:hover, .main-navigation .main-nav ul ul li.sfHover > a {background-image: none; }.main-navigation .main-nav ul ul .current-menu-item > a, .main-navigation .main-nav ul ul .current-menu-parent > a, .main-navigation .main-nav ul ul .current-menu-ancestor > a, .main-navigation .main-nav ul ul .current_page_item > a, .main-navigation .main-nav ul ul .current_page_parent > a, .main-navigation .main-nav ul ul .current_page_ancestor > a {background-image: none; }.main-navigation .main-nav ul ul .current-menu-item > a:hover, .main-navigation .main-nav ul ul .current-menu-parent > a:hover, .main-navigation .main-nav ul ul .current-menu-ancestor > a:hover, .main-navigation .main-nav ul ul .current_page_item > a:hover, .main-navigation .main-nav ul ul .current_page_parent > a:hover, .main-navigation .main-nav ul ul .current_page_ancestor > a:hover,.main-navigation .main-nav ul ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul ul .current-menu-ancestor.sfHover > a, .main-navigation .main-nav ul ul .current_page_item.sfHover > a, .main-navigation .main-nav ul ul .current_page_parent.sfHover > a, .main-navigation .main-nav ul ul .current_page_ancestor.sfHover > a {background-image: none; }.separate-containers .inside-article, .comments-area, .page-header,.one-container .container,.paging-navigation,.inside-page-header {background-image: none; }.sidebar .widget {background-image: none; }.footer-widgets {background-image: none; }.site-info {background-image: none; }
+.secondary-navigation {background-color: #636363; background-image: none; }.secondary-navigation ul ul {background-color: #303030; top: 40px; }.secondary-navigation ul li a,.secondary-navigation .menu-toggle {color: #FFFFFF; font-family: inherit; font-weight: normal; text-transform: none; font-size: 13px; padding-left: 20px; padding-right: 20px; line-height: 40px; background-image: none; }.secondary-navigation ul ul li a {color: #FFFFFF; font-size: 12px; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px; background-image: none; }.secondary-navigation ul li > a:hover, .secondary-navigation ul li.sfHover > a {color: #FFFFFF; background-color: #303030; background-image: none; }.secondary-navigation ul ul li > a:hover, .secondary-navigation ul ul li.sfHover > a {color: #FFFFFF; background-color: #474747; background-image: none; }.secondary-navigation ul .current-menu-item > a, .secondary-navigation ul .current-menu-parent > a, .secondary-navigation ul .current-menu-ancestor > a, .secondary-navigation ul .current_page_item > a, .secondary-navigation ul .current_page_parent > a, .secondary-navigation ul .current_page_ancestor > a {color: #222222; background-color: #ffffff; background-image: none; }.secondary-navigation ul .current-menu-item > a:hover, .secondary-navigation ul .current-menu-parent > a:hover, .secondary-navigation ul .current-menu-ancestor > a:hover, .secondary-navigation ul .current_page_item > a:hover, .secondary-navigation ul .current_page_parent > a:hover, .secondary-navigation ul .current_page_ancestor > a:hover, .secondary-navigation ul .current-menu-item.sfHover > a, .secondary-navigation ul .current-menu-parent.sfHover > a, .secondary-navigation ul .current-menu-ancestor.sfHover > a, .secondary-navigation ul .current_page_item.sfHover > a, .secondary-navigation ul .current_page_parent.sfHover > a, .secondary-navigation ul .current_page_ancestor.sfHover > a {color: #222222; background-color: #ffffff; background-image: none; }.secondary-navigation ul ul .current-menu-item > a, .secondary-navigation ul ul .current-menu-parent > a, .secondary-navigation ul ul .current-menu-ancestor > a, .secondary-navigation ul ul .current_page_item > a, .secondary-navigation ul ul .current_page_parent > a, .secondary-navigation ul ul .current_page_ancestor > a {color: #FFFFFF; background-color: #474747; background-image: none; }.secondary-navigation ul ul .current-menu-item > a:hover, .secondary-navigation ul ul .current-menu-parent > a:hover, .secondary-navigation ul ul .current-menu-ancestor > a:hover, .secondary-navigation ul ul .current_page_item > a:hover, .secondary-navigation ul ul .current_page_parent > a:hover, .secondary-navigation ul ul .current_page_ancestor > a:hover,.secondary-navigation ul ul .current-menu-item.sfHover > a, .secondary-navigation ul ul .current-menu-parent.sfHover > a, .secondary-navigation ul ul .current-menu-ancestor.sfHover > a, .secondary-navigation ul ul .current_page_item.sfHover > a, .secondary-navigation ul ul .current_page_parent.sfHover > a, .secondary-navigation ul ul .current_page_ancestor.sfHover > a {color: #FFFFFF; background-color: #474747; background-image: none; }
+.inside-content-header {text-align: left; }.separate-containers .inside-article .page-header-below-title, .one-container .inside-article .page-header-below-title {margin-top: 2em; }.inside-article .page-header-post-image {float: none; margin-right: 0px; }.vertical-center-container {display: table; width: 100%; }.vertical-center-enabled {display: table-cell; vertical-align: middle; }
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css'  href='https://jafari.tamu.edu/wp-content/themes/generatepress/css/mobile.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://jafari.tamu.edu/wp-content/themes/generatepress/css/font-awesome.min.css?ver=4.7' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='generate-ie-css'  href='https://jafari.tamu.edu/wp-content/themes/generatepress/css/ie.min.css?ver=1.4' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='tablepress-default-css'  href='https://jafari.tamu.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='blog-styles-css'  href='https://jafari.tamu.edu/wp-content/plugins/gp-premium/addons/generate-blog/inc/css/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://jafari.tamu.edu/?sccss=1&#038;ver=4.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mg = {"ajaxurl":"https:\/\/jafari.tamu.edu\/wp-admin\/admin-ajax.php","imgurl":"https:\/\/jafari.tamu.edu\/wp-content\/plugins\/formget-contact-form\/image\/mailget.png","mg_nonce":"701e5dcba8"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/plugins/formget-contact-form/js/mg_front.js?ver=4.8.1'></script>
+<link rel='https://api.w.org/' href='https://jafari.tamu.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jafari.tamu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jafari.tamu.edu/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://jafari.tamu.edu/rjafari/" />
+<link rel='shortlink' href='https://jafari.tamu.edu/?p=124' />
+<link rel="alternate" type="application/json+oembed" href="https://jafari.tamu.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjafari.tamu.edu%2Frjafari%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jafari.tamu.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjafari.tamu.edu%2Frjafari%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1">				<style type="text/css" media="all"
+				       id="siteorigin-panels-layouts-head">/* Layout 124 */ #pgc-124-0-0 { width:21.3849%;width:calc(21.3849% - ( 0.786151383637 * 30px ) ) } #pgc-124-0-1 { width:78.6151%;width:calc(78.6151% - ( 0.213848616363 * 30px ) ) } #pg-124-0 , #pl-124 .so-panel { margin-bottom:30px } #pgc-124-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-124 .so-panel:last-child { margin-bottom:0px } @media (max-width:780px){ #pg-124-0.panel-no-style, #pg-124-0.panel-has-style > .panel-row-style , #pg-124-1.panel-no-style, #pg-124-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-124-0 .panel-grid-cell , #pg-124-1 .panel-grid-cell { margin-right:0 } #pg-124-0 .panel-grid-cell , #pg-124-1 .panel-grid-cell { width:100% } #pgc-124-0-0 { margin-bottom:30px } #pl-124 .panel-grid-cell { padding:0 } #pl-124 .panel-grid .panel-grid-cell-empty { display:none } #pl-124 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style></head>
+
+<body itemtype='http://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-124 wp-custom-logo post-image-below-header post-image-aligned-center secondary-nav-above-header secondary-nav-aligned-right siteorigin-panels siteorigin-panels-before-js  no-sidebar nav-below-header fluid-header one-container active-footer-widgets-0 nav-search-enabled nav-aligned-center header-aligned-left dropdown-hover">
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+			<header itemtype="http://schema.org/WPHeader" itemscope="itemscope" id="masthead" class="site-header">
+		<div class="inside-header grid-container grid-parent">
+						<div class="site-logo">
+			<a href="http://engineering.tamu.edu/" title="Embedded Signal Processing Laboratory " rel="home">
+				<img class="header-image" src="https://jafari.tamu.edu/wp-content/uploads/2016/12/cropped-engineering-logo.png" alt="Embedded Signal Processing Laboratory " title="Embedded Signal Processing Laboratory " />
+			</a>
+		</div>					</div><!-- .inside-header -->
+	</header><!-- #masthead -->
+			<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="main-navigation grid-container grid-parent">
+		<div class="inside-navigation grid-container grid-parent">
+			<form method="get" class="search-form navigation-search" action="https://jafari.tamu.edu/">
+			<input type="search" class="search-field" value="" name="s" title="Search" />
+		</form>	<div class="mobile-bar-items">
+				<span class="search-item" title="Search">
+			<a href="#">
+				<i class="fa fa-fw fa-search" aria-hidden="true"></i>
+				<span class="screen-reader-text">Search</span>
+			</a>
+		</span>
+	</div><!-- .mobile-bar-items -->
+				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+								<span class="mobile-menu">Menu</span>
+			</button>
+			<div id="primary-menu" class="main-nav"><ul id="menu-mainlist" class=" menu sf-menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-87"><a href="https://jafari.tamu.edu/">Home</a></li>
+<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://jafari.tamu.edu/news/">News</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://jafari.tamu.edu/people/">People</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://jafari.tamu.edu/research/">Research</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://jafari.tamu.edu/publications/">Publications</a></li>
+<li id="menu-item-1316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="https://jafari.tamu.edu/teaching/">Teaching</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://jafari.tamu.edu/software/">Software</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://jafari.tamu.edu/seminar/">Seminar</a></li>
+<li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="https://jafari.tamu.edu/resources-internal/">Resources</a></li>
+<li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a href="https://jafari.tamu.edu/sponsors/">Sponsors</a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://jafari.tamu.edu/contact/">Contact</a></li>
+<li><a class="mylllmenu" title="Login" href="https://jafari.tamu.edu/wp-login.php?redirect_to=https%3A%2F%2Fjafari.tamu.edu%2F">login</a></li><li class="search-item" title="Search"><a href="#"><i class="fa fa-fw fa-search" aria-hidden="true"></i><span class="screen-reader-text">Search</span></a></li></ul></div>		</div><!-- .inside-navigation -->
+	</nav><!-- #site-navigation -->
+		
+	<div id="page" class="hfeed site grid-container container grid-parent">
+		<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100">
+		<main id="main" class="site-main">
+						
+				
+<article id="post-124" class="post-124 page type-page status-publish" itemtype='http://schema.org/CreativeWork' itemscope='itemscope'>
+	<div class="inside-article">
+				
+				
+				<div class="entry-content" itemprop="text">
+			<div id="pl-124"  class="panel-layout" ><div id="pg-124-0"  class="panel-grid panel-no-style" ><div id="pgc-124-0-0"  class="panel-grid-cell" ><div id="panel-124-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" ><div class="textwidget"><p><img class="alignnone wp-image-1013 size-medium" src="https://jafari.tamu.edu/wp-content/uploads/people/011-Jafari-Roozbeh-cropped-251x300.png" alt="" width="251" height="300" /></p>
+</div></div></div><div id="pgc-124-0-1"  class="panel-grid-cell" ><div id="panel-124-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" ><div class="textwidget"><h3><strong>Principal Investigator<br />
+</strong></h3>
+<h3><strong>Roozbeh Jafari</strong></h3>
+<p><strong>Associate Professor</strong><br />
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://remotehealth.tamu.edu/">Center for Remote Health Technologies and Systems</a><br />
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://engineering.tamu.edu/biomedical">Biomedical Engineering</a><br />
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://engineering.tamu.edu/cse/">Computer Science and Engineering</a><br />
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://engineering.tamu.edu/electrical">Electrical and Computer Engineering</a></span><br />
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.tamu.edu/">Texas A&amp;M University</a></span><br />
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://jafari.tamu.edu/wp-content/uploads/2015/10/CV_JAFARI_15_10.pdf">Curriculum Vitae</a></span> (updated October 2015)</span></span></p>
+</div></div></div></div><div id="pg-124-1"  class="panel-grid panel-no-style" ><div id="pgc-124-1-0"  class="panel-grid-cell" ><div id="panel-124-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" ><div class="textwidget"><h3><strong>Biography</strong></h3>
+<p>Roozbeh Jafari is an associate professor in Biomedical Engineering, Computer Science and Engineering and Electrical and Computer Engineering at Texas A&amp;M University. He received his Ph.D. in Computer Science from UCLA and completed a postdoctoral fellowship at UC-Berkeley. His research interest lies in the area of wearable computer design and signal processing. His research has been funded by the NSF, NIH, DoD (TATRC), AFRL, AFOSR, DARPA, SRC and industry (Texas Instruments, Tektronix, Samsung &amp; Telecom Italia). He has published over 100 papers in refereed journals and conferences. He has served as the general chair and technical program committee chair for several flagship conferences in the area of Wearable Computers including the ACM Wireless Health 2012 and 2013, International Conference on Body Sensor Networks 2011 and International Conference on Body Area Networks 2011. He is the recipient of the NSF CAREER award in 2012, IEEE Real-Time &amp; Embedded Technology &amp; Applications Symposium (RTAS) best paper award in 2011 and Andrew P. Sage best transactions paper award from IEEE Systems, Man and Cybernetics Society in 2014. He is an associate editor for the IEEE Transactions on Biomedical Circuits and Systems, IEEE Sensors Journal, IEEE Internet of Things Journal and IEEE Journal of Biomedical and Health Informatics. He has served as an expert witness on a number of interesting industry litigation cases.</p>
+<h3><strong>Education</strong></h3>
+<ul>
+<li>Post-Doc. Electrical Engineering and Computer Science, <span style="color: #0000ff;"><a class="urllink" style="color: #0000ff;" href="http://www.berkeley.edu/" rel="nofollow">University of California, Berkeley, CA</a></span></li>
+<li>Ph.D. Computer Science, <span style="color: #0000ff;"><a class="urllink" style="color: #0000ff;" href="http://www.ucla.edu/" rel="nofollow">University of California, Los Angeles, CA</a></span></li>
+<li>M.S. Computer Science, <span style="color: #0000ff;"><a class="urllink" style="color: #0000ff;" href="http://www.ucla.edu/" rel="nofollow">University of California, Los Angeles, CA</a></span></li>
+<li>B.S. Electrical Engineering, <span style="color: #0000ff;"><a class="urllink" style="color: #0000ff;" href="http://www.sharif.edu/" rel="nofollow">Sharif University of Technology, Tehran, Iran</a></span></li>
+</ul>
+<h3> </h3>
+<h3><strong>Publications</strong></h3>
+<p>See lab <span style="color: #0000ff;"><a style="color: #0000ff;" href="http://jafari.tamu.edu/publications/">publication </a></span>list.</p>
+<h3><strong>Contact Information</strong></h3>
+<ul>
+<li><strong>Email:</strong> rjafari (at) tamu (dot) edu</li>
+<li><strong>Phone: </strong>979.862.8098</li>
+<li><strong>Fax:</strong> 979.845.4450</li>
+<li><strong>Office:</strong> 5010 <a href="http://aggiemap.tamu.edu/?Bldg=0270">Emerging Technologies Building</a></li>
+<li><strong>Lab:</strong> 3056 <a href="http://aggiemap.tamu.edu/?Bldg=0270">Emerging Technologies Building</a></li>
+<li><strong>Mailing Address:</strong> 5045 Emerging Technologies Bldg./3120 TAMU, College Station, TX 77843-3120
+<div class="vspace"> </div>
+</li>
+<li><strong>Administrative Assistant: </strong>Lisa McDow</li>
+<li><strong>Email: </strong>lmcdow (at) tamu (dot) edu </li>
+<li><strong>Phone: </strong>979.458.9808
+<div class="vspace"> </div>
+</li>
+<li><strong>Grants and Contracts Specialist:</strong> James Jackson</li>
+<li><strong>Email: </strong>jjackson (at) tamus (dot) edu<strong> </strong></li>
+<li><strong>Phone:</strong> 979.862.4413</li>
+</ul>
+</div></div></div></div></div>					</div><!-- .entry-content -->
+			</div><!-- .inside-article -->
+</article><!-- #post-## -->
+
+				
+								</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+</div><!-- #page -->
+<div class="site-footer grid-container grid-parent  ">
+		<footer class="site-info" itemtype="http://schema.org/WPFooter" itemscope="itemscope">
+		<div class="inside-site-info grid-container grid-parent">
+						<div class="copyright-bar">
+				<span class="copyright">&copy; 2017</span> &bull; <a href="https://generatepress.com" target="_blank" itemprop="url">GeneratePress</a>			</div>
+		</div>
+	</footer><!-- .site-info -->
+	</div><!-- .site-footer -->
+
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/plugins/gp-premium/addons/generate-page-header/inc/js/parallax.js?ver=1.4'></script>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/plugins/gp-premium/addons/generate-secondary-nav/inc/js/navigation.js?ver=0.2'></script>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/themes/generatepress/js/navigation.min.js?ver=1.4'></script>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/themes/generatepress/js/dropdown.min.js?ver=1.4'></script>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/themes/generatepress/js/navigation-search.min.js?ver=1.4'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-content/themes/generatepress/js/html5shiv.min.js?ver=1.4'></script>
+<![endif]-->
+<script type='text/javascript' src='https://jafari.tamu.edu/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+<script type="text/javascript">document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Theodora Chaspari</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Theodora Chaspari</div>
+<div class="menu-item"><a href="index.html" class="current">Index</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="cv.html">CV</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="press.html">Press</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Theodora Chaspari</h1>
+<div id="subtitle">(<a href="mailto:chaspari@usc.edu">chaspari@usc.edu</a>)</div>
+</div>
+<table class="imgtable"><tr><td>
+<img src="images/photo5.jpeg" align="left" hspace="150" alt="" width="229px" height="250px" />&nbsp;</td>
+<td align="left"><p><a href="http://ee.usc.edu/">USC Ming Hsieh Department of Electrical Engineering</a><br />
+<a href="http://sail.usc.edu/">Signal Analysis and Interpretation Laboratory (SAIL)</a><br />
+Advisor: Prof. <a href="http://sail.usc.edu/shri.php">Shrikanth Narayanan</a><br /></p>
+<p><b>Mail:</b> 3740 McClintock Ave. EEB 400<br />
+Los Angeles, CA 90089-2560<br />
+<b>Email:</b> chaspari@usc.edu<br />
+<b>Phone:</b> (213) 740-3477</p>
+<p><a href="https://www.linkedin.com/in/chaspari">Linkedin</a><br />
+<a href="https://www.researchgate.net/profile/Theodora_Chaspari">ResearchGate</a></p>
+</td></tr></table>
+<p><br /><b>Research Interests:</b><br />
+The increasing use of wearable sensors allows the monitoring of individuals over long periods of time in non-ambulatory settings, providing new insights into diagnostic and therapeutic means. The large volume and variability of recordings from these sensors, their use in everyday life and beyond specialized places and the limited resources of appropriately trained people for the corresponding signal analysis underline the need of automatic ways to process them. My research focuses on addressing challenges in capturing, representing and analyzing the acquired signals, as well as interpreting them as a unified group and with respect to co-evolving behavioral markers and events. It has applications to psychophysiological well-being, personalized health, security, and human assistive agents.<br /></p>
+</td>
+</tr>
+</table>
+</body>
+</html>

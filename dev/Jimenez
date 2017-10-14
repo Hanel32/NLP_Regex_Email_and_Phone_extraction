@@ -1,0 +1,391 @@
+<html>
+<title> Daniel A. Jim&eacute;nez</title>
+<head>
+<meta name="KeyWords" content="Daniel Jimenez, Daniel A. Jimenez, perceptron, branch, prediction, Rutgers, Jiminez, Jiminiz">
+
+</head>
+<!body bgcolor="#cf5300" text="#000000" link="#ffffFF" alink="#e0e0e0" vlink="#c0c0c0" >
+<body bgcolor="#500000" text="#a0a0a0" link="#cf5300" alink="#672900" vlink="#9b3e00" >
+<h1> 
+Daniel A. Jim&eacute;nez
+</h1>
+<table WIDTH=700 CELLPADDING=2 CELLSPACING=2>
+	<tr>
+		<td WIDTH=200>
+			<p ALIGN=CENTER><a href="explain.html"><img SRC="http://hpca23.cse.tamu.edu/taco/daniel.jpg" NAME="photo" ALIGN=BOTTOM BORDER=0></a></p>
+
+		</td>
+		<td WIDTH=300 VALIGN=TOP>
+			<p><br><br><a HREF="http://www.cse.tamu.edu/">Department of Computer Science and Engineering</a>
+<br>
+<a HREF="http://www.tamu.edu/">Texas A&amp;M University</a> 
+<br>
+TAMU 3112<br>
+College Station, TX 77843-3112<br>
+			</p>
+			<p>Office: HRBB 509D
+		
+<br>Email: <a HREF="mailto:djimenez@cs.tamu.edu">djimenez@cs.tamu.edu</a><br>Voice:
+			+1.979.845.2434
+			<br>Office hours: By appointment.
+
+			</p>
+		</td>
+	</tr>
+</table>
+<p>
+I'm a Professor in the <a href="http://www.cse.tamu.edu">
+Computer Science and Engineering Department</a> at <a href="http://www.tamu.edu">
+Texas A&amp;M University</a>.  Before this, I was Professor and Department Chair in the CS department at UT San Antonio.  Before that, I was an Associate Professor (with tenure) in the CS department at Rutgers.  My Ph.D. in Computer Sciences is from UT Austin.  I'm interested in anything related to making computation
+go faster.  My focus is on microarchitecture and the interaction
+between the compiler and the microarchitecture.  I've been doing
+a lot of work in branch prediction and more recently caches.  I'm known for inventing the 
+<a href="http://hpca23.cse.tamu.edu/taco/pdfs/hpca7_dist.pdf">perceptron branch predictor</a> as well as for other research.  I'm also inexplicably drawn to leadership and service roles in my university and research communities, although it remains to be seen if my recent stint as Department Chair at UTSA has cured me of that.
+<p>
+For a detailed list of professional things I've done, see  
+<a href="http://hpca23.cse.tamu.edu/taco/cv.pdf">
+my CV</a>.
+<h2>For Graduate Students Interested in my Classes</h2>
+Yes, there will be programming. I teach Computer Science. There is a lot of programming in Computer Science. If you don't like programming you shouldn't be taking my class.
+
+<h2>Teaching</h2>
+Spring 2017: 
+<a href="http://faculty.cse.tamu.edu/djimenez/689/">CSCE 689-603: Machine Learning in Computer Systems Research</a>
+<a href="http://faculty.cse.tamu.edu/djimenez/312/">CSCE 312-501,502: Computer Organization</a>
+<br>
+Fall 2016: <a href="http://faculty.cse.tamu.edu/djimenez/614/">CSCE 614: Computer Architecture</a>
+<br>
+Fall 2015: <a href="http://faculty.cse.tamu.edu/djimenez/614-fall15/">CSCE 614: Computer Architecture</a>
+<br>
+Spring 2015: <a href="http://faculty.cse.tamu.edu/djimenez/613/index.html">CSCE 613: (Advanced) Operating Systems</a>
+<br>
+Fall 2014: <a href="http://faculty.cse.tamu.edu/djimenez/689-fall14/">CSCE 689-600: Fundamental Concepts in Computer Science</a>
+<br>
+Spring 2014: <a href="http://faculty.cse.tamu.edu/djimenez/614-spring14/">CSCE 614: Computer Architecture</a>
+<br>
+Fall 2013: <a href="http://faculty.cse.tamu.edu/djimenez/689/">CSCE 689-601: Architectural Support for Programming Languages and Operating Systems</a>
+<br>
+Spring 2013: <a href="http://faculty.cse.tamu.edu/djimenez/689-spring13/">CSCE 689-602: Microarchitecture</a>
+<br>
+<br>
+(the following are from my time at UTSA)
+<br>
+Spring 2012:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs6513/">CS 6513: Advanced Architecture</a>
+<br>
+Fall 2011:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs5513/">CS 5513: Computer Architecture</a>
+<br>
+Spring 2011:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs1713-1/">CS 1713: Introduction to Computer Programming II</a>
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs3843/">CS 3843: Computer Organization</a>
+<br>
+Fall 2010: on leave
+<br>
+Spring 2010:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs3853/index.html">CS 3853: Computer Architecture</a>
+<br>
+Fall 2009:
+CS 3853
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs5513-fall09/index.html">CS 5513: Computer Architecture</a>
+<br>
+Spring 2009:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs2073-2/index.html">CS 2073: Computer Programming with Engineering Applications</a>
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs1713-2/index.html">CS 1713: Introduction to Computer Programming II</a>
+<br>
+Fall 2008:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs5513/index.html">CS 5513: Computer Architecture</a>
+<br>
+Fall 2007:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs2733/index.html">CS 2733: Computer Organization II</a>
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs5513-fall07/index.html">CS 5513: Computer Architecture</a>
+<br>
+Summer 2007:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs3343/index.html">CS 3343: Analysis of Algorithms</a>
+<br>
+Spring 2007:
+<a href="http://hpca23.cse.tamu.edu/taco/utsa-www/cs2073-2.old/index.html">CS 2073: Computer Programming with Engineering Applications</a>
+
+
+<h2> Selected Publications </h2>
+<ul>
+
+	   <li> Elvira Teran, Zhe Wang, and Daniel A. Jim&eacute;nez, <em>Perceptron Learning for Reuse Prediction</em>, Proceedings of The 49th Annual IEEE/ACM International Symposium on
+	           Microarchitecture (MICRO-2016), Taipei, Taiwan, October 2016.
+		           (<a href="http://hpca23.cse.tamu.edu/pdfs/micro2016-perceptron.pdf">pdf</a>).
+
+			           <li> Elvira Teran, Yingying Tian, Zhe Wang, and Daniel A. Jim&eacute;nez, <em>Minimal Disturbance Placement and Promotion</em>, Proceedings of the 22nd International Symposium on High Performance Computer Architecture (HPCA-22), Barcelona, Catalunya, March 2016.
+				           (<a href="http://hpca23.cse.tamu.edu/pdfs/hpca2016-mdpp.pdf">pdf</a>).
+
+
+<li> Daniel A. Jim&eacute;nez, <em>Insertion and Promotion for Tree-Based
+     PseudoLRU Last-Level Caches</em>, Proceedings of the 46th Annual IEEE/ACM
+     International Symposium on Microarchitecture (MICRO-46), Davis,
+     California, December 2013 
+  (<a href="http://hpca23.cse.tamu.edu/taco/pdfs/15-jimenez.pdf">pdf</a>).
+
+<li> Zhe Wang, Samira M. Khan, Daniel A. Jim&eacute;nez, <em>Improving
+     Writeback Efficiency with Decoupled Last Write Prediction</em>, Proceedings
+     of the 39th International Symposium on Computer Architecture (ISCA-39),
+     Portland, Oregon, June 2012 
+  (<a href="http://hpca23.cse.tamu.edu/taco/pdfs/isca2012_dist.pdf">pdf</a>).
+
+       <li> Samira M. Khan, Zhe Wang, Daniel A. Jim&eacute;nez,
+        <em>Decoupled Dynamic Cache Segmentation</em>, Proceedings of
+        the 18th International Symposium on High Performance Computer
+        Architecture (HPCA-18), New Orleans, Louisiana, February 2012 
+        (<a href="http://hpca23.cse.tamu.edu/taco/pdfs/hpca2012_dist.pdf">pdf</a>).      
+
+        <li> Zhe Wang, Daniel A. Jim&eacute;nez, <em>Program
+        Interferometry</em> Proceedings of the 2011 International IEEE
+        International Symposium on Workload Characterization (IISWC),
+        pp. 172--183, Austin, Texas, November 2011 
+        (<a href="http://hpca23.cse.tamu.edu/taco/pdfs/interferometry_dist.pdf">pdf</a>).
+
+        <li> Daniel A. Jim&eacute;nez, <em>An Optimized Scaled Neural Branch
+        Predictor</em>, Proceedings of the 2011 IEEE International Conference
+        on Computer Design (ICCD), Amherst, Massachusetts, October 2011 
+        (<a href="http://hpca23.cse.tamu.edu/taco/pdfs/iccd2011_dist.pdf">pdf</a>).
+
+<li> Samira M. Khan, Yingying Tian, Daniel A. Jim&eacute;nez, <em>Dead
+Block Replacement and Bypass with a Sampling Predictor</em>, Proceedings of
+the 43rd International Symposium on Microarchitecture (MICRO-43), Atlanta,
+Georgia, December 2010
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/micro2010_sampler_dist.pdf">pdf</a>).
+
+<li> Samira Khan, Daniel A. Jim&eacute;nez, Doug Burger and Babak Falsafi,
+<em>Using Dead Blocks as a Virtual Victim Cache</em>, Proceedings of the
+2010 International Conference on Parallel Architectures and Compilation
+Technologies (PACT-2010), Vienna, Austria, September, 2010 
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/pact2010_vvc_dist.pdf">pdf</a>).
+
+<li> Ren&eacute;e St. Amant, Daniel A. Jim&eacute;nez and Doug
+Burger, <em>Low-Power, High-Performance Analog Neural Branch
+Prediction</em>, Proceedings of the 41st Annual International Symposium
+on Microarchitecture (MICRO-41), Lake Como, Italy, November 2008.
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/analog.pdf">pdf</a>) (<a
+href="http://hpca23.cse.tamu.edu/taco/snp_my_predictor.h">C++ code</a>)
+
+<li> Miquel Peric&agrave;s, Adrian Cristal, Francisco J. Cazorla,
+Ruben Gonz&aacute;lez, Alex Veidenbaum, Daniel A. Jim&eacute;nez
+and Mateo Valero, <em>A Two-Level Load/Store Queue Based on
+Execution Locality</em>, Proceedings of the 35th International
+Symposium on Computer Architecture (ISCA-35), June 2008 
+(<a href="http://personals.ac.upc.edu/mpericas/pericas-TwoLevelLSQ.pdf">pdf</a>)
+
+<li> Daniel A. Jim&eacute;nez, <em>Piecewise Linear Branch Prediction</em>,
+Proceedings of the 32nd International Symposium on Computer Architecture
+(ISCA-32), June 2005 
+(<a href="http://hpca23.cse.tamu.edu/taco/psgz/isca05_dist.ps.gz">ps.gz</a>)
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/isca05_dist.pdf">pdf</a>)
+
+<li> Daniel A. Jim&eacute;nez, <em>Code Placement for Improving Dynamic Branch
+Prediction Accuracy</em>, Proceedings of the ACM SIGPLAN 2005 Conference
+on Programming Language Design and Implementation (PLDI), June, 2005
+(<a href="http://hpca23.cse.tamu.edu/taco/psgz/pldi05_dist.ps.gz">ps.gz</a>) 
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/pldi05_dist.pdf">pdf</a>)
+
+<li> Daniel A. Jim&eacute;nez,
+<em>Idealized Piecewise Linear Branch Prediction</em>,
+The 1st JILP Championship Branch Prediction Competition (CBP-1), December, 2004 (co-located with MICRO 37)
+(<a href="http://hpca23.cse.tamu.edu/taco/psgz/cbp04.ps.gz">ps.gz</a>)
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/cbp04.pdf">pdf</a>)
+(<a href="perceptrons_for_dummies.ppt">Introductory PowerPoint slides from CBP</a>)
+(<a href="idealized_piecewise_linear_branch_prediction.ppt">Powerpoint slides for the predictor</a>)
+
+<li> Daniel A. Jim&eacute;nez, <em>Fast Path-Based Neural Branch Prediction</em>,
+Proceedings of the 36th Annual International Symposium on Microarchitecture
+(MICRO-36), San Diego, CA, December 2003.
+(<a href="http://hpca23.cse.tamu.edu/taco/psgz/micro03_dist.ps.gz">ps.gz</a>)
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/micro03_dist.pdf">pdf</a>)
+(<a href="http://hpca23.cse.tamu.edu/taco/public-bp/index.html">Java source code</a>)
+
+<li> Daniel A. Jim&eacute;nez, <em>Reconsidering Complex Branch Predictors</em>,
+Proceedings of the Ninth International Symposium on High Performance
+Computer Architecture (HPCA-9), Anaheim, CA, February 2003.
+(<a href="http://hpca23.cse.tamu.edu/taco/psgz/reconsidering.ps.gz">ps.gz</a>)
+(<a href="http://hpca23.cse.tamu.edu/taco/pdfs/reconsidering.pdf">pdf</a>)
+
+</ul>
+
+<a href="http://hpca23.cse.tamu.edu/taco/pubs.html">Click here</a> for an out-of-date "full" list of publications.
+
+
+<h2>Education</h2>
+<ul>
+
+<li> Ph.D. in Computer Sciences, 
+<br>
+<a href="http://www.cs.utexas.edu">Department of Computer Sciences</a>,
+<a href="http://www.utexas.edu">The University of Texas at Austin</a>
+
+<li> M.S. in Computer Science, 
+<br>
+<a href="http://www.cs.utsa.edu">Division of Computer Science</a>, <a href="http://www.utsa.edu">The University of Texas at San Antonio</a>
+
+<li> B.S. in Computer Science and Systems Design, 
+<br>
+Division of 
+<a href="http://www.math.utsa.edu">Mathematics</a>,
+<a href="http://www.cs.utsa.edu">Computer Science</a>, and 
+<a href="http://business.utsa.edu/departments/mss/">Statistics</a>,
+<a href="http://www.utsa.edu">The University of Texas at San Antonio</a>
+</ul>
+
+<h2> Grants </h2>
+<ul>
+
+<li> NSF CCF-1216604
+<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1216604">
+<em>SHF:CSR:Small:Improving Processor Efficiency with Prediction</em></a>, $350,000 effective July 2012 (PI).
+
+<li> NSF DUE-1027521, 
+<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1027521">
+<em>Scholarship for Service - The University of Texas at San Antonio,</em></a>,
+$1,333,658 effective January 2012 (co-PI).
+
+<li> NSF CCF-1012127, <a
+href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1012127">
+
+<em>SHF: Large: Collaborative Research: Reliable Performance for Modern
+Systems </em> </a>, $550,000 (UTSA portion is $203,750), funded as of July, 2010 (PI)
+
+<li> Intel Corporation, <em>Prediction for Memory Hierarchy and Processor Core Optimization</em>, $5,000 effective September 2011 (PI).
+
+<li> NHARP-010115-0079-2009, <em>Improving Multi-Core Processor Efficiency by Reducing Memory System Waste</em>, $150,000, funded as of August, 2010 (PI).
+
+<li> NSF CCF-0952604,
+<em><a
+href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0952604">EAGER:
+Code-Improving Transformations for Branch Prediction</em></a>, $100,000, funded as
+of September 15, 2009 (PI).
+
+<li> NSF CRI-0751138,
+<em><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0751138">CRI: IAD Resources for Branch Prediction Research</em></a>, $233,730, funded as of June 1, 2008 (PI).
+
+<li> NSF CCF-0829760, <em><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0829760">Systems Research Mentoring Workshop</em></a>, $25,000, funded as of May 1, 2008 (co-PI).
+
+<li> NSF CCF-0545898/0931874, <em><a
+href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0545898">CAREER:
+Branch Prediction</a></em>, $400,000, funded as of April 1, 2006 (PI).
+
+<li> NSF CSA-0311091, <a href="CSA-0311091.html">
+<em>Improving Microarchitectural Performance with Neural Predictors</em></a>,
+$224,916,
+funded as of July, 2003 (PI).
+
+<li> Rutgers Information Sciences and Technology Council, 
+<a href="ISATC.html"><em>An Evaluation
+Infrastructure for Power and Energy Optimizations</em></a>, with Ulrich
+Kremer, $30,294, funded as of February, 2003 (co-PI).
+</ul>
+
+<h2>HPCA 2011</h2>
+I was the General Chair of the <a href="http://hpca17.ac.upc.edu/web/">17th IEEE International Symposium on High-Performance Computer Architecture</a> (HPCA 2011).
+
+<h2>Systems Research Mentoring Workshop</h2>
+I co-chaired the <a href="http://www.cis.udel.edu/systems-mentoring-workshop/">CRA-W/CDC Systems Research Mentoring Workshop</a> at the University of Delaware.
+<h2>Programming Languages Summer School</h2>
+I co-chaired the <a href="http://www.cs.utexas.edu/users/mckinley/pl-summer-2007/">CRA-W/CDC Programming Languages Summer School</a> at UT Austin.
+
+<h2>Branch Prediction Competition</h2>
+Learn more about the <a href="http://hpca23.cse.tamu.edu/taco/camino/cbp2">2nd JILP
+Championship Branch Prediction Competition</a>, a workshop co-located with
+MICRO 2006. For an updated version of the competition infrastructure, download <a href="http://hpca23.cse.tamu.edu/taco/cbp2-infrastructure-v2a.tar">this</a>.
+<h2>Program Committees</h2>
+<ul>
+
+<li>
+The 45th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2012).
+
+<li>  The 17th IEEE International Symposium on High-Performance Computer Architecture (<a href="http://hpca17.ac.upc.edu">HPCA 2011</a>).
+<li>
+The 38th International Conference on
+Parallel Processing (<a href="http://www.cse.ohio-state.edu/~icpp2009/">ICPP 2009</a>).
+<li>
+The 21st ACM International Conference on Supercomputing (<a href="http://ics07.ac.upc.edu/ics07/">ICS 2007</a>).
+<li>
+The 20th ACM International Conference on Supercomputing (<a href="http://www.ics-conference.org/2006/index.html">ICS 2006</a>).
+<li>
+The 33rd Annual International Symposium on Computer Architecture (<a href="http://www.ece.neu.edu/conf/isca2006/">ISCA 2006</a>).
+<li>
+The 38th Annual IEEE/ACM International Symposium on Microarchitecture
+(<a href="http://pcsostres.ac.upc.edu/micro38/">MICRO 2005</a>)
+<li>
+The 14th International Conference on Parallel Architectures and Compilation Techniques (<a href="http://pact05.ce.ucsc.edu/">PACT 2005</a>)
+<li>
+The 13th International Conference on Parallel Architectures and Compilation Techniques (<a href="http://www.laria.u-picardie.fr/~cerin/pact/">PACT 2004</a>)
+<li>
+The 10th International Conference on High Performance Computing (<a href="http://www.hipc.org/hipc2003/index.html">HiPC 2003</a>)
+
+</ul>
+
+<h2> Java CoCo Emulator </h2>
+I have been developing an emulator for the Tandy Color Computer in Java.
+<a href="xoco/coco.html"> Click here </a> to start
+the emulator and see what I have done so far.  I take no responsibility
+if your browser crashes :-).  This link will probably disappear soon.
+
+<h2> Old Stuff </h2>
+In my previous life, I was a graduate student at the University of Texas
+at Austin, I worked on the faculty of the UT Health Science Center at
+San Antonio medical school, and taught computer science classes at UTSA.
+Here are local copies of the web pages I kept then:
+<ul>
+<li> <a href="ut/"> Grad Student,
+The University of Texas at Austin</a>.  My advisor was <a
+href="http://www.cs.utexas.edu/~lin"> Calvin Lin</a>.  My thesis
+title was <em>Delay-Sensitive Branch Predictors for Future Technologies.</em>
+<br>
+<br>
+<li> <a href="ut/uthscsa/jimenez/jimenez.html">
+Instructor/Research, The Department of Rehabiliation Medicine, The University
+of Texas Health Science Center at San Antonio </a> I did research at UTHSCSA
+into automating the design of prosthetic devices for below-the-knee amputees.
+Here's a <a href="ut/java/ap1-1.html">Java
+applet</a> I wrote that shows the shape of an amputee's leg with anatomical
+markers.  Part of my job was to find these markers using neural networks.
+<br>
+<br>
+<li> <a href="ut/utsa/index.html"> Teaching
+Associate, The Division of Computer Science, The University of Texas at San
+Antonio </a>  These pages relate to the classes I taught while at UTSA.
+They have some information that might be useful to undergraduates in CS,
+as well as anyone teaching similar CS courses.
+
+</ul>
+And here are links to my still-active(?) web pages at the other two universities where I have been a professor:
+<ul>
+<li> <a href="http://www.cs.rutgers.edu/~djimenez">Associate Professor, Department of Computer Science, Rutgers</a> This is pretty much an out-of-date copy of my UT San Antonio web page
+<p>
+<li> <a href="http://hpca23.cse.tamu.edu/taco/utsa-www/">Professor, Department of Computer Science, The University of Texas at San Antonio</a> This is as I left it on my last day as a Professor at UTSA.
+</ul>
+
+<h2> Quotes </h2>
+I have collected a few interesting quotes <a href="http://hpca23.cse.tamu.edu/taco/quotes.html">here</a>.
+
+<h2>Branch Prediction Joke</h2>
+In Soviet Russia, branch predicts YOU!
+
+<h2>Best Quote</h2>
+Technical skill is mastery of complexity, while creativity is mastery
+of simplicity. (Sir Erik Christopher Zeeman)
+
+<h2> Links </h2>
+Here are some interesting links:
+<ul>
+<li> <a href="http://db.uwaterloo.ca/~alopez-o/comp-faq/faq.html"> 
+The Comp.Theory FAQ </a>
+<br>
+I had a hand in writing this FAQ list for the newsgroup 
+<a href="news:comp.theory"> comp.theory </a>.  My stuff is where it 
+says "the rest of this section was written by Daniel Jimenez."  
+<li> <a href="http://amymarquez.com/">
+Amy Marquez</a>
+<br>
+This is my sister's web site.  She is a web designer in San Antonio, Texas and would be appalled at this abomination I call a web page.
+</ul>
+<p>
+<img src="transparent_daj.gif" alt="Daniel A. Jimenez">
+</body>
+</html>

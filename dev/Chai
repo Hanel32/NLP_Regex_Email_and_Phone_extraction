@@ -1,0 +1,2158 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40"
+xmlns:ns1="http://schemas.microsoft.com/office/2004/12/omml">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
+<title>Jin-Xiang Chai</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PersonName"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jchai</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>jchai</o:LastAuthor>
+  <o:Revision>61</o:Revision>
+  <o:TotalTime>2325</o:TotalTime>
+  <o:Created>2011-04-03T04:23:00Z</o:Created>
+  <o:LastSaved>2015-04-17T18:08:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1447</o:Words>
+  <o:Characters>8253</o:Characters>
+  <o:Company>Carnegie Mellon University</o:Company>
+  <o:Lines>68</o:Lines>
+  <o:Paragraphs>19</o:Paragraphs>
+  <o:CharactersWithSpaces>9681</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>FullPage</w:Zoom>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr>
+  <u1:mathPr>
+   <u1:mathFont u1:val="Cambria Math"/>
+   <u1:brkBin u1:val="before"/>
+   <u1:brkBinSub u1:val="--"/>
+   <u1:smallFrac u1:val="off"/>
+   <u1:dispDef/>
+   <u1:lMargin u1:val="0"/>
+   <u1:rMargin u1:val="0"/>
+   <u1:defJc u1:val="centerGroup"/>
+   <u1:wrapIndent u1:val="1440"/>
+   <u1:intLim u1:val="subSup"/>
+   <u1:naryLim u1:val="undOvr"/>
+  </u1:mathPr>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--p.MSONORMAL
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-fareast-theme-font:minor-fareast;}
+li.MSONORMAL
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-fareast-theme-font:minor-fareast;}
+div.MSONORMAL
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-fareast-theme-font:minor-fareast;}
+h2
+	{mso-style-unhide:no;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-theme-font:major-bidi;}
+h3
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;}
+p
+	{mso-fareast-theme-font:minor-fareast;}
+p.MSOACETATE
+	{mso-fareast-theme-font:minor-fareast;}
+li.MSOACETATE
+	{mso-fareast-theme-font:minor-fareast;}
+div.MSOACETATE
+	{mso-fareast-theme-font:minor-fareast;}
+p.MSOLISTPARAGRAPH
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-fareast-theme-font:minor-fareast;}
+li.MSOLISTPARAGRAPH
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-fareast-theme-font:minor-fareast;}
+div.MSOLISTPARAGRAPH
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-fareast-theme-font:minor-fareast;}
+span.HEADING2CHAR
+	{mso-style-unhide:no;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-theme-font:major-bidi;}
+span.HEADING3CHAR
+	{mso-style-priority:9;
+	mso-style-unhide:no;}
+span.BALLOONTEXTCHAR
+	{mso-style-unhide:no;}
+span.APPLE-STYLE-SPAN
+	{mso-style-unhide:no;}
+span.APPLE-CONVERTED-SPACE
+	{mso-style-unhide:no;}
+span.GRAME
+	{mso-style-unhide:no;}
+.MSOCHPDEFAULT
+	{mso-default-props:yes;}
+table.MSONORMALTABLE
+	{mso-style-priority:99;}
+table.MSOTABLEGRID
+	{mso-style-unhide:no;}
+table.STYLE1
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;}
+table.STYLE2
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;}
+table.STYLE3
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-tstyle-shading-themecolor:text1;}
+table.STYLE4
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-tstyle-shading-themecolor:text1;
+	mso-tstyle-shading-themetint:191;}
+table.STYLE5
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;}
+table.STYLE6
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;}
+table.STYLE7
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-tstyle-shading-themecolor:text1;}
+table.STYLE8
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;}
+
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:"Arial Unicode MS";
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073741899 0 0 159 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{mso-style-link:"Heading 2 Char";
+	mso-style-next:Normal;
+	margin-top:13.0pt;
+	margin-right:0in;
+	margin-bottom:13.0pt;
+	margin-left:0in;
+	line-height:170%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:Cambria;
+	font-weight:bold;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:SimSun;
+	mso-bidi-font-family:SimSun;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#FFFF99;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	color:#FFFF99;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	font-family:SimSun;
+	mso-ascii-font-family:SimSun;
+	mso-fareast-font-family:SimSun;
+	mso-hansi-font-family:SimSun;
+	mso-bidi-font-family:SimSun;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:Tahoma;
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+p.msolistparagraph, li.msolistparagraph, div.msolistparagraph
+	{mso-style-name:msolistparagraph;
+	mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:21.0pt;
+	mso-char-indent-count:2.0;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.apple-style-span
+	{mso-style-name:apple-style-span;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.grame
+	{mso-style-name:grame;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableClassic1
+	{mso-style-name:"Table Classic 1";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	border-top:solid black 1.5pt;
+	border-left:none;
+	border-bottom:solid black 1.5pt;
+	border-right:none;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableClassic1FirstRow
+	{mso-style-name:"Table Classic 1";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-bottom:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-style:italic;
+	mso-bidi-font-style:italic;}
+table.MsoTableClassic1LastRow
+	{mso-style-name:"Table Classic 1";
+	mso-table-condition:last-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:windowtext;}
+table.MsoTableClassic1FirstCol
+	{mso-style-name:"Table Classic 1";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-right:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTableClassic1NECell
+	{mso-style-name:"Table Classic 1";
+	mso-table-condition:ne-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;
+	mso-ansi-font-style:normal;
+	mso-bidi-font-style:normal;}
+table.MsoTableClassic1SWCell
+	{mso-style-name:"Table Classic 1";
+	mso-table-condition:sw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableClassic2
+	{mso-style-name:"Table Classic 2";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	border-top:solid black 1.5pt;
+	border-left:none;
+	border-bottom:solid black 1.5pt;
+	border-right:none;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableClassic2FirstRow
+	{mso-style-name:"Table Classic 2";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid purple;
+	mso-tstyle-border-bottom:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:white;}
+table.MsoTableClassic2LastRow
+	{mso-style-name:"Table Classic 2";
+	mso-table-condition:last-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTableClassic2FirstCol
+	{mso-style-name:"Table Classic 2";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid silver;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableClassic2NECell
+	{mso-style-name:"Table Classic 2";
+	mso-table-condition:ne-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableClassic2NWCell
+	{mso-style-name:"Table Classic 2";
+	mso-table-condition:nw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid purple;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTableClassic2SWCell
+	{mso-style-name:"Table Classic 2";
+	mso-table-condition:sw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:navy;}
+table.MsoTableClassic3
+	{mso-style-name:"Table Classic 3";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	border:solid black 1.5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid silver;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:navy;
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableClassic3FirstRow
+	{mso-style-name:"Table Classic 3";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid navy;
+	mso-tstyle-border-bottom:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:white;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;
+	mso-ansi-font-style:italic;
+	mso-bidi-font-style:italic;}
+table.MsoTableClassic3LastRow
+	{mso-style-name:"Table Classic 3";
+	mso-table-condition:last-row;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid white;
+	mso-tstyle-border-top:1.5pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:navy;}
+table.MsoTableClassic3FirstCol
+	{mso-style-name:"Table Classic 3";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:black;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableClassic4
+	{mso-style-name:"Table Classic 4";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	border-top:1.5pt;
+	border-left:1.0pt;
+	border-bottom:1.5pt;
+	border-right:1.0pt;
+	border-color:black;
+	border-style:solid;
+	mso-border-top-alt:1.5pt;
+	mso-border-left-alt:.75pt;
+	mso-border-bottom-alt:1.5pt;
+	mso-border-right-alt:.75pt;
+	mso-border-color-alt:black;
+	mso-border-style-alt:solid;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableClassic4FirstRow
+	{mso-style-name:"Table Classic 4";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:gray-50 navy;
+	mso-tstyle-border-bottom:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:white;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;
+	mso-ansi-font-style:italic;
+	mso-bidi-font-style:italic;}
+table.MsoTableClassic4LastRow
+	{mso-style-name:"Table Classic 4";
+	mso-table-condition:last-row;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:gray-50 black;
+	mso-tstyle-border-bottom:.75pt solid black;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:navy;}
+table.MsoTableClassic4FirstCol
+	{mso-style-name:"Table Classic 4";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableClassic4NWCell
+	{mso-style-name:"Table Classic 4";
+	mso-table-condition:nw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableClassic4SWCell
+	{mso-style-name:"Table Classic 4";
+	mso-table-condition:sw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:navy;}
+table.MsoTable3DFx1
+	{mso-style-name:"Table 3D effects 1";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid silver;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTable3DFx1FirstRow
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-bottom:.75pt solid gray;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:purple;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTable3DFx1LastRow
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:last-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:.75pt solid white;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx1FirstCol
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-right:.75pt solid gray;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTable3DFx1LastCol
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:last-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-left:.75pt solid white;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx1NECell
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:ne-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-border-left:0in none windowtext;
+	mso-tstyle-border-bottom:0in none windowtext;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx1NWCell
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:nw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-border-bottom:0in none windowtext;
+	mso-tstyle-border-right:0in none windowtext;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx1SECell
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:se-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:0in none windowtext;
+	mso-tstyle-border-left:0in none windowtext;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx1SWCell
+	{mso-style-name:"Table 3D effects 1";
+	mso-table-condition:sw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:0in none windowtext;
+	mso-tstyle-border-right:0in none windowtext;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	color:navy;}
+table.MsoTable3DFx2
+	{mso-style-name:"Table 3D effects 2";
+	mso-tstyle-rowband-size:1;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid silver;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTable3DFx2FirstRow
+	{mso-style-name:"Table 3D effects 2";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTable3DFx2FirstCol
+	{mso-style-name:"Table 3D effects 2";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:0in none windowtext;
+	mso-tstyle-border-bottom:0in none windowtext;
+	mso-tstyle-border-right:.75pt solid gray;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx2LastCol
+	{mso-style-name:"Table 3D effects 2";
+	mso-table-condition:last-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-right:.75pt solid white;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx2OddRow
+	{mso-style-name:"Table 3D effects 2";
+	mso-table-condition:odd-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:.75pt solid gray;
+	mso-tstyle-border-bottom:.75pt solid white;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx2SWCell
+	{mso-style-name:"Table 3D effects 2";
+	mso-table-condition:sw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTable3DFx3
+	{mso-style-name:"Table 3D effects 3";
+	mso-tstyle-rowband-size:1;
+	mso-tstyle-colband-size:1;
+	mso-style-noshow:yes;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTable3DFx3FirstRow
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:first-row;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTable3DFx3FirstCol
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:first-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:0in none windowtext;
+	mso-tstyle-border-bottom:0in none windowtext;
+	mso-tstyle-border-right:.75pt solid gray;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx3LastCol
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:last-column;
+	mso-style-noshow:yes;
+	mso-tstyle-border-right:.75pt solid white;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx3OddColumn
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:odd-column;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid silver;
+	color:windowtext;}
+table.MsoTable3DFx3EvenColumn
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:even-column;
+	mso-style-noshow:yes;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:gray-50 silver;
+	color:windowtext;}
+table.MsoTable3DFx3OddRow
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:odd-row;
+	mso-style-noshow:yes;
+	mso-tstyle-border-top:.75pt solid gray;
+	mso-tstyle-border-bottom:.75pt solid white;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;}
+table.MsoTable3DFx3SWCell
+	{mso-style-name:"Table 3D effects 3";
+	mso-table-condition:sw-cell;
+	mso-style-noshow:yes;
+	mso-tstyle-diagonal-down:0in none windowtext;
+	mso-tstyle-diagonal-up:0in none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-tstyle-shading:#4C4C4C;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style1
+	{mso-style-name:Style1;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:#232323;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style2
+	{mso-style-name:Style2;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:#FFC000;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style3
+	{mso-style-name:Style3;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:black;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style4
+	{mso-style-name:Style4;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:#404040;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style5
+	{mso-style-name:Style5;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style6
+	{mso-style-name:Style6;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style7
+	{mso-style-name:Style7;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-tstyle-shading:black;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.Style8
+	{mso-style-name:Style8;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<link rel=dataStoreItem href="index_files/item0006.xml"
+target="index_files/props007.xml">
+<link rel=themeData href="index_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
+<meta name=keywords
+content="TAMU Graphics and Animation,  character animation, data-driven approach for graphics and vision, interaction techniques for 3D graphics, vision for graphics and animation, image-based rendering and modeling, image and video processing">
+<meta name=description content="TAMU Graphics and Animation Lab">
+<!-- saved from url=(0029)http://www.cs.cmu.edu/~jchai/ --><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=black lang=EN-US link="#FFFF99" vlink="#FFFF99" style='tab-interval:
+.5in' leftmargin=0 topmargin=0>
+
+<div class=Section1>
+
+<table class=Style1 border=0 cellspacing=0 cellpadding=0 align=right width="76%"
+ style='width:76.24%;border-collapse:collapse;mso-table-overlap:never;
+ mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+ 9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+ column;mso-table-left:right;mso-table-top:.05pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:449.1pt'>
+  <td width="2%" valign=top style='width:2.0%;background:#232323;padding:0in 5.4pt 0in 5.4pt;
+  height:449.1pt'>
+  <h3 style='mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><o:p>&nbsp;</o:p></h3>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+  mso-element-top:.05pt;mso-height-rule:exactly'><span style='font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width="98%" valign=top style='width:98.0%;background:#232323;padding:
+  0in 5.4pt 0in 5.4pt;height:449.1pt;background-attachment:scroll'>
+  <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+   .25pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width=752 valign=top style='width:564.1pt;background:#232323;
+    padding:0in 5.4pt 0in 5.4pt'>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     .25pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+      height:43.9pt'>
+      <td width=210 valign=top style='width:157.6pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt;height:43.9pt'>
+      <p class=MsoNormal style='text-align:justify;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><span style='mso-no-proof:
+      yes'><img width=135 height=181 id="_x0000_i1025" src=jchai.jpg></span></p>
+      </td>
+      <td width=272 valign=top style='width:203.8pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt;height:43.9pt'>
+      <p style='mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+      around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>Jinxiang Chai</span><o:p></o:p></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;color:white;mso-bidi-font-weight:
+      bold'>Associate Professor<o:p></o:p></span></p>
+      </span>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;color:white;mso-bidi-font-weight:
+      bold'><o:p>&nbsp;</o:p></span></p>
+      </span>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;color:white;mso-bidi-font-weight:
+      bold'><a href="http://www.cse.tamu.edu/"><span style='color:white;
+      text-decoration:none;text-underline:none'><span style='mso-themecolor:background1'>Computer
+      Science</span></span></a></span></span><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white;mso-bidi-font-weight:bold'><a href="http://www.cse.tamu.edu/"><span
+      style='color:white;text-decoration:none;text-underline:none'><span
+      style='mso-themecolor:background1'> and Engineering</span></span></a><o:p></o:p></span></p>
+      </span>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'><a
+      href="http://www.tamu.edu/"><span style='color:white;mso-bidi-font-weight:
+      bold;text-decoration:none;text-underline:none'><span style='mso-themecolor:background1'>Texas
+      A&amp;M University</span></span></a><o:p></o:p></span></p>
+      </span>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'><o:p>&nbsp;</o:p></span></p>
+      </span>
+      <p class=MsoNormal style='mso-outline-level:3;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white;mso-bidi-font-weight:bold'>College Station, <o:p></o:p></span></p>
+      </span>
+      <p class=MsoNormal style='mso-outline-level:3;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white;mso-bidi-font-weight:bold'>Texas 77843-3112, USA<o:p></o:p></span></p>
+      </td>
+      </span>
+      <td width=263 valign=top style='width:197.05pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt;height:43.9pt'>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><o:p>&nbsp;</o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><o:p>&nbsp;</o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Office: 527D H.R. Bright<o:p></o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><o:p>&nbsp;</o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Phone: 979-845-3510 <o:p></o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Fax: 979-845-1420<o:p></o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><o:p>&nbsp;</o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Mocap Lab: 505 H.R. Bright<o:p></o:p></span></p>
+      <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Email: <st1:PersonName w:st="on">jchai@cs.tamu.edu</st1:PersonName><o:p></o:p></span></p>
+      <p class=MsoNormal style='text-align:justify;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:
+      normal'><span style='font-size:14.0pt;font-family:Arial;mso-fareast-font-family:
+      SimSun;color:#FFFFCC'><o:p>&nbsp;</o:p></span></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;mso-element:frame;mso-element-frame-hspace:
+    9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+    mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+    .05pt;mso-height-rule:exactly'><span style='mso-themecolor:
+    background1'><span
+    style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+    color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <p class=MsoNormal style='text-align:justify;mso-element:frame;mso-element-frame-hspace:
+    9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+    mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+    .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+    Arial;color:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+    style='mso-themecolor:background1'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><o:p></o:p></span></p>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt;mso-background-themecolor:text1;mso-background-themetint:191'>
+      <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+      margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+      style='color:#FFFFCC'>SHORT BIO:</span></span></b><span style='font-family:
+      Arial;color:#FFFFCC'><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;mso-element:frame;mso-element-frame-hspace:
+    9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+    mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+    .05pt;mso-height-rule:exactly'><span style='mso-themecolor:
+    background1'><span
+    style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+    color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 width=719
+     style='width:538.9pt;margin-left:19.8pt;border-collapse:collapse;
+     mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='mso-themecolor:background1'><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:white'>Jinxiang
+      Chai is currently an associate professor in the Department of <a
+      href="http://www.cse.tamu.edu/"><span style='color:#FFFFCC'>Computer
+      Science and Engineering</span></a> at <a href="http://www.tamu.edu/"><span
+      style='color:#FFFFCC'>Texas A&amp;M University</span></a>. He received
+      his Ph.D in 2006 from the <a href="http://www.ri.cmu.edu/"><span
+      style='color:#FFFFCC'>Robotics Institute</span></a> at <a
+      href="http://www.cmu.edu/index.shtml"><span style='color:#FFFFCC'>Carnegie
+      Mellon</span></a>. His primary research is in the area of computer
+      graphics and vision&nbsp;with broad applications in other disciplines
+      such as virtual and augmented reality, robotics, human computer 
+		interaction, and biomechanics. His most recent interest lies in realtime 
+		3D human motion sensing and its applications in virtual and augmented 
+		reality. </span></span>
+		<span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:white; mso-themecolor:background1'>He draws on ideas from graphics, vision,
+      machine learning, robotics, biomechanics, neuroscience and applied math.
+      He received an NSF CAREER award for his work on theory and practice of
+      Bayesian motion synthesis.</span></p>
+      <p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>&nbsp;</p>
+      </td>
+     </tr>
+    </table>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+      margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+      style='font-family:Arial;color:#FFFFCC'>RESEARCH PROJECTS AND INTERESTS:</span></b><span
+      style='font-family:Arial;color:white'><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;mso-element:frame;mso-element-frame-hspace:
+    9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+    mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+    .05pt;mso-height-rule:exactly'><span style='mso-themecolor:
+    background1'><span
+    style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+    color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 width=719
+     style='width:538.9pt;margin-left:19.8pt;border-collapse:collapse;
+     mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>
+		<font face="Arial" style="font-size: 11pt" color="#FFFFCC"><b>Realtime 
+		human motion sensing</b></font><b><font face="Arial" color="#FFFFFF" style="font-size: 11pt">
+		</font><font face="Arial" color="#FFFFCC" style="font-size: 11pt">for 
+		virtual and augmented reality</font><font face="Arial" color="#FFFFFF" style="font-size: 11pt">.</font></b><font face="Arial" style="font-size: 11pt" color="#FFFFFF"><b>
+		</b>I am extremely interested in developing realtime human motion 
+		sensing technologies essential for virtual and augmented reality 
+		applications. Notable recent examples include full-body motion capture 
+		using a single depth camera, realtime and automatic 3D facial 
+		performance capture with eye gaze using a single RGB camera, and 
+		realtime capture of 3D hand gesture using a single depth camera. </font></p>
+		<p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>&nbsp;</p>
+		<p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='mso-themecolor:background1'><b
+      style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:#FFFFCC'>Human
+      motion modeling, understanding, simulation and control</span></b><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:white; mso-themecolor:background1'>. The
+      primary goals of our research herein are: (1) to develop efficient representations
+      and computational models to analyze how humans move by utilizing
+      prerecorded motion data, physics, biomechanics principles, and control
+      theories; and (2) to apply the new models to solve important and
+      challenging problems in computer graphics, computer vision and robotics
+      such as human motion sensing and recognition, synthesis and control of animated human characters, and motion planning and control for humanoid
+      robots.</span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='font-size:13.5pt;mso-fareast-font-family:SimSun;color:#C00000'><o:p>&nbsp;</o:p></span></p>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 width=719
+     style='width:538.9pt;margin-left:19.8pt;border-collapse:collapse;
+     mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='margin-bottom:6.0pt;mso-para-margin-bottom:
+      .5gd;text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><b
+      style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:#FFFFCC'>Motion
+      capture for everyone. </span></b><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white'>We are developing next-generation motion capture
+      technologies that minimize the cost and intrusiveness of motion capture
+      so that the technology is practical and easily accessible to every home
+      user.<span style='mso-spacerun:yes'> </span>We are also
+      interested in developing new techniques for capturing the physics of
+      complex movements from real world.</span></span><b style='mso-bidi-font-weight:
+      normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+      SimSun;color:#FFFFCC'><o:p></o:p></span></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;mso-element:frame;mso-element-frame-hspace:
+    9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+    mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+    .05pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+    style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+    color:#FFFFCC'><o:p>&nbsp;</o:p></span></b></p>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     19.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+     0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='margin-bottom:6.0pt;mso-para-margin-bottom:
+      .5gd;text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><b
+      style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:#FFFFCC'>Facial
+      acquisition, modeling and animation. </span></b><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white'>One of holy grail problems in computer graphics has been the
+      realistic animation of the human face. We have been developing new
+      methods to animate and control virtual faces by capturing and analyzing
+      facial performances of real people. </span></span></p>
+      <p class=MsoNormal style='margin-bottom:6.0pt;mso-para-margin-bottom:
+      .5gd;text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>&nbsp;</p>
+      <p class=MsoNormal style='margin-bottom:6.0pt;mso-para-margin-bottom:
+      .5gd;text-align:justify;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+      style='font-size:11.0pt;font-family:Arial;color:#FFFFCC'>Hand motion
+      acquisition, modeling and simulation</span></b><span style='font-size:
+      11.0pt;font-family:Arial;color:#FFFF99'>.</span><span style='font-size:
+      11.0pt;font-family:Arial;color:white'> We are exploring new techniques
+      for capturing high-quality hand gestures, grasping and manipulation for
+      hand motion understanding, modeling, simulation and control.</span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;text-indent:22.0pt;mso-char-indent-count:
+    2.0;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='mso-themecolor:background1'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     19.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+     0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='text-align:justify;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:
+      normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+      SimSun;color:#FFFFCC'>Visual modeling and understanding. </span></b><span
+      style='mso-themecolor:background1'><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:white'>We seek to build
+      systems that can visually model and understand complex movements such as
+      full-body movements, facial deformations, hand gestures, multi-person
+      interaction, or animal movements. For example, we have developed new
+      techniques for modeling deformable objects and articulated bodies using a
+      single camera. Before that, I had been working on image-based modeling
+      and rendering. <o:p></o:p></span></p>
+      </span>
+      <p class=MsoNormal style='text-align:justify;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white'><o:p>&nbsp;</o:p></span></p>
+      </span>
+      <p class=MsoNormal style='text-align:justify;mso-element:frame;
+      mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+      paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+      mso-element-top:.05pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:
+      normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+      SimSun;color:#FFFFCC'>Data-driven graphics and vision.</span></b><span
+      style='mso-themecolor:background1'><span style='font-size:11.0pt;
+      font-family:Arial;mso-fareast-font-family:SimSun;color:white'> I am
+      genuinely interested in data-driven approaches for solving ill-posed
+      graphics and vision problems, such as animation control, deformation
+      modeling, and vision-based motion tracking. I am particularly interested
+      in learning techniques that can scale up to massive and heterogeneous
+      datasets. <o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    .5in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+    around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt;mso-background-themecolor:text1;mso-background-themetint:191'>
+      <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+      margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>&nbsp;<b><span
+      style='font-family:Arial;color:#FFFFCC'>TEACHING:</span></b><span
+      style='font-family:Arial;color:white'><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     19.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+     0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><o:p>&nbsp;</o:p></span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>CSCE 
+		<a href="http://faculty.cs.tamu.edu/jchai/csce441_2016spring/index.html">441</a>:
+      Computer Graphics</span></p>
+      </td>
+     </tr>
+    </table>
+    <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    .5in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;tab-stops:63.0pt;mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='font-size:11.0pt'><span style='mso-tab-count:1'>                     </span><o:p></o:p></span></p>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt;mso-background-themecolor:text1;mso-background-themetint:191'>
+      <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+      margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>&nbsp;<strong><span
+      style='font-family:Arial;color:#FFFFCC'>SELECTED RECENT PUBLICATIONS:</span></strong><strong><span
+      style='font-family:Arial;color:#FFFF99'> </span></strong><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>(For more details,
+      see my </span><span style='font-size:11.0pt;font-family:Arial;color:#FFFFCC'><a
+      href="http://faculty.cs.tamu.edu/jchai/projects/projects.htm"><span
+      style='color:#FFFFCC'>Projects</span></a></span><span style='font-size:
+      11.0pt;font-family:Arial;color:white'> page)</span></p>
+      </td>
+     </tr>
+    </table>
+    <span
+    style='mso-themecolor:background1'>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span style='color:#FFFFCC'>
+	<font color="#FFFFCC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></span></p>
+	<span
+    style='mso-themecolor:background1'>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span style='color:#FFFFCC'>
+	<font color="#FFFFCC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+	<a href="tba"><span style="color: #FFFFCC; text-decoration: underline">
+	Realtime </span></a>
+	<a style="color: #FFFF99; text-decoration: underline; text-underline: single" href="tba">
+	<span
+    style='color:#FFFFCC'>3D Eye Gaze Animation Using a Single RGB Camera</span></a></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span>
+	<a
+    href="http://tog.acm.org/" style="color: #FFFF99; text-decoration: underline; text-underline: single"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2016</span></i></p>
+	</span>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span style='color:#FFFFCC'>
+	<font color="#FFFFCC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+	<a style="color: #FFFF99; text-decoration: underline; text-underline: single" href="projects/video-audio/a182-liu.pdf">
+	<span
+    style='color:#FFFFCC'>Video-audio Driven Real-time Facial Animation</span></a> </span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span>
+	<a
+    href="http://tog.acm.org/" style="color: #FFFF99; text-decoration: underline; text-underline: single"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2015</span></i></p>
+	<p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'>
+	<span style='color:#FFFFCC'><font color="#FFFFCC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	</font>
+	<a style="color: #FFFF99; text-decoration: underline; text-underline: single" href="projects/SIG15/style-final.pdf">
+	<span
+    style='color:#FFFFCC'>Realtime Style Transfer for Unlabeled Heterogeneous
+    Human Motion</span></a> </span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span>
+	<a
+    href="http://tog.acm.org/" style="color: #FFFF99; text-decoration: underline; text-underline: single"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2015</span></i></p>
+	</span>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;
+    font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:bold'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="projects/TOG-force-capture/a221-zhang.pdf"><span style='color:
+    #FFFFCC'>Leveraging Depth Cameras and Wearable Pressure Sensors for
+    Full-body Kinematics and dynamics Capture </span></a></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span><a
+    href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2014</span></i></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;
+    font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:bold'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="projects/TOG14-face-from-video/a222-shi.pdf"><span
+    style='color:#FFFFCC'>Automatic Acquisition of High-fidelity Facial
+    Performance Using Monocular videos</span></a></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span><a
+    href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2014</span></i></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;
+    font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:bold'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span><span style='orphans: auto;widows: auto;-webkit-text-stroke-width: 0px;
+    float:none;word-spacing:0px'><span style='font-size:11.5pt;font-family:
+    Arial;color:#FFFFCC;background:#232323'><a
+    href="projects/sig14-face/sig14-retarget-final-v1.pdf"><span
+    style='color:#FFFFCC'>Controllable High-fidelity Facial Performance
+    Transfer</span></a></span></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span><a
+    href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2014</span></i><span style='font-size:11.0pt;
+    font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:bold'><span
+    style='mso-spacerun:yes'>  </span></span></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;
+    font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:bold'><span
+    style='mso-spacerun:yes'>  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a
+    href="http://faculty.cs.tamu.edu/jchai/projects/sigasia_2013/grasp_asia_final.pdf"><span
+    style='color:#FFFFCC'>Robust Realtime Physics-based Motion Control for
+    Human Grasping</span></a></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-add-space:auto;text-indent:16.5pt;mso-char-indent-count:
+    1.5;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><i
+    style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white;mso-bidi-font-weight:
+    bold'><span style='mso-spacerun:yes'>          </span><a
+    href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2013</span></i></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;
+    font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:bold'><span
+    style='mso-spacerun:yes'>        </span><a
+    href="http://faculty.cs.tamu.edu/jchai/projects/sig13-hand/hand-capture.pdf"><span
+    style='color:#FFFFCC'>Video-based Hand Manipulation Capture Through
+    Composite Motion Control</span></a></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white;mso-bidi-font-weight:bold'><span
+    style='mso-spacerun:yes'>          </span><a href="http://tog.acm.org/"><span
+    style='color:white'>ACM Transactions on Graphics</span></a>, 2013</span></i></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;color:#FFFFCC;
+    mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'>        </span></span></i><span
+    style='font-size:11.0pt;font-family:Arial;color:#FFFFCC;mso-bidi-font-weight:
+    bold'><a href="projects/sigrapha-asia-12/graph/a153-min.pdf"><span
+    style='color:#FFFFCC'>Generative Statistical Models for Semantic Motion Analysis
+    and Synthesis</span></a><o:p></o:p></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white;mso-bidi-font-weight:bold'><span
+    style='mso-spacerun:yes'>          </span><a href="http://tog.acm.org/"><span
+    style='color:white'>ACM Transactions on Graphics</span></a>, 2012</span></i><o:p></o:p></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span
+    class=apple-style-span><i style='mso-bidi-font-style:normal'><span
+    style='mso-themecolor:background1'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><span
+    style='mso-spacerun:yes'>       </span><span
+    style='mso-spacerun:yes'> </span></span></span></i></span><span
+    class=apple-style-span><span style='font-size:11.0pt;font-family:Arial;
+    mso-fareast-font-family:SimSun;color:#FFFFCC'><a
+    href="projects/sigrapha-asia-12/body-capture/a188-wei.pdf"><span
+    style='color:#FFFFCC'>Accurate Realtime Full-body Motion Capture Using a
+    Single Depth Camera</span></a></span></span><span style='mso-fareast-font-family:
+    SimSun;color:white'><span style='mso-tab-count:1'>    </span><o:p></o:p></span></p>
+    <p class=MsoNormal style='text-align:justify;tab-stops:71.5pt;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white;mso-bidi-font-weight:bold'><span
+    style='mso-spacerun:yes'>               </span><a href="http://tog.acm.org/"><span
+    style='color:white'>ACM Transactions on Graphics</span></a>, 2012</span></i><span
+    style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+    color:white'><o:p></o:p></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='font-size:11.0pt;font-family:Arial;color:#FFFFCC'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="projects/face-TOG-2011/Face-final-v11.pdf"><span style='color:
+    #FFFFCC'>Leveraging Motion Capture and 3D Scanning for High-Fidelity Facial
+    Performance Acquisition</span></a><o:p></o:p></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white;mso-bidi-font-weight:bold'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2011</span></i></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i><span style='font-size:
+    11.0pt;font-family:Arial;color:white'>&nbsp;&nbsp; </span></i><span
+    class=apple-style-span><u><span style='font-size:11.0pt;font-family:Arial;
+    color:#FFFFCC;mso-bidi-font-weight:bold'><a
+    href="http://faculty.cs.tamu.edu/jchai/projects/TOG-data-physics-2011/physics-data-final.pdf"><span
+    style='color:#FFFFCC'>Physically-valid Statistical Motion Models for Human
+    Motion Synthesis</span></a></span></u></span><span style='font-size:11.0pt;
+    font-family:Arial;color:white'><o:p></o:p></span></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white;mso-bidi-font-weight:bold'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2011</span></i></p>
+    <p style='margin-top:5.0pt;margin-right:.5in;margin-bottom:7.5pt;
+    margin-left:0in;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:
+    frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i><span style='font-size:
+    11.0pt;font-family:Arial;color:white'>&nbsp;&nbsp; </span></i><u><span
+    style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+    color:#FFFFCC;mso-bidi-font-weight:bold'><a
+    href="http://faculty.cs.tamu.edu/jchai/projects/videomocap/videomocap.pdf"><span
+    style='color:#FFFFCC'>VideoMocap</span></a>: Modeling Physically Realistic
+    Human Motion from Monocular Video Sequences</span></u><span
+    style='font-family:Arial;color:#FFFFCC'><o:p></o:p></span></p>
+    <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    0in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white;mso-bidi-font-weight:bold'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2010</span></i></p>
+    <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    0in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i><span style='font-size:
+    11.0pt;font-family:Arial;color:white'>&nbsp;&nbsp; </span></i><span
+    style='font-size:11.0pt;font-family:Arial;color:white'><a
+    href="http://faculty.cs.tamu.edu/jchai/projects/tog-body-09/TOG_deformable_final.pdf"><span
+    style='color:#FFFFCC'>Interactive Generation of Human Animation with
+    Deformable</span><span style='mso-fareast-font-family:SimSun;color:#FFFFCC'>
+    </span><span style='color:#FFFFCC'>Motion Models</span></a></span><span
+    style='font-family:Arial;color:#FFFFCC'><o:p></o:p></span></p>
+    <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    0in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i style='mso-bidi-font-style:
+    normal'><span style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:
+    SimSun;color:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a
+    href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2010</span></i></p>
+    <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    0in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;text-indent:16.5pt;mso-char-indent-count:1.5;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><i><span style='font-size:
+    11.0pt;font-family:Arial;color:white'>&nbsp;&nbsp; </span></i><span
+    style='font-size:11.0pt;font-family:Arial;color:white'><a
+    href="http://faculty.cs.tamu.edu/jchai/projects/tog-face-09/3dface_tog_final_v3.pdf"><span
+    style='color:#FFFFCC'>Interactive </span><span style='mso-fareast-font-family:
+    SimSun;color:#FFFFCC'>Manipulation</span><span style='color:#FFFFCC'> of 3D
+    Facial Expressions Using </span><span style='mso-fareast-font-family:SimSun;
+    color:#FFFFCC'>Facial </span><span style='color:#FFFFCC'>Priors</span></a></span></p>
+    <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    0in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;text-indent:.25in;mso-char-indent-count:1.5;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'><span style='color:#FFFFCC'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span><i style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><a
+    href="http://tog.acm.org/"><span style='color:white'>ACM Transactions on
+    Graphics</span></a>, 2010</span></i></p>
+    <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:
+    0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+    0in;mso-para-margin-bottom:0in;mso-para-margin-left:0in;mso-para-margin-bottom:
+    .0001pt;text-indent:.25in;mso-char-indent-count:1.5;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+    paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+    mso-element-top:.05pt;mso-height-rule:exactly'>&nbsp;<o:p></o:p></p>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt;mso-background-themecolor:text1;mso-background-themetint:191'>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><b><span style='font-family:Arial;
+      color:#FFFFCC'>CURRENT STUDENTS:<o:p></o:p></span></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;text-indent:22.0pt;mso-char-indent-count:
+    2.0;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='mso-themecolor:background1'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     19.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+     0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Peihong Guo (Ph.D student): facial capture &amp;
+      modeling</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><a href="http://students.cse.tamu.edu/fuhaoshi/"><span
+      style='color:#FFFFCC'>Fuhao</span></a><a
+      href="http://students.cse.tamu.edu/fuhaoshi/"><span style='color:#FFFFCC'>
+      Shi</span></a> (Ph.D student):<span style='mso-spacerun:yes'> 
+      </span>facial capture, modeling and animation</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><a href="http://students.cse.tamu.edu/jjzhang10/"><span
+      style='color:#FFFFCC'>Jianjie</span></a><a
+      href="http://students.cse.tamu.edu/jjzhang10/"><span style='color:#FFFFCC'>
+      Zhang</span></a> (Ph.D student):<span style='mso-spacerun:yes'> 
+      </span>physics-based human motion modeling &amp; control <o:p></o:p></span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><a href="http://students.cse.tamu.edu/stzpz/"><span
+      style='color:#FFFFCC'>Peizhao</span></a><a
+      href="http://students.cse.tamu.edu/stzpz/"><span style='color:#FFFFCC'>
+      Zhang</span></a></span><span style='font-size:11.0pt;font-family:Arial;
+      color:#FFFFCC'> </span><span style='font-size:11.0pt;font-family:Arial;
+      color:white'>(Ph.D student):<span style='mso-spacerun:yes'> 
+      </span>realtime human motion capture &amp; interaction </span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Xiaolei Lv (Ph.D student, ICT at CAS):<span
+      style='mso-spacerun:yes'>  </span>physics-based simulation &amp; humanoid
+      robots<o:p></o:p></span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Congyi Wang (Ph.D student, ICT at CAS):<span
+      style='mso-spacerun:yes'>  </span>human motion modeling and animation</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Le Su (Ph.D student, ICT at CAS): human motion
+      tracking and recognition</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Zhiyong Wang (Ph.D student, ICT at CAS): facial
+      tracking and recognition</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'>&nbsp;</p>
+      </td>
+     </tr>
+    </table>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><b><span style='font-family:Arial;
+      color:#FFFFCC'>GRADUATED STUDENTS:<o:p></o:p></span></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;text-indent:22.0pt;mso-char-indent-count:
+    2.0;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='mso-themecolor:background1'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     19.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+     0in 5.4pt 0in 5.4pt' id=table2>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><a
+      href="http://scholar.google.com/citations?user=s5b7lU4AAAAJ&amp;hl=en"><span
+      style='color:#FFFFCC'>Xiaolin Wei</span></a></span><span
+      style='font-size:11.0pt;font-family:Arial;color:#FFFFCC'> </span><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>(2007-2011, Ph.D,
+      now at Google)</span><span style='mso-themecolor:background1'><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white'> </span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><a
+      href="http://scholar.google.com/citations?user=TlhUEcQAAAAJ&amp;hl=en"><span
+      style='color:#FFFFCC'>Jianyuan Min</span></a> </span><span
+      style='font-size:11.0pt;font-family:Arial;mso-fareast-font-family:SimSun;
+      color:white'><span style='mso-spacerun:yes'> </span></span><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>(2007-2011, Ph.D,
+      now at Google)</span><span style='mso-themecolor:background1'></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Hui Lou (2007-2012, Ph.D, now at Google) </span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Yen-Lin Chen (2007-2013, Ph.D, now at Robert Bosch
+      Research)</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'><a href="http://media.au.tsinghua.edu.cn/ygwang.jsp"><span
+      style='color:#FFFFCC'>Yangang</span></a><a
+      href="http://media.au.tsinghua.edu.cn/ygwang.jsp"><span style='color:
+      #FFFFCC'> Wang</span></a> (Ph.D, Tsinghua Univ., now at Microsoft
+      Research Asia)</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Wenping Zhao (Ph.D, MSRA &amp; USTC):<span
+      style='mso-spacerun:yes'>  </span>now R&amp;D at a startup company</span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'>&nbsp;</p>
+      </td>
+     </tr>
+    </table>
+    <table class=Style4 border=0 cellspacing=0 cellpadding=0 style='border-collapse:
+     collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=745 valign=top style='width:558.75pt;background:#404040;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='margin-top:5.0pt;margin-right:0in;margin-bottom:
+      5.0pt;margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><strong><span
+      style='font-family:Arial;color:#FFFFCC'>PROFESSIONAL ACTIVITIES:</span></strong><b><span
+      style='color:#FFFFCC'><o:p></o:p></span></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='text-align:justify;text-indent:22.0pt;mso-char-indent-count:
+    2.0;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+    mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+    mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='mso-themecolor:background1'><span style='font-size:11.0pt;
+    font-family:Arial;mso-fareast-font-family:SimSun;color:white'><o:p>&nbsp;</o:p></span></p>
+    </span>
+    <table class=Style1 border=0 cellspacing=0 cellpadding=0 style='margin-left:
+     19.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+     0in 5.4pt 0in 5.4pt'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=719 valign=top style='width:538.9pt;background:#232323;
+      padding:0in 5.4pt 0in 5.4pt'>
+      <p class=MsoNormal style='margin-top:5.0pt;margin-right:0in;margin-bottom:
+      5.0pt;margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>Conference chair -
+      <a href="http://sca2013.cs.tamu.edu"><span style='color:#FFFFCC'>Symposium
+      on Computer Animatio</span>n</a></span><span style='font-size:11.0pt;
+      color:white'> </span><span style='font-size:11.0pt;font-family:Arial;
+      color:white'>(SCA), 2013 <o:p></o:p></span></p>
+      <p class=MsoNormal style='margin-top:5.0pt;margin-right:0in;margin-bottom:
+      5.0pt;margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>Program chair - <a
+      href="http://www.cad.zju.edu.cn/casa2011/"><span style='color:#FFFFCC'>Computer
+      Animation and Social Agents</span></a> (CASA), 2011<o:p></o:p></span></p>
+      <p class=MsoNormal style='margin-top:5.0pt;margin-right:0in;margin-bottom:
+      5.0pt;margin-left:0in;mso-element:frame;mso-element-frame-hspace:9.0pt;
+      mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+      column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>Program committee
+      - </span><span style='font-size:11.0pt;font-family:Arial;color:#FFFFCC'><a
+      href="http://s2013.siggraph.org/"><span style='color:#FFFFCC'>ACM
+      SIGGRAPH</span></a></span><span style='font-size:11.0pt;font-family:Arial;
+      color:white'> (2016, 2015, 2013);</span><span style='font-size:11.0pt'> </span><span
+      style='font-size:11.0pt;font-family:Arial;color:white'><a
+      href="http://www.siggraph.org/asia2011/submitters-technical-papers"><span
+      style='color:#FFFFCC'>ACM SIGGRAPH ASIA</span></a> (2012, 2011, 2009) </span><span
+      style='font-size:11.0pt'><o:p></o:p></span></p>
+      <p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+      mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+      mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>Program committee
+      -</span><span style='font-size:11.0pt;font-family:Arial;color:#FFFFCC'> </span><span
+      style='font-size:11.0pt;font-family:Arial;color:white'><a
+      href="http://www.siggraph.org/sca2011/"><span style='color:#FFFFCC'>Symposium
+      on Computer Animation</span></a></span><span style='font-size:11.0pt;
+      color:white'> </span><span style='font-size:11.0pt;font-family:Arial;
+      color:white'>(SCA), 2015, 2014, 2012, 2011, 2010, 2009, 2008 </span><span
+      style='font-size:11.0pt'><o:p></o:p></span></p>
+      <p class=MsoNormal style='margin-top:6.0pt;mso-para-margin-top:.5gd;
+      mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+      mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+      mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+      style='font-size:11.0pt;font-family:Arial;color:white'>Program committee
+      - <a href="http://graphics.cs.umass.edu/i3d2011/program.php"><span
+      style='color:#FFFFCC'>ACM Symposium on Interactive 3D Graphics and Games</span></a>
+      (I3D), 2014, 2013, 2012, 2011 </span><span style='font-size:11.0pt'><o:p></o:p></span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt;font-family:
+      Arial;color:white'>Program committee - <a
+      href="http://graphics.csie.ncku.edu.tw/PG2011/index.html"><span
+      style='color:#FFFFCC'>Pacific Graphics</span></a>, 2012, 2011, 2010<o:p></o:p></span></p>
+      <p style='margin-top:6.0pt;margin-right:.5in;margin-bottom:0in;
+      margin-left:0in;margin-bottom:.0001pt;mso-para-margin-top:.5gd;
+      mso-para-margin-right:.5in;mso-para-margin-bottom:0in;mso-para-margin-left:
+      0in;mso-para-margin-bottom:.0001pt;mso-element:frame;mso-element-frame-hspace:
+      9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+      mso-element-anchor-horizontal:column;mso-element-left:right;mso-element-top:
+      .05pt;mso-height-rule:exactly'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='font-size:10.0pt'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+    <td width=752 valign=top style='width:564.1pt;background:#232323;
+    padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
+    mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+    column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+    style='font-size:10.0pt'>&nbsp;<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=FR style='font-family:Arial;mso-ansi-language:
+FR'><br clear=all style='mso-special-character:line-break'>
+<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

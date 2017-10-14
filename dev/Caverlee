@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>James Caverlee :: Texas A&amp;M :: Computer Science and Engineering</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 50px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+      h3 {
+padding-top:60px;
+margin-top:-60px;
+}
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">James Caverlee</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#research">Publications</a></li>
+            <li><a href="#students">Students</a></li>
+            <li><a href="#teaching">Teaching</a></li>
+            <li><a href="#service">Service</a></li>
+            <li><a href="#awards">Awards</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+    
+    
+    <div class="container">
+
+<h1>James Caverlee</h1>
+<h5>
+Associate Professor<br>
+Department of Computer Science and Engineering<br>
+Texas A&amp;M University<br>
+[my_last_name] 'at' cse.tamu.edu<br>
+</h5>
+
+
+
+<div class="row">
+  <div class="col-md-8"><p>
+<p>My research targets topics from social media, information retrieval, recommender systems, data mining, emerging networked information systems, and occasional forays into distributed systems and services computing. I usually wear one of two hats in my work:
+
+<ul>
+<li>For many years, I have studied <b>threats</b> to these systems, including social spam/bots [<a href="pubs/lee11icwsm.pdf">ICWSM2011</a>, <a href="pubs/lee10sigir.pdf">SIGIR2010</a>], crowd-powered strategic manipulation [<a href="pubs/fayazi15sigir.pdf">SIGIR2015</a>], collective attention threats [<a href="pubs/lee13icwsm-collective.pdf">ICWSM2013</a>], attacks on search engines [<a href="pubs/caverlee07countering.pdf">PODC 2007</a>], and other emerging threats [<a href="pubs/qiu16cikm.pdf">CIKM2016</a>]. 
+<li>I'm also very interested in creating new <b>beneficial</b> algorithms and frameworks for these systems, including our work on geo-social characteristics of social media [<a href="pubs/kamath13www.pdf">WWW2013</a>, <a href="pubs/cheng11icwsm.pdf">ICWSM2011</a>], user modeling [SIGIR2017, <a href="pubs/lu16recsys.pdf">RecSys 2016</a>], expert detection [<a href="pubs/ge16recsys.pdf">RecSys2016</a>, <a href="pubs/cheng_sigir14.pdf">SIGIR2014</a>], and geo-inferencing [<a href="pubs/cheng10cikm.pdf">CIKM2010</a>]. 
+</ul>
+
+<p>My research approach is primarily data-driven and experimental in nature; we like to develop algorithms, models, and systems, and then evaluate their effectiveness over real data and in live settings.
+
+<p><b>About me:</b> I received my Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, I earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. My undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. I joined the faculty at Texas A&amp;M in 2007. I spent most of my sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. I've been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
+
+<p><b>Acknowledgments:</b> Our lab has been generously supported by NSF, DARPA, AFOSR, Google, Amazon, the Texas A&amp;M College of Engineering, and Texas A&amp;M. Thank you!	<br/>
+
+
+
+
+</div>
+  <div class="col-md-4"><figure class="figure">
+  <img src="imgs/wampa-small.jpg" class="rounded float-right figure-img img-fluid rounded" alt="Wampa attack!" width="200">
+  <figcaption class="figure-caption">Wampa attack. Or you may prefer: <a href="imgs/caverlee_guitar.png">guitar</a>, <a href="imgs/korean_style.jpg">Korean</a>,  <a href="imgs/on_a_bike.jpg">bike</a>, <a href="imgs/on_a_canoe.jpg">canoe</a>, <a href="imgs/rainy_rio.jpg">rainy</a>, <a href="imgs/with_gandalf.jpg">Gandalf</a>, <a href="imgs/with_the_master.jpg">GRRM</a>, <a href="imgs/caverlee-2012.jpg">younger me</a>, or <a href="imgs/prof_JC.jpg">fancy me</a>. </figcaption>
+</figure>	</div>
+</div>
+
+
+
+		<h3 id="research">Publications</h3> 
+		See also my publications at <a title="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Caverlee:James.html" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Caverlee:James.html">DBLP</a>, <a title="http://scholar.google.com/citations?user=LB1dq_sAAAAJ&hl=en" href="http://scholar.google.com/citations?user=LB1dq_sAAAAJ&hl=en">Google Scholar</a>, and at <a title="https://www.semanticscholar.org/author/James-Caverlee/1697232" href="https://www.semanticscholar.org/author/James-Caverlee/1697232">Semantic Scholar</a>.
+
+<ul>
+<li> <a href="pubs/yao17ranlp.pdf">Online Deception Detection Refueled by Real World Data Collection</a>. RANLP 2017.
+<li> <a href="pubs/song17kdd.pdf">Multi-Aspect Streaming Tensor Completion</a>. KDD 2017.
+
+<li> <a href="pubs/cao17sigir.pdf">What Are You Known For? Learning User Topical Profiles with Implicit and Explicit Footprints</a>. SIGIR 2017.
+
+<li> <a href="pubs/li17sigir.pdf">Crowdsourced App Review Manipulation (short paper)</a>. SIGIR 2017.
+<li> <a href="pubs/parisa17icwsm.pdf">Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (short paper)</a>. ICWSM 2017.
+
+<li> Dynamic Contract Design for Heterogenous Workers in Crowdsourcing for Quality Control (Applications and Experiences Track). ICDCS 2017.
+
+<li> <a href="pubs/niu16tsas.pdf">On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates</a>. ACM Transactions on Spatial Algorithms and Systems. November 2016.
+
+<li> <a href="pubs/lu16recsys.pdf">Discovering What You're Known For: A Contextual Poisson Factorization Approach</a>. RecSys 2016.
+
+<li> <a href="pubs/ge16recsys.pdf">TAPER: A Contextual Tensor-Based Approach for Personalized Expert Recommendation</a>. RecSys 2016. (best paper nominee)
+
+<li> <a href="pubs/ge16cikm.pdf">Uncovering the Spatio-Temporal Dynamics of Memes in the Presence of Incomplete Information</a>. CIKM 2016.
+<li> <a href="pubs/qiu16cikm.pdf">CrowdSelect: Increasing Accuracy of Crowdsourcing Tasks through  Behavior Prediction and User Selection</a>. CIKM 2016.
+<li> <a href="pubs/niu16asonam.pdf">Community-Based Geospatial Tag Estimation</a>. ASONAM 2016.
+<li> <a href="pubs/niu16ecir.pdf">LExL: A Learning Approach for Local Expert Discovery on Twitter (short paper)</a>. ECIR 2016.
+<li> <a href="pubs/ge16aaai.pdf">College Towns, Vacation Spots, and Tech Hubs: Using Geo-Social Media to Model and Compare Locations</a>. AAAI 2016.
+<li> <a href="pubs/lu15recsys.pdf">Exploiting Geo-Spatial Preference for Personalized Expert Recommendation</a>. RecSys 2015.
+<li> <a href="pubs/cheng15cikm.pdf">Organic or Organized? Exploring URL Sharing Behavior</a>. CIKM 2015.
+<li> <a href="pubs/lu15cikm.pdf">BiasWatch: A Lightweight System for Discovering and Tracking Topic-Sensitive Opinion Bias in Social Media</a>. CIKM 2015.
+<li> <a href="pubs/fayazi15sigir.pdf">Uncovering Crowdsourced Manipulation of Online Reviews</a>. SIGIR 2015.
+<li> <a href="pubs/ge15icwsm.pdf">Crowds, Gigs, and Super Sellers: A Measurement Study of a Supply-Driven Crowdsourcing Marketplace</a>. ICWSM 2015. 
+
+<li> <a href="pubs/liang15ecir.pdf">A Noise-Filtering Approach for Spatio-Temporal Event Detection in Social Media</a>. ECIR 2015.
+
+<li> <a href="pubs/cao15ecir.pdf">Detecting Spam URLs in Social Media via Behavioral Analysis</a>. ECIR 2015.
+
+<li> <a href="pubs/cheng_sigir14.pdf">Who is the Barbecue King of Texas?: A Geo-Spatial Approach to Finding Local Experts</a>. SIGIR 2014.
+
+<li> <a href="pubs/km1097-kamath.pdf">Spatio-Temporal Meme Prediction: Learning What Hashtags Will Be Popular Where</a>. CIKM 2013.
+<li> <a href="pubs/km0487-mcgee.pdf">Location Prediction in Social Media Based on Tie Strength</a>. CIKM 2013.
+
+<li> <a href="pubs/lee13icwsm-crowdturfing.pdf">Crowdturfers, Campaigns, and Social Media: Tracking and Revealing Crowdsourced Manipulation of Social Media</a>. ICWSM 2013.
+
+<li> <a href="pubs/lee13campaign.pdf">Campaign Extraction from Social Media</a>. ACM TIST 2013. 
+<li> <a href="pubs/cheng13tist.pdf">A Content-Driven Framework for Geo-locating Microblog Users</a>. ACM TIST 2003.
+
+
+<li> <a href="pubs/lee13icwsm-collective.pdf">Combating Threats to Collective Attention in Social Media: An Evaluation</a>. ICWSM 2013.
+<li> <a href="pubs/kamath13www.pdf">Spatio-Temporal Dynamics of Online Memes: A Study of Geo-Tagged Tweets</a>. WWW 2013.
+<li> <a href="pubs/liang13hypertext.pdf">How Big is the Crowd? Event and Location Based Population Modeling in Social Media</a>. Hypertext 2013 (best paper nominee).
+
+
+<li> <a href="pubs/kamath12cikm-crowds.pdf">Content-Based Crowd Retrieval on the Real-Time Web</a>. CIKM 2012.
+<li> <a href="pubs/kamath12cikm-spatial.pdf">Spatial Influence vs. Community Influence: Modeling the Global Spread of Social Media</a>. CIKM 2012.
+<li> <a href="pubs/khabiri12ht.pdf">Predicting Semantic Annotations on the Real-Time Web</a>. HT 2012.
+<li> <a href="pubs/lee12webquality.pdf">Detecting Collective Attention Spam</a>. WebQuality Workshop (WWW), 2012.
+
+
+
+<li><a href="pubs/kashoob12snam.pdf">Temporal Dynamics of Communities in Social Bookmarking Systems</a>. Springer SNAM 2012.
+<li>Predicting Community Preference of Comments on the Social Web. Web Intelligence and Agent Systems: An International Journal 2012.
+
+
+
+  <li><a href="pubs/cheng11cikm.pdf">Toward Traffic-Driven Location-Based Web Search</a>. CIKM 2011.
+  <li><a href="pubs/lee11cikm.pdf"> Content-Driven Detection of Campaigns in Social Media (short paper)</a>. CIKM 2011.
+  <li><a title="pubs/lee11icwsm.pdf" href="pubs/cheng11icwsm.pdf">Exploring Millions of Footprints in Location Sharing Services</a>. ICWSM 2011.
+  <li><a title="pubs/lee11icwsm.pdf" href="pubs/lee11icwsm.pdf">Seven Months with the Devils: A Long-Term Study of Content Polluters on Twitter</a>. ICWSM 2011.
+  <li><a title="pubs/hsu11sac.pdf" href="pubs/hsu11sac.pdf">Hierarchical Comments-Based Clustering</a>. ACM SAC 2011.
+  <li><a title="pubs/kamath11wsdm.pdf" href="pubs/kamath11wsdm.pdf">Transient Crowd Discovery on the Real-Time Social Web</a>. WSDM 2011.
+  <li><a title="pubs/cheng10cikm.pdf" href="pubs/cheng10cikm.pdf">You Are Where You Tweet: A Content-Based Approach to Geo-locating Twitter Users</a>. CIKM 2010.
+  <li> <a title="pubs/lee10sigir.pdf" href="pubs/lee10sigir.pdf">Uncovering Social Spammers: Social Honeypots + Machine Learning</a>. SIGIR 2010.
+  <li><a title="pubs/kashoob10ht.pdf" href="pubs/kashoob10ht.pdf">Community-Based Ranking of the Social Web</a>. HT 2010.
+  <li> <a title="pubs/caverlee10socialtrust.pdf" href="pubs/caverlee10socialtrust.pdf">The SocialTrust Framework for Trusted Social Information Management: Architecture and Algorithms</a>. Journal of Information Sciences 2010.
+
+
+  <li><a title="pubs/hsu09socialcom.pdf" href="pubs/hsu09socialcom.pdf">Ranking Comments on the Social Web</a>. SocialCom 2009.
+  <li><a title="pubs/kashoob09socialcom.pdf" href="pubs/kashoob09socialcom.pdf">Probabilistic Generative Models of the Social Annotation Process</a>. SocialCom 2009.
+  <li> <a title="pubs/kashoob09categorical.pdf" href="pubs/kashoob09categorical.pdf">A Categorical Model for Discovering Latent Structure in Social Annotations</a>. ICWSM 2009.
+  
+<li><a title="pubs/ding09pagerank.pdf" href="pubs/ding09pagerank.pdf">PageRank for ranking authors in co-citation networks</a>. JASIST 2009.
+<li><a title="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4653482" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4653482">A Parameterized Approach to Spam-Resilient Link Analysis of the Web</a>. IEEE TPDS 2009.
+
+  <li><a title="pubs/graham08exploring.pdf" href="pubs/graham08exploring.pdf">Exploring Feedback Models in Interactive Tagging</a>. Web Intelligence 2008.
+  <li><a title="pubs/webb08predicting.pdf" href="pubs/webb08predicting.pdf">Predicting Web Spam With HTTP Session Information</a>. CIKM 2008.
+  <li><a title="pubs/webb08socialhoneypots.pdf" href="pubs/webb08socialhoneypots.pdf">Social Honeypots: Making Friends with a Spammer Near You</a>. CEAS 2008.
+  <li> <a title="pubs/caverlee08socialtrust.pdf" href="pubs/caverlee08socialtrust.pdf" class="class1">SocialTrust: Tamper-Resilient Trust Establishment in Online Communities</a>. JCDL 2008.
+  <li><a title="pubs/caverlee08alarge.pdf" href="pubs/caverlee08alarge.pdf">A Large-Scale Study of MySpace: Observations and Implications for Online Social Networks</a>. ICWSM 2008.
+</ul>
+2007 and earlier  
+<ul>
+  <li><a title="pubs/caverlee07countering.pdf" href="pubs/caverlee07countering.pdf">Countering Web Spam with Credibility-Based Link Analysis</a>. PODC 2007.
+  <li><a title="pubs/webb07characterizing.pdf" href="pubs/webb07characterizing.pdf">Characterizing Web Spam Using Content and HTTP Session Analysis</a>. CEAS 2007.
+  <li><a title="pubs/caverlee07ipdps.pdf" href="pubs/caverlee07ipdps.pdf">Spam-Resilient Web Rankings via Influence Throttling</a>. IPDPS 2007.
+<li><a title="pubs/bae07development.pdf" href="pubs/bae07development.pdf">Development of Distance Measures for Process Mining, Discovery, and Integration</a>. International Journal of Web Services Research (JWSR) 2007.
+<li><a title="pubs/caverlee07workflow.pdf" href="pubs/caverlee07workflow.pdf">Workflow Management for Enterprise Transformation</a>. Information, Knowledge, Systems Management (IKSM) 2007.
+<li><a title="pubs/rocco07service.pdf" href="pubs/rocco07service.pdf">Service Class Driven Dynamic Source Discovery with DynaBot</a>. International Journal of Web Services Research (JWSR) 2007.
+
+  <li><a title="pubs/bae06processB.pdf" href="pubs/bae06processB.pdf">Process Mining, Discovery and Integration using Distance Measures</a>. IEEE ICWS 2006.
+  <li><a title="pubs/caverlee06distributed.pdf" href="pubs/caverlee06distributed.pdf">Distributed Query-Sampling: A Quality Conscious Approach</a>. SIGIR 2006.
+  <li><a title="pubs/webb06introducing.pdf" href="pubs/webb06introducing.pdf">Introducing the Webb Spam Corpus: Using Email Spam to Identify Web Spam Automatically</a>. CEAS 2006.
+  
+<li><a title="pubs/caverlee06discovering.pdf" href="pubs/caverlee06discovering.pdf">Discovering Interesting Relationships among Deep Web Databases: A Source-Biased Approach</a>. World Wide Web Journal: Internet and Web Information Systems (WWWJ) 2006.
+<li><a title="pubs/liu06xwrap.pdf" href="pubs/liu06xwrap.pdf">XWRAPComposer: A Multi-Page Data Extraction Service</a>. International Journal of Web Services Research (JWSR) 2006.
+
+
+  <li> <a title="pubs/rocco05domain.pdf" href="pubs/rocco05domain.pdf">Domain-Specific Web Service Discovery with Service Class Descriptions</a>. IEEE ICWS 2005.
+  <li> <a title="pubs/liu05xwrapcomposer.pdf" href="pubs/liu05xwrapcomposer.pdf">XWRAPComposer: A Multi-Page Data Extraction Service for Bio-Computing Applications</a>. IEEE SCC 2005.
+
+<li> <a title="pubs/caverlee05qapagelet.pdf" href="pubs/caverlee05qapagelet.pdf">QA-Pagelet: Data Preparation Techniques for Large Scale Data Analysis of the Deep Web</a>. IEEE TKDE 2005.
+<li><a title="http://www.inderscience.com/search/index.php?action=record&amp;rec_id=8319" href="http://www.inderscience.com/search/index.php?action=record&amp;rec_id=8319">A Methodical Approach to Extracting Meaningful Objects from Dynamic Web Pages</a>. International Journal of Web and Grid Services (IJWGS) 2005.
+        
+  <li> <a title="pubs/caverlee04discovering.pdf" href="pubs/caverlee04discovering.pdf">Discovering and Ranking Web Services with BASIL: A Personalized Approach with Biased Focus</a>. ICSOC 2004.
+  <li><a title="pubs/caverlee04probe.pdf" href="pubs/caverlee04probe.pdf">Probe, Cluster, and Discover: Focused Extraction of QA-Pagelets from the Deep Web</a>. ICDE 2004.
+  
+</ul>
+
+
+ 
+         
+         
+		<h3 id="students">Students</h3> 
+<p> <h4>Current and Former PhD Students</h4>
+<ul>
+<li> <a href="http://students.cse.tamu.edu/alfifima/">Majid Alfifi</a>
+<li> <a href="http://students.cse.tamu.edu/chengcao/">Cheng Cao</a>
+<li> <a href="http://students.cse.tamu.edu/hge/">Hancheng Ge</a>
+<li> <a href="http://students.cse.tamu.edu/kaghazgaran/">Parisa Kaghazgaran</a>
+<li> <a href="http://students.cse.tamu.edu/hlu/">Haokai Lu</a>
+<li> <a href="http://students.cse.tamu.edu/wei/">Wei Niu</a>
+<li> <a href="http://people.tamu.edu/~zhan13679/">Yin Zhang</a>
+<li> Xing Zhao
+<li> <a href="http://students.cse.tamu.edu/zcheng/">Zhiyuan Cheng</a> (PhD, May 2014), First employment: Google Research, now at Pinterest
+<li> <a href="http://digital.cs.usu.edu/~kyumin/">Kyumin Lee</a> (PhD, August 2013), First employment: Tenure-track Assistant Professor at Utah State, now at WPI
+<li> <a href="http://kykamath.github.io">Krishna Kamath</a> (PhD, August 2013), First employment: Twitter
+<li> <a href="http://www.daneshvar.ir/elham/">Elham Khabiri</a> (PhD, May 2013), First employment: IBM Research
+<li> Said Kashoob (PhD, May 2011), Current employment: Assistant Dean for Academic Affairs, Al Musanna College of Technology (Oman) 
+<li> <i><a href="http://bde.me">Brian Eoff</a> (on leave as Lead Data Scientist at <a href="https://www.shopspring.com/">Spring</a>)</i>
+<li> <i><a href="https://github.com/nod">Jeremy Kelley</a> (on leave)</i>
+</ul>
+
+<p> <h4>Current and Former MS Students</h4>
+<ul> 
+<li> Zhijiao Liu (MS, December 2015), First employment: Amazon
+<li> Ashraf Ibrahim (MS, December 2015), , First employment: 
+<li> Himanshu Barthwal (MS, August 2015), First employment: FactSet
+<li> Vardharaj Lakshminarasimhan (MS, December 2014), First employment: LinkedIn
+<li> Sindhuja Venkatesh (MS, December 2014), First employment: Amazon A9
+<li> Vandana Bachini (MS, December 2013), First employment: Google
+<li> Amir Fayazi (MS, December 2013), First employment: Google
+<li> Yuan Liang (MS, August 2013), First employment: Facebook
+<li> Prithivi Tamilarasan (MS, August 2013), First employment: eBay
+<li> Jeff McGee (MS, May 2013), First employment: ZipfWorks
+<li> Liangliang Wang (MCS, May 2011), First employment: Cisco
+<li> Srihari Ananthapadmanabhan  (MCS, August 2010), First employment: Yahoo!
+<li> Vignesh Venkataraman  (MCS, August 2010), First employment: Schlumberger
+<li> Karthik Ramachandran  (MCS, August 2010), First employment: Amazon
+<li> Lichun Li  (MCS, May 2010), First employment: Microsoft 
+<li> Chiao-Fang Hsu  (MS, December 2009), First employment: Amazon
+<li> Anupam Aggarwal  (MS, December 2009), First employment: Yahoo!
+<li> Chandan Aggarwal  (MCS, December 2009), First employment: Microsoft
+<li> Robert Graham  (MCS, December 2008), First employment: University of Texas at Austin, Applied Research Labs
+</ul>
+
+<p> <h4>Current and Former Undergrads</h4>
+<ul> 
+<li> Habeeb Hooshmand
+<li> Jared Russell
+<li> Nazif Ali
+<li> Kalil Armstrong
+<li> Jason Bolden
+</ul>
+
+
+
+		<h3 id="teaching">Teaching</h3> 
+<p> <h4>Courses at Texas A&amp;M</h4>
+<ul>
+<li> CSCE 438, Distributed Data-Intensive Systems: <a href="http://courses.cse.tamu.edu/caverlee/csce438/">Spring 2014</a>
+<li> CSCE 489, Data Science and Analytics: <a href="http://courses.cse.tamu.edu/caverlee/csce489/">Fall 2016</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce489_2013/">Spring 2013</a>
+<li> CSCE 670, Information Storage and Retrieval (grad): <a href="http://courses.cse.tamu.edu/caverlee/csce670/">Spring 2014</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce670_2013/">Spring 2013</a>, 
+<a href="http://courses.cse.tamu.edu/caverlee/csce670_2012/">Spring 2012</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce670_2011/">Spring 2011</a>, Spring 2010, Spring 2009, Spring 2008
+<li> CSCE 689, Internet-Scale Data Management: <a href="http://courses.cse.tamu.edu/caverlee/csce689/">Fall 2010</a>, <a href="http://courses.cse.tamu.edu/caverlee/cpsc689_2007/">Fall 2007</a>
+<li> CSCE 470, Information Storage and Retrieval (undergrad): <a href="http://courses.cse.tamu.edu/caverlee/csce470/">Spring 2016</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce470_2014/">Fall 2014</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce470_2013/">Fall 2013</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce470_2012/">Fall 2012</a>, <a href="http://courses.cse.tamu.edu/caverlee/csce470_2011/">Fall 2011</a>, Fall 2010, Fall 2009, Fall 2008 [<a href="oh-the-places.html">a poem?</a>]
+<li> UPAS 181, Computer Science in the Age of Twitter (1st-year seminar): <a href="http://courses.cse.tamu.edu/caverlee/upas181/">Fall 2009</a>
+</ul>
+
+<p> <h4>Other Teaching Experience</h4>
+<ul> 
+<li> (Guest Lecturer) Georgia Tech, Introduction to Database Systems: Spring 2006, Instructor: Ling Liu
+<li> (Invited Lecturer) Emory University: Topics in Computer Science, Data Mining: Fall 2005, Instructor: Li Xiong
+<li> (Teaching Assistant) Georgia Tech, Database System Implementation: Spring 2005, Spring 2004, Instructor: Ling Liu
+<li> (Guest Lecturer) Georgia Tech, Data and Information Management: Spring 2004, Instructor: Brian Cooper
+<li> (Guest Lecturer) Georgia Tech, Advanced Internet Application Development: Spring 2004, Instructor: Ling Liu
+<li> (Teaching Assistant) Stanford University: Introduction to Economics: Fall 1999 to Spring 2001, Instructors: John Taylor and Marcelo Clerici-Arias
+</ul>
+		
+		<h3 id="service">Service</h3> 
+<ul>
+
+<li>Program committee co-chair: <a href="http://asonam.cpsc.ucalgary.ca/2016/">ASONAM 2016</a>, <a href="http://collaboratecom.org/2011/">CollaborateCom 2011</a>.
+
+<li>Senior program committee:
+CIKM 2017, 
+<a href="http://www.kdd.org/kdd2017/">KDD 2017</a>, 
+<a href="http://ijcai-16.org/">IJCAI 2016</a>, 
+<a href="http://cikm2016.cs.iupui.edu/">CIKM 2016</a>, 
+<a href="http://www.cikm-2015.org/">CIKM 2015</a>, 
+<a href="http://www.icwsm.org/2014/">ICWSM 2014</a>.
+
+<li>Program committee: 
+SIGIR 2017, ASONAM 2017, ICDCS 2017, ICWSM 2017, RecSys 2017, WSDM 2017, WWW 2017, 
+<a href="http://www.humancomputation.com/2016/">HCOMP 2016</a>, 
+<a href="http://www.sis.pitt.edu/cic2016/index.html">CIC 2016</a>
+<a href="http://icdm2016.eurecat.org/">ICDM 2016</a>, 
+<a href="http://www.icwsm.org/2015/">ICWSM 2016</a>, 
+<a href="http://www.kdd.org/kdd2016/">KDD 2016</a>, 
+<a href="http://sigir.org/sigir2016/">SIGIR 2016</a>, 
+<a href="http://usa2016.socinfo.eu/">SocInfo 2016</a>, 
+<a href="http://www.wsdm-conference.org/2016/">WSDM 2016</a>, 
+<a href="http://www2016.ca/">WWW 2016</a>, 
+
+<a href="http://www.icwsm.org/2015/">ICWSM 2015</a>, 
+<a href="http://www.cmsci.com.cn:808/CIC2015/index.html">IEEE CIC 2015</a>
+<a href="http://www.kdd.org/kdd2015/">KDD 2015</a>, 
+<a href="https://dmm.anu.edu.au/popinfo2015/">PopInfo 2015 (co-located with KDD)</a>
+<a href="http://sigir2015.org/">SIGIR 2015</a>, 
+<a href="http://socinfo2015.csp.escience.cn">SocInfo 2015</a>, 
+<a href="https://sites.google.com/site/swdmwww15/">SWDM 2015 (co-located with WWW)</a>
+<a href="http://www.wsdm-conference.org/2015/">WSDM 2015</a>, 
+<a href="http://www.www2015.it/">WWW 2015</a>. 
+
+<li>Tutorials co-chair: ICDCS 2017. 
+
+<li>Workshop organizer: <a href="http://research.microsoft.com/en-us/people/milads/taia2015.aspx">TAIA 2015 (co-located with SIGIR)</a>, 
+<a href="http://www.dl.kuis.kyoto-u.ac.jp/webquality2014/">WebQuality 2014 (co-located with WWW)</a>, 
+<a href="https://sites.google.com/site/umsocial2013/">DUBMOD 2013 (co-located with CIKM)</a>, 
+<a href="http://dubmod2014.csp.escience.cn/dct/page/70003">DUBMOD 2012 (co-located with CIKM)</a>.
+
+<li> Referee: 
+<a href="http://tois.acm.org/">ACM TOIS</a>, 
+<a href="http://tiis.acm.org/">ACM TiiS</a>, 
+<a href="http://tissec.acm.org/">ACM TISSEC</a>, 
+<a href="http://tsas.acm.org/">ACM TSAS</a>, 
+<a href="http://tweb.acm.org/">ACM TWEB</a>,
+<a href="https://www.computer.org/web/tkde">IEEE TKDE</a>,
+<a href="http://cacm.acm.org/">CACM</a>.
+
+<li> Editorial board: 
+<a href="https://link.springer.com/journal/13278">Social Network Analysis and Mining (Springer)</a>, 
+<a href="https://www.computer.org/web/tsc">IEEE Transactions on Services Computing</a>,
+<a href="http://hcjournal.org/">Human Computation</a>, 
+<a href="http://www.worldscientific.com/worldscinet/ijcis"</a>International Journal of Cooperative Information Systems</a>, 
+<a href="http://www.springer.com/social+sciences/population+studies/journal/10708">GeoJournal (Springer)</a>.
+
+<li>NSF Panelist: Fall 2009, Spring 2010, Spring 2011, Spring 2012, Fall 2013, Fall 2015, Spring 2016, Spring 2017.
+</ul>
+
+		<h3 id="awards">Awards</h3>
+<ul>
+<li> Dean of Engineering Excellence Award, 2016-2017
+<li> Holleran-Bowman Faculty Fellow, 2016-2017
+<li> <a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients">Google Research Award</a>, 2014
+<li> College of Engineering Caterpillar Teaching Excellence Award, 2013-2014
+<li> Texas A&amp;M Computer Science Undergraduate Faculty Teaching Award, 2013
+<li> NSF <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1149383">CAREER Award</a>, 2012 [<a href="http://faculty.cse.tamu.edu/caverlee/csc/">Project Page</a>]
+<li> Air Force Office of Scientific Research (AFOSR) <a href="http://www.eurekalert.org/pub_releases/2012-01/afoo-aag011112.php">Young Investigator Award</a>, 2012
+<li> Texas A&amp;M <a href="http://engineering.tamu.edu/news/2011/09/09/caverlee-named-montague-scholar/">Center for Teaching Excellence Montague-CTE Scholar</a>, 2011-2012
+<li> Defense Advanced Research Projects Agency (DARPA) <a href="http://www.darpa.mil/WorkArea/DownloadAsset.aspx?id=1793">Young Faculty Award</a>, 2010
+<li> Texas A&amp;M Computer Science Graduate Faculty Teaching Award, 2010
+<li> <a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients">Google Research Award</a>, 2010
+<li> Texas A&amp;M Computer Science Graduate Faculty Teaching Award, 2009
+<li> <a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients">Google Research Award</a>, 2008
+</ul>	
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>	
+    <script>
+      var links = document.querySelectorAll('ul.nav.navbar-nav > li > a');
+      links.forEach(function(li) {
+        li.addEventListener('click', function() {
+          document.querySelector('button.navbar-toggle').click();
+        });
+      });
+    </script>
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

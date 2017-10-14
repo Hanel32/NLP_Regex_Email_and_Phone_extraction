@@ -1,0 +1,688 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; 
+  for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) 
+    x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; 
+  if(d.images){ 
+    if(!d.MM_p) 
+      d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
+    for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ 
+	d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+    }
+  }
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  
+  if(!d) d=document; 
+  if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; 
+    n=n.substring(0,p);
+  }
+  if(!(x=d[n])&&d.all) 
+    x=d.all[n]; 
+  for (i=0;!x&&i<d.forms.length;i++) 
+    x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) 
+    x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) 
+    x=d.getElementById(n); 
+  return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; 
+  document.MM_sr=new Array; 
+  for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){
+     document.MM_sr[j++]=x; 
+     if(!x.oSrc) x.oSrc=x.src; 
+     x.src=a[i+2];
+   }
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+     document.MM_pgH=innerHeight; 
+     onresize=MM_reloadPage; 
+    }
+  }else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) 
+    location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+
+<HTML>
+<!-- MAIN HEADER FOR THE PARASOL WEBSITE
+     In charge of the banner with the logo and the graphic tabs linking
+     to the different sections of the site.
+-->
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link href="/php/includes/parasol.css" rel="stylesheet" type="text/css">
+<link href="/php/includes/seminar.css" rel="stylesheet" type="text/css">
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0
+MARGINHEIGHT=0
+onLoad="MM_preloadImages('/images/main_menu/home-o.gif',
+        '/images/main_menu/resources-o.gif',
+        '/images/main_menu/people-o.gif',
+        '/images/main_menu/general-o.gif',
+        '/images/main_menu/seminars-o.gif',
+        '/images/main_menu/research-o.gif',
+        '/images/main_menu/intranet.png',
+        '/images/main_menu/intranet-o.png')" >
+<font class="bodytext">
+<!-- parasol-www-status.incl - centralized server status page for all Parasol sites -->
+<!-- parasol-www-status-notes.incl - notifications about Parasol web server -->
+<!-- When no notifications are necessary, comment out the below (with HTML comments) -->
+<!--
+<center>
+<H4>
+<span style="border:red solid 4px;text-align:center;color:red;background-color:yellow">
+We are experiencing technical difficulties at this moment. You may need to try load the page repeatedly. We are looking forward to fix this issue. 
+</span>
+</H4>
+</center>
+-->
+<!--
+## MAINTENANCE NOTICE 
+<center>
+<H4>
+<span style="border:red solid 4px;text-align:center;color:red;background-color:yellow">
+The Parasol website site will be down for maintenance from Friday May 29 22:00 to Saturday May 30 16:00 CST.
+</span>
+</H4>
+</center>
+comment closer-->
+<!-- parasol-www-status-db-check.incl - check status of Parasol DB server -->
+
+
+<!-- EOF -->
+<!-- EOF -->
+
+<script language="Javascript" type="text/Javascript">
+<!--
+function validate_edit() {
+if (document.edit_seminar.seminar.value != '0') {
+	document.edit_seminar.submit();
+} else {
+	alert("Select semester and year to edit");
+}
+}
+
+function validate_insert(seminar_name) {
+if (document.insert_seminar.semester_to_insert.value != '0' &&
+	document.insert_seminar.year_to_insert.value != '0') {
+	var agree = confirm("New "+ seminar_name + " seminar: "+document.insert_seminar.semester_to_insert.value+" "+document.insert_seminar.year_to_insert.value);
+	if (agree)
+		document.insert_seminar.submit();
+} else {
+	alert("Select semester and year to insert");
+}
+}
+
+function confirm_delete_seminar() {
+document.delete_seminar.seminar.value = document.edit_seminar.seminar.value;
+if (document.delete_seminar.seminar.value != '0') {
+	var agree = confirm(document.edit_seminar.seminar.options[document.edit_seminar.seminar.selectedIndex].text+" Seminar will be deleted");
+	if (agree)
+		document.delete_seminar.submit();
+} else {
+	alert("Select semester and year to delete");
+}
+}
+
+function confirmDeleteTalk(obj, seminar_label, talk_label) {
+var agree = confirm("Talk: " + talk_label + "\nwill be deleted from " + seminar_label + " Seminar");
+if (agree)
+	obj.submit();
+}
+
+function confirmSpeaker(form,action) {
+if (form.speaker_id.value != '-1') {
+	var agree = confirm(form.speaker_id.options[form.speaker_id.selectedIndex].text+" will be "+action+" this talk");
+	if (agree)
+		form.submit();
+} else {
+	alert("No speaker was selected to be "+action+" this talk");
+}
+}
+
+function validateSearchSpeaker(form) {
+if (form.firstname.value == '' && form.lastname.value =='') {
+	alert("Error: either of the name boxes have to be filled to search a speaker");
+} else {
+		form.submit();
+}
+}
+
+
+function checkUrl(theUrl){
+  if(theUrl.value.match(/^(http|ftp)\:\/\/\w+([\.\-]\w+)*\.\w{2,4}(\:\d+)*([\/\.\-\?\&\%\#\=]\w+)*\/?$/i) ||
+     theUrl.value.match(/^mailto\:\w+([\.\-]\w+)*\@\w+([\.\-]\w+)*\.\w{2,4}$/i)){
+    return true;
+  } else {
+    theUrl.select();
+    theUrl.focus();
+    return false;
+  }
+}
+function validateTalkInfo(form) {
+var agree = confirm("Updating records");
+if (agree)
+	form.submit();
+}
+
+function validateBioSelection(form) {
+var some_checked=0;
+if (!form.bio.length) {
+	if (form.bio.checked)
+		some_checked = 1;
+} else {
+	for (var i=0;i<form.bio.length; i++) {
+		if (form.bio[i].checked) {
+			some_checked=1;
+			break;
+	}
+}
+}
+if (!some_checked) {
+	alert("Error: no biography has been checked yet");
+} else {
+	form.submit();
+}
+}
+
+function openwindow(mywindow){
+	window.open(mywindow,"New","status=no,toolbar=yes,scrollbars=yes,left=0,top=0,width=800,height=850");
+}
+
+
+function validate_institution(form,button_value) {
+if (form.institution.value != '-1') {
+	form.institution_action.value=button_value;
+	form.submit();
+} else {
+	alert("Select institution");
+}
+}
+
+function validate_institution_subunit(form,button_value) {
+if (form.institution_subunit.value != '-1') {
+	form.institution_subunit_action.value=button_value;
+	form.submit();
+} else {
+	alert("Select institution subunit (department, college, etc...)");
+}
+}
+
+function validate_institution_action(form,button_value,action) {
+form.institution_action.value=button_value;
+if (action == 'Edit') {
+	if (form.institution_name.value != '' && form.institution_short_name.value != '' && form.institution_url.value != '') {
+		var agree = confirm("Institution will be saved in the database");
+		if (agree)	
+			form.submit();
+
+	} else {
+		alert("Required fields are still missing");
+	}
+} else
+	form.submit();
+}
+
+
+function validate_institution_subunit_action(form,button_value,action) {
+form.institution_subunit_action.value=button_value;
+if (action == 'Edit') {
+	if (form.institution_subunit_name.value != '' && form.institution_subunit_short_name.value != '' && form.institution_subunit_url.value != '') {
+		var agree = confirm("Institution subunit will be saved in the database");
+		if (agree)	
+			form.submit();
+
+	} else {
+		alert("Required fields are still missing");
+	}
+} else
+	form.submit();
+}
+
+//-->
+</script>
+
+<!-- 
+NMA: after we remove require('pubs.inc.php') from other files 
+we put it here.
+-->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/parasol-top-18-slices_10.gif" bgcolor="#FFFFFF">
+  <tr> 
+    <td><img src="/images/header.gif" width=780 height=57 alt=""></td>
+  </tr>
+  <tr> 
+    <!-- 27feb2012/davidr: Extending from 780->859 pixels to fit new intranet
+         button. Also the table row below increased from 546->620 -->
+    <td height="31" align="left" valign="top"><table width="859" height="28" border="0" cellpadding="0" cellspacing="0" background="/images/parasol-top-18-slices_10.gif">
+        <tr> 
+          <td width="620" height="28"> 
+	  <a href="/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','/images/main_menu/home-o.gif',1)"><img src="/images/main_menu/grayspace.gif" width="71" height="29" border="0"><img src="/images/main_menu/home.gif" alt="Home" name="Home" width="42" height="29" border="0"></a>
+          <a href="/research.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('research','','/images/main_menu/research-o.gif',1)"><img src="/images/main_menu/research.gif" alt="research" name="research" width="68" height="29" border="0"></a>
+          <a href="/people/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('People','','/images/main_menu/people-o.gif',1)"><img src="/images/main_menu/people.gif" alt="People" name="People" width="54" height="29" border="0"></a>
+          <a href="/geninfo/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('General Info','','/images/main_menu/general-o.gif',1)"><img src="/images/main_menu/general.gif" alt="General Info" name="General Info" width="95" height="29" border="0"></a>
+          <a href="/seminar/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Seminars','','/images/main_menu/seminars-o.gif',1)"><img src="/images/main_menu/seminars.gif" alt="Seminars" name="Seminars" width="68" height="29" border="0"></a>
+         <a href="/resources/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Resources','','/images/main_menu/resources-o.gif',1)"><img src="/images/main_menu/resources.gif" alt="Resources" name="Resources" width="74" height="29" border="0"></a>
+         <a href="/intranet/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Intranet','','/images/main_menu/intranet-o.png',1)"><img src="/images/main_menu/intranet.png" alt="Intranet" name="Intranet" width="74" height="29" border="0"></a>
+<!-- 20jul2011/davidr removed this image was always in bad place. -->
+<!-- <img src="/images/main_menu/search.gif" width="70" height="29"> -->
+<!-- 20jul2011/davir added a search button to replace gif above. -->
+<!-- Search implementation using Google limited to site. Will complain due to
+     the search being unencrypted, i.e. we leave the https area for a while -->
+</td>
+     <td width="250" align="right"> 
+	<FORM method=GET action="http://www.google.com/search">
+          <input name="q" type="text" size="16" maxlength="600">
+          <input type=submit name=btnG value="Search">
+	  <input TYPE="hidden" value="parasol.tamu.edu" name=as_sitesearch>
+	  </FORM>
+	  </td>
+<!-- Removed link to unimplemented index functionality  -->
+<!--          <td align="right"><img src="/images/main_menu/a-z-index.gif" alt="" width=87 height=29 border="0" usemap="#AZIndex"></td> -->
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="1" cellspacing="0" bordercolor="#666666" bgcolor="#FFFFFF">
+  <tr> 
+    <td>
+	<table width="100%" border="0" cellpadding="0" cellspacing="5" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+        <tr> 
+          <td> 
+            <!--Sub Menu TITLE goes here  (i.e. Home, Research, Resources specific to this group)-->
+            <font face="Arial, Helvetica, sans-serif" size="2" class = parasol_blue>
+	    | Algorithms & Applcations Group |</font> 
+            <!--Sub MENU LINKS go here-->
+           <small>
+	    <a href="/groups/amatogroup/" > Home </a> 
+	    | <a href="/groups/amatogroup/research/"> Research </a> 
+	    | <a href="/groups/amatogroup/publications.php"> Publications </a> 
+	    | <a href="/groups/amatogroup/people.php"> People </a> 
+	    | <a href="/groups/amatogroup/resources.php"> Resources </a> 
+	    | <a href="/groups/amatogroup/news/"> News </a> 
+	   </small> 
+	</td>
+        </tr>
+      </table>
+      <!-- END SUB MENU TABLE ---------------------------------------------->
+    </td>
+  </tr>
+</table>
+
+<script language="javascript">
+function write_mail(host,mailto)
+ {
+     document.write(mailto + "@" + host);
+ }
+</script>
+
+<!-- Makes link they can click and send an email.... we don't want it so easy... -->
+<script language="javascript">
+function write_mail2(host,mailto)
+ {
+     document.write("<A HREF=\"mailto");
+     document.write(":" + mailto + "@");
+     document.write(host + "\">" + mailto + "@" + host + "<\/a>");
+ }
+</script>
+	      
+
+<title>Home Page for Nancy Amato | Parasol Laboratory</title>
+
+<p>
+<hr width="90%" noshade>
+
+<table width=100% border=0 cellpadding=0 cellspacing=2>
+<tr valign="bottom">
+
+<td align="center" valign="center">
+<IMG SRC="Pics/amato-color.jpg" alt="Picture" width="200"></td>
+
+ <td align="left">
+  <nobr><font class="pagetitle">Nancy Amato</font><br></nobr>
+  <nobr><font class="largertext"><font class="parasol_blue">Regents Professor, Unocal Professor</font></font><br></nobr>
+  <nobr><a href="/groups/amatogroup/">  Algorithms &amp; Applications Group </a><br></nobr>
+  <br>
+ 
+ <table width=100% border=0 cellpadding=0 cellspacing=2>
+
+  <tr>
+  <td align="left"><nobr><a href="/">Parasol Laboratory</a></nobr></td>
+  <td align="right"><b>url:</b></td>
+  <td align="left"><nobr><a href=".">http://parasol.tamu.edu/~amato/</nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left"><nobr><a href="http://www.cse.tamu.edu/" target="_blank">Department of Computer Science and Engineering </a></nobr></td>
+  <td align="right"><b>email:</b></td>
+  <td><nobr><script  LANGUAGE="JavaScript" type="text/javascript"> 
+      write_mail("tamu.edu","amato") </script></nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left"><nobr><a href="http://www.tamu.edu/" target="_blank">Texas A&amp;M University</a></nobr></td>
+  <td align="right"><b>office:</b></td>
+  <td align="left"><nobr>425H HRBB</nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left"><nobr><a href="http://www.cstx.gov/" target="_blank"> College Station</A>, TX 77843-3112</nobr></td>
+  <td align="right"><b>tel:</b></td>
+  <td align="left"><nobr>(979) 862-2275</nobr></td>
+  </tr>
+
+  <tr>
+  <td align="left">USA</td>
+  <td align="right"><b>fax:</b></td>
+  <td align="left"><nobr> 
+  (979) 458-0718</nobr></td>
+  </tr>
+  
+ </table>
+ </td>
+
+</tr>
+</table>
+
+<!-- ========================== -->
+<p><hr width="90%" noshade>
+
+
+
+
+<!-- Below here is where the user should be doing their personalization  -->
+<!-- An example webpage can be found in the Parasol intranet at:         -->
+<!-- /intranet/                                   -->
+
+<!--
+<img src="Pics/nancy1.sm.jpg" ALT = "Nancy's Photo" BORDER=0 width=200>
+<img src="Pics/amato.jpg" ALT = "Nancy's Photo" BORDER=0 width=200>
+<img src="Pics/amato-color.jpg" ALT = "Nancy's Photo" BORDER=0 width=200>
+<img src="Pics/swingspider.gif" ALT = "swingin' spider" BORDER=0 width=200>
+<img src="Pics/trkyb5sc.gif" ALT = "turkey day..." BORDER=0  width=200>
+<img src="Pics/ChrisRobot.gif" ALT = "happy holidays..." BORDER=0  width=200>
+-->
+
+
+<P>
+<CENTER>
+<TABLE CELLPADDING=5 CELLSPACING=2 WIDTH=100% BORDER=0>
+<TR align=top>
+<TD valign=top ALIGN=CENTER font class="bodytext">
+	<b> Research, Teaching, Etc </b>
+	<br> 
+	<!--
+	<A HREF="cv.html"> Brief CV (html)</A> &nbsp; 
+	     <A HREF="cv.ps">CV (ps)</A>
+        &nbsp;
+	-->
+	     <A HREF="cv.pdf">CV (pdf)</A>
+	     <A HREF="bio.php">brief bio</A>
+	<br> <A HREF="/groups/amatogroup/publications.php">
+			Publications</A> &nbsp;
+	     <A HREF="/groups/amatogroup/">Research Group</A> 
+	<br> <A HREF="#courses">Course Information</A>
+	<br> <A HREF="Personal/index.html"> Personal Home Page</A> 
+	<br> <A HREF="travel.php">My Travel Plans</A> 
+	</font></td>
+
+<TD valign=top align=center font class="bodytext">
+	<b> Mentoring & Other Resources </b>
+	<br> <A HREF="advice.php">Grad School & Career Advice</A>
+	<br> <A HREF="http://www.cra-w.org/dreu" target="_blank">
+		CRA-W/CDC Distributed Research Experiences for Undergraduates (DREU) </A>
+	<br> <A HREF="http://www.cra-w.org/dls" target="_blank">
+		CRA-W/CDC Distinguished Lecture Series (DLS) </A>
+	<br> <A HREF="http://www.cra-w.org/" target="_blank">
+		CRA Committee on the Status of Women in Computing Research (CRA-W)</A>
+	<br> <A HREF="http:/cra.org/cerp/" target="_blank">
+		CERP: The CRA Center for Evaluating the Research Pipeline</A>
+	<br> <A HREF="http://www.cs.tamu.edu/academics/mentoring/" target="_blank">
+		Undergraduate Mentoring</A>
+	<br> <A HREF="http://awics.cs.tamu.edu/" target="_blank">
+		AWICS - Aggie Women in CS</A>
+	</font></td>
+
+<TD valign=top align=center font class="bodytext">
+	<b> Seminars</b>
+	<br> <A HREF="/seminar/">
+		Parasol Seminars </A> 
+	<br> <A HREF="http://www.cs.tamu.edu/research/seminars/681seminar/" target="_blank">
+		681 Graduate Seminars</A> 
+	<br> <A HREF="http://www.cs.tamu.edu/research/seminars/dlecture/" target="_blank">
+		CS Dept Distinguished Lectures </A> 
+	<br> <A HREF="http://abcs.tamu.edu/abcs-seminar.html" target="_blank">
+		ABCS Seminars</A> 
+	<br> <A HREF="http://awics.cs.tamu.edu/dlecture.php" target="_blank">
+		AWICS Distinguished Lectures </A> 
+	<br> <A HREF="http://www.math.tamu.edu/research/algcom/" target="_blank">
+		Algebra and Combinatorics Seminar</A> 
+	</font></td>
+
+
+</TABLE>
+</CENTER>
+
+<p>
+<hr width="90%" noshade>
+
+<h2><a name="news"> News and Announcements!</a></h2>
+<font class="bodytext">
+<ul>
+<li> 
+<a href="/geninfo/researchAssociate07-stapl.php">
+Postdoctoral Research Associate available in Parallel Programming and C++ Library Development</a>
+</li><li> 
+I am a speaker for the <a href="http://dsp.acm.org/" target="_blank">
+ACM Distinguished Speakers Program</a> through which
+ACM Chapters, and other groups and organizations, can request 
+speakers for their events.
+The program can provide some funding for the speaker's travel.
+</li><li> 
+I'm co-chair of 
+<a href="http://cra.org/cra-w/" target="_blank"> CRA-W</a> which is starting up a new program, the 
+<a href="http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/" target="_blank">
+CRA-W GHC Research Scholars</a>,
+that provides guidance to research-interested undergraduates on how to navigate  the 
+vast offerings at the conference and opportunities to network with other
+research-focused students and mentors in small-group  settings, including 
+gatherings  on the first and last  days of the conference and some post-conference activities.
+
+</li><p><li> 
+<a href="/isrr/isrr2017/" target="_blank">
+2017 International Syposium on Robotics Research (ISRR)</a>, Dec 11-14, 2017, Puerto Varas, Chile.
+Save the date and plan to submit your best work!
+</li><li> 
+<a href="/tamurobotics2016/" target="_blank">
+2016 Texas A&M Robotics Workshop</a>, April 1, 2016, Texas A&M University. 
+The workshop featured talks by the 
+<a href="http://www.roboticsconference.org/orgcom.html" target="_blank">2016 RSS Area Chairs</a>
+who gathered at Texas A&M University to select the papers and
+plan the program for <a href="http://www.roboticsconference.org/" target="_blank">RSS 2016</a>.
+The workshop and RSS 2016 were great - check out photos and videos on the 
+<a href="http://www.roboticsconference.org/" target="_blank">RSS 2016 website</a>.
+</li><li> 
+<a href="http://www.icra2015.org/affiliated-events/texas-a-m-robotics-symposium" target="_blank">
+2016 Texas A&M Robotics Symposium</a>, January 21-22, 2015, Texas A&M University. 
+The workshop featured talks by the 
+<a href="http://www.icra2015.org/general-information/committee" target="_blank">ICRA 2015 Senior Program Committee Members</a>
+who gathered at Texas A&M University to select the papers and
+plan the program for <a href="http://www.icra2015.org/" target="_blank">ICRA 2015</a>.
+The Texas A&M Robotics Symposium and ICRA 2015 were great - check out photos and videos on the 
+<a href="http://www.icra2015.org/" target="_blank">ICRA 2015 website</a>.
+</li><li> 
+<a href="/bjarnefest/" target="_blank">
+The Workshop on Quality Software: A Festschrift for Bjarne Stroustrup</a>
+was held April 27-28, 2012 at Texas A&M University to honor and celebrate the career of Bjarne Stroustrup.
+</li><li> 
+<a href="/pact/pact2011/" target="_blank">PACT 2011</a> was held in Galveston, TX
+in October 2011.  My favorite part was getting up close and personal with the penguins.
+</li><li> 
+<a href="/volzfest/" target="_blank">
+The Workshop on Intelligent Systems: A Festschrift for Richard Volz </a>
+was held April 8-10, 2010 at Texas A&M University to honor and celebrate the career of Richard Volz.
+</li><li> 
+<a href="/rss09workshop/" target="_blank">RSS 2009 Workshop: Protein Structure, Kinematics, and Motion Planning</a> 
+was held Monday June 29, 2009, in Seattle, Washington, immediately preceeding the 
+<a href="http://www.roboticsconference.org/" target="_blank"> Robotics: Science and Systems Conference</a>.
+</li><li> 
+<a href="/pact/pact2007" target="_blank">PACT 2007</a> was held in Brasov,
+Romania in September 2007.  It was definitely a PACT to remember. 
+</li><li> 
+<!-- <a href="http://www.francofest.net"> -->
+<a href="/francofest06/" target="_blank">
+Excursions in Algorithmics: A Late Festschrift for Franco P. Preparata</a> 
+was a workshop held in October 2006 to honor and celebrate the career 
+of my advisor, Franco P. Preparata, on the occasion of his 70th birthday. 
+</li><li> 
+<a href="/wafr06" target="_blank">WAFR 2006</a> was held in New York City in
+July 2006. It was a great meeting. 
+</ul>
+</font>
+
+<h2><a name="courses"> Course Information</a></h2>
+<font class="bodytext">
+
+<p>
+<b> Fall 2017 </b>
+ <ul>
+</li><li><A HREF="Courses/681" target="_blank"> CSCE 681:</A> Graduate Seminar  
+</li><li><A HREF="Courses/engr181/2017C" target="_blank"> ENGR 181:</A> Engineering Honors Seminar I
+
+</li><li>ENGR 289: SPTP: Engineering Honors Mentoring & Team Building (for 
+<a href="http://engineering.tamu.edu/programs/eh/eh-residence-hall-(ecos)/ecos-leadership-opportunities">ECOS Coaches</a>) 
+</li><li>ENGR 489: SPTP: Engineering Honors Leadership & Project Management (for 
+<a href="http://engineering.tamu.edu/programs/eh/eh-residence-hall-(ecos)/ecos-leadership-opportunities">ECOS Fellows</a>) 
+</li>
+ </ul>
+
+<p>
+<b> Past Courses </b> (most recent previous offering)
+ <ul>
+ <li> <A HREF="Courses/626"> CSCE 626:</A> Parallel Algorithm Design and Analysis  (Spring 2015)
+ <li> <A HREF="Courses/620"> CSCE 620:</A> Computational Geometry  (Fall 2011)
+ <li> <A HREF="Courses/221"> CSCE 221H:</A> Data Structures and Algorithms, Honors  (Spring 2016)
+ <li> <A HREF="Courses/engr381/2016C" target="_blank">ENGR 381</A> Engineering Honors Seminar (Fall 2016)
+<!--
+ <li> <A HREF="Courses/221"> CSCE 221H:</A> Data Structures and Algorithms, Honors  (Spring 2013)  
+ <li> <A HREF="Courses/289-221"> CPSC 289:</A> 
+ 	Data Structures and Algorithms (Spring 2007, Pilot for new course CPSC 221)
+-->
+ <li> <A HREF="Courses/481"> CPSC 481:</A> Undergraduate Seminar  (Fall 2008)
+ <li> <A HREF="Courses/620"> CPSC 620:</A> Computational Geometry (Fall 2007)
+ <li> <A HREF="Courses/311"> CPSC 311:</A> Analysis of Algorithms (Spring 2003)
+ <li> <A HREF="Courses/689-608"> CPSC 689:</A> Special Topics: Seminars in Robotics  (Spring 2002)
+ <li> <A HREF="Courses/689"> CPSC 689:</A> Special Topics in Randomized Motion Planning (Spring 2000)
+ <li> <A HREF="Courses/629"> CPSC 629:</A> Analysis of Algorithms  (Spring 1999)
+ <li> <A HREF="Courses/433"> CPSC 433:</A> Formal Languages and Automata (Spring 1997) 
+ <li> <A HREF="Courses/643"> CPSC 643:</A> Robotics Programming (aka Motion Planning)  (Fall 1996)
+ <li> <A HREF="Courses/padova04"> Randomized Motion Planning: Techniques and Applications</A>
+   (Fall 2004, at University of Padova)
+<!--
+ <li> <A HREF="Courses/311"> CPSC 311:</A> Analysis of Algorithms, Honors  - Undergrad (Fall 00)
+ <li> <A HREF="Courses/311"> CPSC 311:</A> Analysis of Algorithms - Undergrad (Spring 00)
+ <li> <A HREF="Courses/311"> CPSC 311:</A> Analysis of Algorithms - Undergrad (Spring 98)
+ <li> CPSC 620: Computational Geometry (Fall 97)
+ <li> CPSC 626: Parallel Algorithm Design and Analysis (Fall 98)
+ <li> CPSC 626: Parallel Algorithm Design and Analysis (Spring 96)
+ <li> CPSC 311: Analysis of Algorithms - Undergrad (Fall 95)
+ <li> CPSC 629: Analysis of Algorithms - Grad (Spring 95)
+-->
+<!--
+<li> 
+<A HREF="iwtteam/"> 
+IWT Team Message Board</A>
+-->
+
+ </ul>
+
+<p>
+<b>Resources:</b>
+The Texas A&amp;M University 
+<A HREF="http://www.tamu.edu/aac/" target="_blank"> Academic Assistance Clearinghouse</A>
+provides students with information on the academic assistance programs
+and services available, free of charge, from the academic departments.
+Visit the 
+<a href="http://www.tamu.edu/aggiehonor/" target="_blank">Academic Integrity web-site</a> 
+to learn about the Honor Code at Texas A&M University.
+<p>
+The computer science department has a 
+<A HREF="http://www.cs.tamu.edu/academics/mentoring" target="_blank"> 
+Mentoring Program</a> where students can seek advice from
+a `mentor pool' of faculty volunteers.
+<p>
+Also, check out some resources I've collected 
+that may be useful as you plan
+for <a href="advice.php">Grad School and Beyond </a>.
+
+</font>
+
+
+<p>
+<hr width="90%" noshade>
+
+<p>
+<!-- Links to CSE/TAMU resources updated 2014-11-04 David Ramirez -->
+<!-- e-mail obfuscation code introduced Spring 2015 DR -->
+<table width="100%" border="0" cellspacing="10" cellpadding="5">
+  <tr> 
+    <td><div align="right"><small><br>
+        <a href="/index.php">Parasol Home</a> 
+	| <a href="/research.php">Research</a> 
+        | <a href="/people.php">People</a> 
+	| <a href="/geninfo/">General info</a> 
+	| <a href="/seminar/">Seminars</a> 
+	| <a href="/resources/">Resources</a> 
+	&nbsp;<br>
+        <br>
+	Parasol Lab,
+        301 Harvey R. Bright Bldg, 3112 TAMU, College Station, TX 77843-3112&nbsp;<br>
+<!-- 14may2015/davidr - Put the office e-mail in front page. Obfuscate it as per http://www.hcidata.info/obfuscate-email-address.htm -->
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#115;&#111;&#108;&#45;&#97;&#100;&#109;&#105;&#110;&#64;&#99;&#115;&#101;&#46;&#116;&#97;&#109;&#117;&#46;&#101;&#100;&#117;">&#112;&#97;&#114;&#97;&#115;&#111;&#108;&#45;&#97;&#100;&#109;&#105;&#110;&#64;&#99;&#115;&#101;&#46;&#116;&#97;&#109;&#117;&#46;&#101;&#100;&#117;</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+        Phone 979.458.0722 &nbsp;&nbsp;&nbsp;&nbsp;Fax 979.458.0718&nbsp;<br>
+        <br>
+        <a href="http://www.cse.tamu.edu" target="_blank">Department of Computer Science and Engineering</a> 
+	| <a href="http://aggieengineer.tamu.edu/" target="_blank">Dwight Look College of Engineering</a> 
+        <a href="http://aggieengineer.tamu.edu/" target="_blank">
+	<img src="/images/look_logo.gif" alt="Dwight Look College of Engineering" width="62" height="52" border="0" align="right"></a> 
+        | <a href="http://www.tamu.edu" target="_blank">Texas A&amp;M University</a></small>&nbsp;&nbsp;&nbsp;&nbsp; 
+        <br>
+        Privacy statement: <a href="http://engineering.tamu.edu/cse/cse-internal/privacy-and-security" target="_blank">Computer Science and Engineering</a> <a href="http://engineering.tamu.edu/policies" target="_blank">Engineering</a> <a href="http://www.tamu.edu/statements/privacy.html" target="blank">TAMU</A> 
+        <br>
+         <a href="https://itaccessibility.tamu.edu/laws_policies_standards/regulations.php" target="_blank">Web Accessibility Policy and Law</a>&nbsp;-&nbsp;<a href="https://itaccessibility.tamu.edu/laws_policies_standards/web_standards.php" target="_blank">Web Accessibility and Usability Standards</a>
+&nbsp;-
+&nbsp;
+<!-- 16apr2015/davidr - Replaced plain Webmaster e-mail by obfuscated code pointing to parasol-sysadmin -->
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#115;&#111;&#108;&#95;&#115;&#121;&#115;&#97;&#100;&#109;&#105;&#110;&#64;&#99;&#115;&#101;&#46;&#116;&#97;&#109;&#117;&#46;&#101;&#100;&#117;">&#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#87;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;</a>
+    </div></td>
+  </tr>
+</table>
+</BODY>
+</HTML>
+ 

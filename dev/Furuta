@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>Home Page for Richard Furuta</title>
+</head>
+<body bgcolor=#ffffff>
+<H1>Richard Furuta</h1>
+<br>
+<img src="pictures/furuta1aq.jpg">
+<br>
+Professor, 
+<a href="http://www.cs.tamu.edu/">Department of Computer Science</a> <br>
+Director, <a href="http://www.csdl.tamu.edu/">Center for the Study of Digital Libraries</a><br>
+Director <a href="http://www.csdl.tamu.edu/hrlhome.html">Hypermedia Research Laboratory</a> <br><br>
+Department of Computer Science <br>
+H. R. Bright Building<br>
+<a href="http://www.tamu.edu/">Texas A&M University</a><br>
+3112 TAMU<br>
+College Station, TX 77843-3112 <br><br>
+Electronic mail: <a href="mailto:furuta@cs.tamu.edu">furuta@cs.tamu.edu</a> <br>
+Telephone: (979) 845-3839 <br>
+FAX: (979) 847-8578<br>
+<br>
+Office: 402C H.R. Bright Building<br>
+<hr>
+<a href="bio.txt">A brief biographical sketch</a> and a relatively
+current vita <a href="tamubio.pdf">(PDF)</a>
+<p>
+A list of selected
+projects, activities, and offices.
+<ul>
+<li>
+Current courses (Fall 2010)
+<ul>
+<li><a href="epics">ENGR 270/470: EPICS, Engineering Projects in Community Service</a>
+</ul>
+<li><a href="courses">Previous courses</a>
+<li><a href="http://www.csdl.tamu.edu/walden/">Walden's Paths</a>--supporting
+paths over the World-Wide Web
+<li>The <a href="http://www.csdl.tamu.edu/cervantes/">Cervantes Project</a>--writings about and materials by the author of <i>Don Quijote</i>.
+<li><a href="http://www.csdl.tamu.edu/FLORA/tamuherb.htm">The Texas A&M
+University Biological Informatics Working Group</a>
+<li><a href="trellis/">Trellis,</a> a model of interaction with a formal
+hypermedia basis, and <a href="caT">caT</a>, a more recent project updating the
+Trellis work.
+<li>Journal-related editorships and boards
+<ul>
+<li><a href="http://cimic.rutgers.edu/~jdl">JDL</a>: Journal of Digital Libraries (editor-in-chief)
+<li><a href="http://jodi.ecs.soton.ac.uk/"">JoDI</a>: Journal of Digital Information (editorial board)
+<li><a href="http://www.acm.org/publications/jeric">JERIC</a>: ACM Journal of Educational Resources in Computing (editorial board)
+</ul>
+<li>Digital Libraries Conferences
+<ul>
+<li>
+Program Chair,
+<a href="http://www.csdl.tamu.edu/DL95/">
+DL95</a>, the second international conference on the theory and practice of
+digital libraries, June 11-13, 1995, in Austin, TX.
+<li>
+General Chair, <a href="http://www.csdl.tamu.edu/DL94/">DL94</a>, the first international
+conference on the theory and practive of digital libraries, June 19-21, 1994,
+in College Station, TX.
+<li>
+Program Chair, ACM DL 2000.
+<li>
+Chair, steering committee, <a href="http://www.jcdl.org/">ACM/IEEE Joint Conference on Digital Libraries</a>
+</ul>
+</ul>
+<p>
+I was
+U.S. Editor of
+<a href="furuta/epodd.html">
+<i>Electronic Publishing: Origination, Dissemination and Design</i></a>
+(a journal covering electronic publishing, hypermedia, digital libraries,
+and related topics).  <a href="http://cajun.cs.nott.ac.uk/compsci/epo/papers/epoddtoc.html">Back issues</a> are available online, courtesy of the
+University of Nottingham.
+</ul>
+<p>
+Some older research projects by my students
+<ul>
+<li>Augustine Su has investigated hand-gesture-based interfaces to computer
+interfaces.  Two aspects of his work include <a
+href="http://www.csdl.tamu.edu/~su/asl/">presentation of American Sign Language
+finger spelling</a> and a <href="http://www.csdl.tamu.edu/~su/vr/">general
+model of the and and its characteristics</a>.
+<li>Augustine Su and Shueh-Cheng Hu investigated 
+<a href="http://www.csdl.tamu.edu/topomaps/">Web-based 3D topographic visualizations,</a>
+implemented in VRML.
+<li>Vijay Kumar investigated <a
+href="http://www.csdl.tamu.edu/~vijayk/timelines.html">interactive
+timelines</a> as interfaces to information systems.
+<li>Bing Xiao (MCS, Fall 1996) prepared a <a
+href="http://www.csdl.tamu.edu/~b0x9330/tour/vrtour.html">virtual tour of the
+Texas A&M University campus</a> using VRML and QuickTime VR.
+</ul>
+
+<li> Past Chair, ACM 
+<a href="http://www.acm.org/siglink/">
+SIGLINK</a>, the ACM's special interest group on
+Hypertext and Hypermedia
+</ul>
+<hr>
+Return to the <a href="http://bush.cs.tamu.edu/hrlhome.html"><IMG SRC="logoquarter.gif" ALT="HRL" align=bottom></a>
+or the <a href="http://www.csdl.tamu.edu/"><img src="csdltiny.gif" ALT="CSDL" align=bottom></a>
+<hr>
+<a HREF="toaster.mpg">Flying Toast</A> (it must be multimedia...) and...
+<a href="http://gallus.tamu.edu/"><img src="gighenhalf.gif" align=center
+height=125 alt="gig'em hen"></a> 
+<hr>
+<address>
+Richard Furuta, <a href="mailto:furuta@cs.tamu.edu">furuta@cs.tamu.edu</a><br>
+September 30, 2002
+</address>
+</body>
+</html>

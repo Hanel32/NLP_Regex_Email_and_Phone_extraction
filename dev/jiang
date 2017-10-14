@@ -1,0 +1,204 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head>
+<!-- saved from url=(0031)http://www.biophot.caltech.edu/ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Language" content="en-us"><title>home</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<meta content="Microsoft FrontPage 5.0" name="GENERATOR">
+<meta name="ProgId" content="FrontPage.Editor.Document"></head><body leftmargin="0" topmargin="0" onload="MM_preloadImages('graphics/index_r1_c2_f2.gif','graphics/index_r2_c2_f2.gif','graphics/index_r3_c2_f2.gif','graphics/index_r4_c2_f2.gif','graphics/index_r5_c2_f2.gif','graphics/index_r6_c2_f2.gif')" bgcolor="#ffffff" marginheight="0" marginwidth="0" text="#333333">
+
+<table border="0" cellpadding="1" cellspacing="0" width="970">
+  <tbody><tr>
+    <td bgcolor="#cccccc" width="1034">
+    <table border="0" cellpadding="0" cellspacing="0" height="364" width="1150">
+      <tbody><tr>
+        <td align="left" bgcolor="#9999ff" height="364" valign="top" width="74">
+        <img src="networking.jpg" border="0" height="73" width="73"><img src="pattern.jpg" border="0" height="742" width="74"><img src="leaf.gif" border="0" height="74" width="74"></td>
+        <td align="left" bgcolor="#99ccff" height="364" valign="top" width="147">
+        <font size="1">
+        <img src="InternetGraph.jpg" border="0" height="73" width="73"><img src="Internet.jpg" border="0" height="73" width="73"></font><p>&nbsp;</p>
+        <p><b><font color="#000000" size="2">&nbsp;&nbsp;&nbsp; </font>
+        <a onmouseover="MM_swapImage('index_r2_c2','','graphics/index_r2_c2_f2.gif',1);" onmouseout="MM_swapImgRestore()" style="text-decoration: none;" href="http://faculty.cs.tamu.edu/ajiang/index.htm">
+        <font color="#000000" size="2">&nbsp;&nbsp; Home</font></a></b></p>
+        <p><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;
+        <a onmouseover="MM_swapImage('index_r3_c2','','graphics/index_r3_c2_f2.gif',1);" onmouseout="MM_swapImgRestore()" style="text-decoration: none; font-weight: 700;" href="http://faculty.cs.tamu.edu/ajiang/research.htm">
+        <font color="#000000" size="2">Research</font></a></font></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp; <b>
+        <a onmouseover="MM_swapImage('index_r5_c2','','graphics/index_r5_c2_f2.gif',1);" onmouseout="MM_swapImgRestore()" style="text-decoration: none;" href="http://faculty.cs.tamu.edu/ajiang/people.htm">
+        <font color="#000000" size="2">People</font></a></b></p>
+        <p><b><font color="#000000" size="2">&nbsp; </font><font size="2">&nbsp;&nbsp;&nbsp;
+        </font><font color="#000000" size="2">
+        &nbsp;<a style="text-decoration: none;" href="http://faculty.cs.tamu.edu/ajiang/publications.htm"><font color="#000000">Publications</font></a></font></b><a onmouseover="MM_swapImage('index_r6_c2','','graphics/index_r6_c2_f2.gif',1);" onmouseout="MM_swapImgRestore()" href="http://www.biophot.caltech.edu/faq.html"><br>
+        &nbsp;</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><font size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><br>
+        <img src="Ball.gif" border="0" height="73" width="73"><img src="tree.bmp" border="0" height="73" width="73"></p></td>
+        <td align="left" bgcolor="#ffffff" height="364" valign="top" width="929">
+        &nbsp;<p>
+        <i><font size="4">&nbsp;&nbsp;&nbsp;&nbsp; </font><font size="5">
+        &nbsp;&nbsp; Information Innovation Lab</font></i></p>
+        <blockquote>
+          <p>&nbsp;</p>
+          <p><font face="Verdana" size="2">PI: <a href="jiang.htm">Dr. Anxiao 
+          (Andrew) Jiang</a></font></p>
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Associate Professor of <br>
+</font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Department of Computer Science and Engineering and</font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Department of Electrical and Computer Engineering<br>
+              </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          Texas A&amp;M University</font></p>
+
+        </blockquote>
+        <p><br>
+        </p>
+        <blockquote>
+          <p align="justify"><font size="4">Our lab pursues research on the 
+          theory and applications of distributed information systems. We 
+          currently focus on <span style="color: rgb(204, 0, 0);">Coding for non-volatile memories</span>, and <span style="color: rgb(204, 0, 0);">Coding for natural redundancy</span>.<br>
+</font></p>
+          <p align="justify">&nbsp;</p>
+          <p align="justify"><font color="#008000" size="4"><b>A</b></font><b><font color="#008000" size="4">wards:</font></b></p>
+          <p align="justify">NSF (National Science Foundation) CAREER Award, 
+          2008.</p>
+          <p align="justify">IEEE Communication Society's DSTC Best Paper Award in <i>Signal Processing and Coding for Data 
+          Storage</i>, 2009.<br>
+</p>
+              <p align="justify">Graduate Faculty Teaching Excellence
+Award of the Computer Science and Engineering Department of Texas
+A&amp;M University, 2012-2013.<br>
+              </p>&nbsp;
+              <p align="justify"><b><font color="#008000" size="4">Research Funding:</font></b></p>
+Part of our research is supported by <span style="font-style: italic;">NSF (the National Science Foundation)</span><span style="font-style: italic;"></span> and <span style="font-style: italic;">BSF (the US-Israel
+Binational Science Foundation)</span>. Sponsorship graciously acknowledged.<br>
+              <p align="justify"><br>
+              </p>
+
+
+          
+              <p align="justify"><span style="font-weight: bold;"></span><b><font color="#008000" size="4">Tutorials:</font></b></p>"Making Error Correcting Codes Work for Flash Memory", 3-hour Tutorial
+at Flash Memory Summit, to
+present with Lara Dolecek and Steven Hetzler, August 2014.<br>
+              <br>
+"Channel
+Coding Methods for Emerging Data Storage and Memory Systems:
+Opportunities to Innovate Beyond the Hamming Metric" (<a href="Publications/tutorials/ISIT2014_Tutorial_Part_One.pdf">part 1</a>, <a href="Publications/tutorials/ISIT2014_Tutorial_Part_Two.pdf">part 2</a>), 3-hour Tutorial
+at IEEE International Sympoisum on Information Theory (ISIT), presented with Lara Dolecek, June 2014. <br>
+              <br>
+"Making Error Correcting Codes Work for Flash Memory" (<a href="FlashSummit2013%20Tutorial%20Part%201.pdf">part 1</a>, <a href="FlashSummit2013%20Tutorial%20Part%202.pdf">part 2</a>, <a href="FlashSummit2013%20Tutorial%20Part%203.pdf">part 3</a>), 3-hour Tutorial at Flash Memory Summit, presented with Charles Camp and Lara Dolecek, August 2013.<br>
+              <br>
+"<a href="NVMW_Tutorial.pdf">Signal Processing and Coding for Non-Volatile Memories</a>," 3-hour Tutorial at Non-Volatile Memories Workshop (NVMW), presented with Jason Bellorado and Eitan Yaakobi, March 2013.<br>
+              <br>
+"<a href="AsilomarTutorial.pdf">Coding Methods for Emerging Storage Systems</a>," 3-hour Tutorial at Asilomar Conference on Signals, Systems and Computers, presented with Lara Dolecek, November 2012.<br>
+              <br>
+<p align="justify"><b><font color="#008000" size="4">Patents:</font></b></p>South
+Korea patent No. US-857972-04-KR-NAT, &#8220;Joint Rewriting and Error
+Correction in Write-Once Memories,&#8221; A. Jiang, J. Bruck, E. En Gad, M.
+Langberg and Y. Li.
+              <p style="color: black;" align="justify">US patent No. 9,230,652, "<a href="US09230652B1.pdf">Flash Memories using Minimum Push Up, Multi-Cell and Multi-Permutation Schemes for Data Storage</a>," A. Jiang, E. En Gad and J. Bruck.<br>
+              </p>
+
+              <p style="color: black;" align="justify">US patent No. 9,086,955, "<a href="Patents/US-844642-05-US-RE%20%28CIT%206384%29%20%28TAMUS-3434%29_2015.07.21_LPD.07.21.pdf">Rank-Modulation Rewriting Codes for Flash Memories</a>,"A. Jiang, E. En Gad, J. Bruck and E. Yaakobi.<br>
+              </p>
+
+              <p style="color: black;" align="justify">US
+patent No. 8,780,620, "<a href="Patents/US08780620B1.pdf">Information Representation and Coding for
+Nonvolatile Memories</a>," A. Jiang, J. Bruck, Z. Wang and H. Zhou.</p>
+
+              <p style="color: black;" align="justify">US patent No. 8,245,094, "<a href="Patents/US08245094B1.pdf">Rank Modulation for Flash Memories</a>," A. Jiang, R. Mateescu, M. Schwartz and J. Bruck.&nbsp; </p>
+US patent No. 8,225,180, 
+          "<a href="Patents/US08225180B1.pdf">Error Correcting Codes for Rank Modulation</a>," A. Jiang, M. Schwartz 
+          and J. Bruck.<br>
+              <br>
+US patent No. 7,752,332, "<a href="Patents/US07752332B1.pdf">Geometric Routing in Wireless Networks</a>,' A. Jiang, J. Gao and J. Bruck.<br>
+<p style="color: black;" align="justify">US patent No. 7,656,706, 
+          &#8220;<a href="Patents/US07656706B1.pdf">Storing Information in a Memory</a>,&#8221; A. Jiang, V. Bohossian and J. 
+          Bruck.</p>
+          <p align="justify">&nbsp;</p><br>
+<p align="justify"><br>
+          </p>
+        </blockquote>
+        </td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<p><br>
+<br>
+</p>
+
+</body></html>

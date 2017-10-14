@@ -1,0 +1,120 @@
+<HTML>
+<HEAD><TITLE>Dr. Hyunyoung Lee's Home Page
+</TITLE></HEAD>
+
+<BODY bgColor=lightyellow>
+
+<!--<H2><A HREF="http://faculty.cse.tamu.edu/hlee">Hyunyoung Lee, PhD</A>
+-->
+<H3>
+Hyunyoung Lee, PhD
+<BR>
+TEES Research Associate Professor
+<BR>
+
+<table cellpadding=10>
+<TBODY>
+<tr vAlign=top>
+   <td>
+<IMG SRC="http://faculty.cse.tamu.edu/hlee/hyunyoung2010-12-17.jpg" width="150" BORDER=0 ALIGN="CENTER">
+<BR>
+</H3>
+  </td>
+
+  <td>
+<A href="http://parasol.tamu.edu/">Parasol Laboratory</A><BR>
+<A href="http://www.cse.tamu.edu/">Department of Computer Science and 
+     Engineering</A><BR>
+<A href="http://www.tamu.edu">Texas A&M University</A><BR>
+     College Station, TX 77843-3112<BR>
+     USA
+  </td>
+  <td>
+     <B>Office:</B> 410B Harvey R. Bright Building <BR>
+     <B>Phone:</B> (979) 845-2490 <BR>
+     <B>Fax:</B> (979) 845-1420 <BR>
+     <B>Email:</B> hlee [please add at sign here] cse [dot] tamu [dot] edu <BR>
+     <!--
+     <B>Summer 2017 office hours:</B>
+     By appointment, please send e-mail
+     MWF 10:00am - 11:00am;
+    
+<B>Office hours on May 3 and 4, 2016:</B>
+Tuesday (May 3) 11:20am - 12:20pm and Wednesday (May 4) 11:00am - 12noon;
+        other times by appointment, please send e-mail
+-->
+     <BR>
+  </td>
+</tr>
+</TBODY>
+</table>
+
+<HR align=left>
+
+<A HREF="http://faculty.cse.tamu.edu/hlee/cv-HyunyoungLee.pdf"><H3>
+Curriculum Vitae</H3></a>
+
+<H3>Research</H3>
+<UL>
+<LI> Interests: In general, distributed and parallel computing; 
+distributed systems and algorithms. 
+In particular, 
+dynamic distributed systems, mobile, wireless networks and sensor networks,
+and their security and fault tolerance;
+distributed shared data structures and their consistency models; 
+algorithmic models for chip-multithreaded architecture.
+<LI>
+<A HREF="http://faculty.cse.tamu.edu/hlee/Research/pub.html">Publications</A>
+</UL>
+
+<H3>Teaching (Summer I 2017)</H3>
+<UL>
+  <LI>
+    <A HREF="http://ecampus.tamu.edu/">CSCE 222 [Section 700]
+      Discrete Structures for Computing</a>
+</UL>
+<!--
+<LI>
+  <A HREF="http://faculty.cse.tamu.edu/hlee/csce222/">CSCE 222
+    [Sections 502, 503] Discrete Structures for Computing</a>
+</UL>
+<LI>
+<A HREF="http://faculty.cse.tamu.edu/hlee/csce314/">CSCE 314 [Section 501] Programming Languages</a>
+-->
+
+
+
+<H3>Other Professional Activities</H3>
+<UL>
+ <LI>
+ I serve as an editor for <A href="http://www.ijpeds.net">the 
+  International Journal of Parallel, Emergent and Distributed Systems 
+  (IJPEDS)</a>
+ <LI>
+   Invited talk
+    on 
+   "<A HREF="http://faculty.cse.tamu.edu/hlee/Research/fomc2014-invited-hyunyounglee.pdf">Consensus in Mobile Dynamic Distributed Systems</A>"
+   (<A href="http://faculty.cse.tamu.edu/hlee/Research/fomc2014-invited-hyunyounglee.key">.key file with animation</a>) given
+ at <A HREF="http://fomc2014.cs.drexel.edu/"> The 10th ACM International
+     Workshop on Foundations of Mobile Computing (FOMC 2014)</a>
+</UL>
+<!--
+ <LI>
+ Last year I helped the following conference:
+   <UL>
+   <LI> <A HREF="http://www.icccn.org/icccn13/index.html">22nd International
+   Conference on Computer Communication Networks (ICCCN 2013)</A>
+   (program committee member:
+   Track on Sensor Networks, Embedded Systems, and Pervasive Computing (SEP))
+   </UL>
+-->
+<P>
+<HR>
+
+This page was last updated on
+<spacer>
+Fri Jul 7 01:20:51 2017
+<br>
+
+</BODY>
+</HTML>
